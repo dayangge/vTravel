@@ -17,39 +17,16 @@ export default {
     return {
       swiperOption: {
         autoplay: false
-      },
-      imgList: [
-        {
-          id: '0001',
-          urlImg: '//i8.mifile.cn/v1/a1/6d64ef02-bb5c-da49-45cb-7d6861885b29!144x152.webp'
-        },
-        {
-          id: '0002',
-          urlImg: '//i8.mifile.cn/v1/a1/d29e748c-0177-5b4c-d2ab-401070713bac!144x152.webp'
-        },
-        {
-          id: '0003',
-          urlImg: '//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/9173298cc0297ce1803c43485e525358.jpg?thumb=1&w=144&h=152'
-        },
-        {
-          id: '0004',
-          urlImg: '//i8.mifile.cn/v1/a1/e560f98a-48bb-25a1-daa2-72bff8cc7c69!144x152.webp'
-        },
-        {
-          id: '0005',
-          urlImg: '//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/938f75d98244629b0d29bfc9c4323f8d.png?thumb=1&w=144&h=152'
-        },
-        {
-          id: '0006',
-          urlImg: '//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/938f75d98244629b0d29bfc9c4323f8d.png?thumb=1&w=144&h=152'
-        }
-      ]
+      }
     }
+  },
+  props: {
+    list: Array
   },
   computed: {
     pages () {
       const pages = []
-      this.imgList.forEach((item, index) => {
+      this.list.forEach((item, index) => {
         const page = Math.floor(index / 5)
         if (!pages[page]) {
           pages[page] = []

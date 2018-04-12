@@ -1,0 +1,91 @@
+{
+  "ret": true,
+  "data": {
+    "city":"北京",
+    "swiperList": [{
+      "id": "0001",
+      "imgUrl": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/7bf60972f79f94a4b69a0666a57121b2.jpg?thumb=1&w=720&h=360"
+    },
+      {
+        "id": "0002",
+        "imgUrl": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/269b56a462f2c93ede1fc5ace852a621.jpg?thumb=1&w=720&h=360"
+      },
+      {
+        "id": "0003",
+        "imgUrl": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/2b7525acde6db7c47d976479afa5d2f6.jpg?thumb=1&w=720&h=360"
+      }],
+    "iconList": [{
+      "id": "0001",
+      "urlImg": "//i8.mifile.cn/v1/a1/6d64ef02-bb5c-da49-45cb-7d6861885b29!144x152.webp"
+    },
+      {
+        "id": "0002",
+        "urlImg": "//i8.mifile.cn/v1/a1/d29e748c-0177-5b4c-d2ab-401070713bac!144x152.webp"
+      },
+      {
+        "id": "0003",
+        "urlImg": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/9173298cc0297ce1803c43485e525358.jpg?thumb=1&w=144&h=152"
+      },
+      {
+        "id": "0004",
+        "urlImg": "//i8.mifile.cn/v1/a1/e560f98a-48bb-25a1-daa2-72bff8cc7c69!144x152.webp"
+      },
+      {
+        "id": "0005",
+        "urlImg": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/938f75d98244629b0d29bfc9c4323f8d.png?thumb=1&w=144&h=152"
+      },
+      {
+        "id": "0006",
+        "urlImg": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/938f75d98244629b0d29bfc9c4323f8d.png?thumb=1&w=144&h=152"
+      }],
+    "recommendList": [{
+      "id": "0001",
+      "imgUrl": "//i8.mifile.cn/v1/a1/4b450c55-4511-0e7a-bc35-dcd1b769103e.webp",
+      "title": "小米MIX 2s",
+      "desc": "搭载高通骁龙845 年度旗舰处理器 / AI超感光双摄，DxO百分相机 / 艺术品般陶瓷机身",
+      "proLink": "https://m.mi.com/commodity/detail/10000085"
+    },
+      {
+        "id": "0002",
+        "imgUrl": "//i8.mifile.cn/v1/a1/058dd3ce-e8d2-678d-ed48-7c412b202eb6.webp",
+        "title": "小米路由器3C",
+        "desc": "一款轻便好路由",
+        "proLink": "https://m.mi.com/commodity/detail/4108"
+      },
+      {
+        "id": "0003",
+        "imgUrl": "//i8.mifile.cn/v1/a1/71a40922-389b-70fd-375c-2e409df60338.webp",
+        "title": "小米游戏本",
+        "desc": "极佳性能，震撼发布",
+        "proLink": "https://m.mi.com/commodity/detail/10000086"
+      },
+      {
+        "id": "0004",
+        "imgUrl": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/19a01dfb52bd52d9a3654eab319b457e.jpg",
+        "title": "12.5笔记本 Ari",
+        "desc": "超级续航，超窄边框,128G",
+        "proLink": "https://m.mi.com/commodity/detail/7566"
+      }],
+    "weekendList": [{
+      "id": "0001",
+      "imgUrl":"//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/c6c4f82bfad13578d0a8c822eaac3254.jpg?thumb=1&w=720&h=280",
+      "title":"小米4A 电视 50英寸",
+      "desc": "4K HDR / 人工智能 / 蓝牙语音遥控器 / 高性能 / 大存储 / 海量片源",
+      "proLink": "https://m.mi.com/commodity/detail/7575"
+    },
+      {
+        "id": "0002",
+        "imgUrl": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/c51eb3727683a6612745ca948ca1d5e7.jpg?thumb=1&w=720&h=280",
+        "title": "红米Note 5A 自拍手机",
+        "desc": "1600万柔光自拍，5.5高清大屏，流畅8核处理器，2+1卡槽，最高可扩容128GB",
+        "proLink": "https://m.mi.com/commodity/detail/10000068"
+      },
+      {
+        "id": "0003",
+        "imgUrl": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/7277e4361b17927108001e083bf1edee.jpg?thumb=1&w=720&h=280",
+        "title": "1600万美颜自拍 / 2倍变焦双摄，四轴光学防抖 / 5.5护眼屏 ",
+        "desc": "极佳性能，震撼发布",
+        "proLink": "https://m.mi.com/commodity/detail/10000069"
+      }]
+  }
+}

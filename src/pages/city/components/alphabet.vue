@@ -50,8 +50,10 @@ export default {
         this.timer = setTimeout(() => {
           const touchY = e.touches[0].clientY - 79
           const index = Math.floor((touchY - this.startY) / 20)
+          // 计算高度差值选择出正在触摸的字母
           if (index >= 0 && index < this.letters.length) {
             this.$emit('change', this.letters[index])
+            // letter变化触发list内部scrollToElement
           }
         }, 17)
       }

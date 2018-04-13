@@ -16,10 +16,12 @@
 </template>
 
 <script>
+import { mapState } from 'vuex'
 export default {
   name: 'HomeHeader',
-  props: {
-    city: String
+  computed: {
+    ...mapState(['city'])
+    // this.$store.state.city映射到 city这个属性上，上面就可以调用city
   }
 }
 </script>
@@ -48,7 +50,8 @@ export default {
       padding-left: .2rem;
       color: #ccc;
     .header-right
-      width: 1.24rem;
+      min-width: 1.04rem;
+      padding: 0 .1rem
       float: left;
       -ms-text-align-last: center
       text-align: center

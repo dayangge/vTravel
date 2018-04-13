@@ -1,6 +1,6 @@
 <template>
   <div>
-    <div class="title">爆款产品</div>
+    <div class="title border-bottom">爆款产品</div>
     <ul>
       <li class="item border-bottom" v-for="item of list" :key="item.id">
         <a :href="item.proLink" class="item-link">
@@ -31,7 +31,7 @@ export default {
   .title
     overflow: hidden
     height: .8rem;
-    line-height: .6rem;
+    line-height: .8rem;
     text-indent .2rem
     background #eaeaea
   .item
@@ -49,13 +49,15 @@ export default {
           width: 100%;
       .item-info
         padding-left .2rem
-        padding-bottom .1rem
+        padding-bottom .16rem
+        padding-top .16rem
         min-width: 0;/*解决文字溢出在flexbug问题*/
         .item-title
-          line-height: .64rem;
-          font-size: .32rem;
+          line-height: .54rem;
+          font-size: .28rem;
           ellipsis()
         .item-desc
+          font-size: .24rem;
           line-height: .4rem;
           color: #c1c1c1;
           ellipsis()

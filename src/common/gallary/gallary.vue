@@ -1,5 +1,5 @@
 <template>
-  <div class="container" @click="handleCloseGallary">
+  <div class="container" @click="handleCloseGallary" @touchmove.prevent>
     <div class="wrapper">
       <swiper :options="swiperOption">
         <swiper-slide v-for="(item, index) in imgs" :key="index">

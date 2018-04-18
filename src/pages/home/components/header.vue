@@ -5,7 +5,7 @@
     </div>
     <div class="header-input">
       <span class="iconfont">&#xe632;</span>
-      输入景点</div>
+      输入商品（这不能点(#^.^#)）</div>
     <router-link to="/city">
       <div class="header-right" >
         <span class="header-right-con">{{this.city}}</span>
@@ -39,6 +39,7 @@ export default {
       .back-icon
         font-size: .4rem;
         padding-left .2rem;
+        color: #fff;
     .header-input
       flex: 1;
       height: .64rem;

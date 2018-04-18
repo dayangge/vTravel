@@ -58,7 +58,7 @@ export default {
     }
   },
   mounted () {
-    this.scroll = new BScroll(this.$refs.search)
+    this.scroll = new BScroll(this.$refs.search, {click: true})
     // BScroll解决移动端滚动
   },
   computed: {

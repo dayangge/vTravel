@@ -3,7 +3,7 @@
     <city-header></city-header>
     <city-search :cities="cities"></city-search>
     <city-list :cities="cities" :hot="hotCities" :letter="letter"></city-list>
-    <city-alphabet :cities="cities" @change="handleLetterChange"></city-alphabet>
+    <city-alphabet :cities="cities" @change="handleLetterChange" v-show="isAlpShow"></city-alphabet>
   </div>
 </template>
 
@@ -19,7 +19,9 @@ export default {
     return {
       cities: {},
       hotCities: [],
-      letter: ''
+      letter: '',
+      fullHeight: document.documentElement.clientHeight,
+      isAlpShow: true
     }
   },
   components: {
@@ -43,10 +45,26 @@ export default {
     },
     handleLetterChange (letter) {
       this.letter = letter
+    },
+    handleAlpShow: function () {
+      let clientHeight = document.documentElement.clientHeight
+      if (clientHeight < (this.fullHeight - 100)) {
+        console.log(clientHeight)
+        this.isAlpShow = false
+      } else {
+        this.isAlpShow = true
+      }
     }
   },
   mounted () {
     this.getCityInfo()
+    this.fullHeight = document.documentElement.clientHeight
+  },
+  activated () {
+    window.addEventListener('resize', this.handleAlpShow)
+  },
+  deactivated () {
+    window.removeEventListener('resize', this.handleAlpShow)
   }
 }
 </script>

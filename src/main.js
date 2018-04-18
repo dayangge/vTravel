@@ -10,6 +10,7 @@ import VueAwesomeSwiper from 'vue-awesome-swiper'
 import store from './store/index'
 import './assets/styles/iconfont.css'
 import 'swiper/dist/css/swiper.css'
+import 'babel-polyfill'
 
 Vue.config.productionTip = false
 fastclick.attach(document.body)

@@ -26,7 +26,7 @@ export default {
       goods: {},
       bannerImg: '',
       gallaryImgs: [],
-      promotion: {}
+      promotion: []
     }
   },
   components: {

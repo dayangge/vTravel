@@ -79,5 +79,5 @@ export default {
     padding 0 .1rem
     text-align: center
     line-height: .4rem;
-    color:$bgColor ;
+    color:$headerColor ;
 </style>

@@ -65,6 +65,9 @@ export default {
     hasNoData () {
       return !this.list.length
     }
+  },
+  deactivated () {
+    this.keyword = ''
   }
 }
 </script>

@@ -38,10 +38,9 @@ export default {
   },
   activated () {
     window.addEventListener('scroll', this.handleScroll)
-    console.log('1')
   },
   deactivated () {
-    window.removeListener('scroll', this.handleScroll)
+    window.removeEventListener('scroll', this.handleScroll)
     // 解绑全局事件，因为组件内绑定window事件，会对其他组件同样有效，组件切换必须解绑
   }
 }
@@ -60,7 +59,7 @@ export default {
   text-align: center
   background: rgba(0,0,0,.8);
   .header-ads-back
-    color: #fff;
+    color: $headerColor;
     font-size: .4rem;
     padding-right:.05rem;
 .header-fixed
@@ -71,13 +70,13 @@ export default {
   height: $headerHeight;
   line-height: $headerHeight;
   text-align: center
-  color: #fff;
+  color: $headerColor;
   background: $bgColor
   z-index: 2
   .header-fixed-back
     position: absolute
     left .2rem
-    color: #fff;
+    color: $headerColor;
     font-size: .4rem;
     padding-right:.05rem;
 </style>

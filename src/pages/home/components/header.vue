@@ -1,5 +1,5 @@
 <template>
-  <div class="header">
+  <div class="header border-bottom">
     <div class="header-left">
       <span class="iconfont back-icon">&#xe624;</span>
     </div>
@@ -39,7 +39,7 @@ export default {
       .back-icon
         font-size: .4rem;
         padding-left .2rem;
-        color: #fff;
+        color: $headerColor;
     .header-input
       flex: 1;
       height: .64rem;
@@ -57,7 +57,7 @@ export default {
       -ms-text-align-last: center
       text-align: center
       font-size: 0;
-      color #ffffff
+      color $headerColor
       .header-right-con
         font-size: .24rem;
       .arrow-icon

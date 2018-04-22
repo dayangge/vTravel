@@ -75,11 +75,6 @@ export default {
   name: 'Comment',
   props: {
     commitContent: Object
-  },
-  data () {
-    return {
-      promDesc: ['赠品', '满减', '买一送一', '半价', '优惠价']
-    }
   }
 }
 </script>

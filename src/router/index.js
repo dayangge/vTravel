@@ -7,7 +7,16 @@ export default new Router({
   routes: [
     {
       path: '/',
+      redirect: '/recommend'
+    },
+    {
+      path: '/',
       name: '',
+      component: () => import('@/pages/home/home')
+    },
+    {
+      path: '/recommend',
+      name: 'Recommend',
       component: () => import('@/pages/home/home')
     },
     {

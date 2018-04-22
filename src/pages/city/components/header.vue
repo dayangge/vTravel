@@ -1,5 +1,5 @@
 <template>
-  <div class="header">
+  <div class="header border-bottom">
     城市选择
     <router-link to="/">
       <span class="iconfont city-back-icon">&#xe624;</span>
@@ -21,7 +21,7 @@ export default {
   height: $headerHeight;
   line-height: $headerHeight;
   text-align: center
-  color: #fff;
+  color: $headerColor;
   background: $bgColor
   .city-back-icon
     position: absolute
@@ -30,5 +30,5 @@ export default {
     width: .64rem;
     font-size: .4rem;
     text-align: center;
-    color: #fff;
+    color: $headerColor;
 </style>

@@ -14,7 +14,7 @@
 export default {
   name: 'Product',
   props: {
-    promotion: Object
+    promotion: Array
   },
   data () {
     return {

@@ -1,10 +1,12 @@
 <template>
-  <div>
-    <city-header></city-header>
-    <city-search :cities="cities"></city-search>
-    <city-list :cities="cities" :hot="hotCities" :letter="letter"></city-list>
-    <city-alphabet :cities="cities" @change="handleLetterChange" v-show="isAlpShow"></city-alphabet>
-  </div>
+  <slide>
+    <div class="wrapper">
+      <city-header></city-header>
+      <city-search :cities="cities"></city-search>
+      <city-list :cities="cities" :hot="hotCities" :letter="letter"></city-list>
+      <city-alphabet :cities="cities" @change="handleLetterChange" v-show="isAlpShow"></city-alphabet>
+    </div>
+  </slide>
 </template>
 
 <script>
@@ -12,6 +14,7 @@ import CityHeader from './components/header'
 import CitySearch from './components/search'
 import CityList from './components/list'
 import CityAlphabet from './components/alphabet'
+import slide from '../../common/slide/slide'
 import axios from 'axios'
 export default {
   name: 'City',
@@ -28,7 +31,8 @@ export default {
     CityHeader,
     CitySearch,
     CityList,
-    CityAlphabet
+    CityAlphabet,
+    slide
   },
   methods: {
     getCityInfo () {
@@ -70,5 +74,10 @@ export default {
 </script>
 
 <style lang="stylus" scoped>
-
+.wrapper
+  position: fixed
+  left: 0
+  right: 0
+  top: 0
+  bottom: 0
 </style>

@@ -9,13 +9,10 @@
 
 
 下面是项目截图。
-![1](https://bolg-1.oss-cn-hangzhou.aliyuncs.com/18.04.22.1.gif)
-
 
 ![2](https://bolg-1.oss-cn-hangzhou.aliyuncs.com/18.04.22.2.gif)
 
 
-![3](https://bolg-1.oss-cn-hangzhou.aliyuncs.com/18.04.22.3.gif)
 
 ## Build Setup
 

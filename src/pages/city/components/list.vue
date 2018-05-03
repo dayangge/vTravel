@@ -58,7 +58,9 @@ export default {
     })
   },
   mounted () {
-    this.scroll = new Bscroll(this.$refs.wrapper, {click: true})
+    this.scroll = new Bscroll(this.$refs.wrapper, {
+      click: true
+    })
   },
   watch: {
     letter () {

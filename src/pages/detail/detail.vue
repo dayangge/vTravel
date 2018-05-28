@@ -5,6 +5,7 @@
     <detail-list :goods="goods"></detail-list>
     <detail-product :promotion="promotion"></detail-product>
     <detail-specifictions></detail-specifictions>
+    <detail-layer></detail-layer>
     <detail-comment></detail-comment>
   </div>
 </template>
@@ -16,6 +17,7 @@ import DetailList from './components/list'
 import DetailProduct from './components/product'
 import DetailSpecifictions from './components/specifications'
 import DetailComment from './components/comment'
+import DetailLayer from './components/DetailLayer'
 import axios from 'axios'
 
 export default {
@@ -35,7 +37,8 @@ export default {
     DetailList,
     DetailProduct,
     DetailSpecifictions,
-    DetailComment
+    DetailComment,
+    DetailLayer
   },
   methods: {
     getDetailInfo () {

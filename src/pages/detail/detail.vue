@@ -7,6 +7,7 @@
     <detail-specifictions></detail-specifictions>
     <detail-layer></detail-layer>
     <detail-comment></detail-comment>
+    <shop-cart></shop-cart>
   </div>
 </template>
 
@@ -18,6 +19,7 @@ import DetailProduct from './components/product'
 import DetailSpecifictions from './components/specifications'
 import DetailComment from './components/comment'
 import DetailLayer from './components/DetailLayer'
+import ShopCart from './components/shopcart'
 import axios from 'axios'
 
 export default {
@@ -38,7 +40,8 @@ export default {
     DetailProduct,
     DetailSpecifictions,
     DetailComment,
-    DetailLayer
+    DetailLayer,
+    ShopCart
   },
   methods: {
     getDetailInfo () {

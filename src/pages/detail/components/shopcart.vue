@@ -50,7 +50,7 @@ footer
         width: .4rem;
         height: .4rem;
         margin: 0 auto .1rem;
-        background-image url("../img/home.png")
+        background-image url("../../../../static/img/home.png")
         background-color: transparent;
         background-repeat: no-repeat;
         background-position: 50%;
@@ -60,7 +60,7 @@ footer
         width: .4rem;
         height: .4rem;
         margin: 0 auto .1rem;
-        background-image: url('../img/cart.png')
+        background-image: url('../../../../static/img/cart.png')
         background-color: transparent;
         background-repeat: no-repeat;
         background-position: 50%;

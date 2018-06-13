@@ -15,6 +15,7 @@
     "babel-polyfill": "^6.26.0",
     "better-scroll": "^1.9.1",
     "fastclick": "^1.0.6",
+    "lib-flexible": "^0.3.2",
     "vue": "^2.5.2",
     "vue-awesome-swiper": "^2.6.7",
     "vue-router": "^3.0.1",

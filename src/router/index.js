@@ -20,6 +20,16 @@ export default new Router({
       component: () => import('@/pages/home/home')
     },
     {
+      path: '/cart',
+      name: 'cart',
+      component: () => import('@/pages/cart/cart')
+    },
+    {
+      path: '/classify',
+      name: 'Classify',
+      component: () => import('@/pages/classify/classify')
+    },
+    {
       path: '/city',
       name: 'City',
       component: () => import('@/pages/city/city')

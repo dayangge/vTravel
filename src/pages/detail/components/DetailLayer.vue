@@ -3,13 +3,13 @@
     <div  class="product-section" @click="show=!show">
       <div  class="service-policy-list">
         <div  class="service-policy-item">
-          <img  src="../img/img-yes.png" class="img-icon">
+          <img src="../../../../static/img/img-yes.png" class="img-icon">
           <span  class="fsc1">7天无理由退货</span></div>
         <div  class="service-policy-item" data-stat-id="a97c7db07bdf022f">
-          <img  src="../img/img-yes.png" class="img-icon">
+          <img src="../../../../static/img/img-yes.png" class="img-icon">
           <!----><span  class="fsc1">15天质量问题换货</span></div>
         <div  class="flex service-policy-item" data-stat-id="172c8cb1e3f79864">
-          <img  src="../img/img-yes.png" class="img-icon">
+          <img src="../../../../static/img/img-yes.png" class="img-icon">
           <span  class="fsc1">365天保修</span>
         </div>
       </div>

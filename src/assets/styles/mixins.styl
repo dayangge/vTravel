@@ -2,4 +2,23 @@ ellipsis()
   overflow: hidden
   white-space: nowrap
   text-overflow: ellipsis
+dividerBefore()
+  content: "";
+  position: absolute;
+  top: 50%;
+  left: 0;
+  width: .4rem;
+  border-top: 1px solid #e0e0e0;
+  transform: translate3d(-150%,-50%,0);
+  -webkit-transform: translate3d(-150%,-50%,0);
+dividerAfter()
+  content: "";
+  position: absolute;
+  top: 50%;
+  width: .4rem;
+  border-top: 1px solid #e0e0e0;
+  left: auto;
+  right: 0;
+  transform: translate3d(150%,-50%,0);
+  -webkit-transform: translate3d(150%,-50%,0);
 

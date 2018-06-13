@@ -3,6 +3,7 @@
   <HomeHeader></HomeHeader>
   <home-nav-list></home-nav-list>
   <recommend></recommend>
+  <footer-bottom></footer-bottom>
   <div></div>
 </div>
 </template>
@@ -12,6 +13,7 @@ import HomeHeader from './components/header'
 import axios from 'axios'
 import HomeNavList from './components/home-nav'
 import Recommend from '../recommend/recommend'
+import Footer from '../footer-bar/footer'
 import { mapState } from 'vuex'
 
 export default {
@@ -24,7 +26,8 @@ export default {
   components: {
     HomeHeader,
     HomeNavList,
-    Recommend
+    Recommend,
+    FooterBottom: Footer
   },
   methods: {
     getHomeInfo () {

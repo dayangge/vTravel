@@ -16,7 +16,12 @@
 
 <script>
 export default {
-  name: 'shopcart'
+  name: 'shopcart',
+  methods: {
+    add () {
+      this.$emit('changeMaskShow', true)
+    }
+  }
 }
 </script>
 

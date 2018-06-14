@@ -15,7 +15,7 @@
       </div>
     </div>
     <transition name="fade">
-      <div class="boxbox" v-show="show" @click ="close">
+      <div class="boxbox" v-show="show" @click ="close"  @touchmove.prevent>
         <div class="layer" v-show="show">
           <div class="layer-box">
             <div class="layer-box-left"></div>
@@ -29,20 +29,16 @@
           <div class="layer-box-2">
             <div class="layer-box-2-1">
               <i class="iconfont icon-icon--"></i>
-              <h3>支持花呗分期</h3>
-              <p>商品支持花呗分期</p>
+              <h3>7天无理由退货</h3>
+              <p>15天质量问题换货</p>
             </div>
             <div class="layer-box-2-1 top">
               <i class="iconfont icon-icon--"></i>
-              <h3>可以使用换新鼓励金</h3>
+              <h3>365天保修</h3>
               <p>
-                换新鼓励金通过参加以旧换新回收旧手机以后获得，旧手机享受额外补贴。
-                <router-link to="/change">现在换机</router-link>
+                365天出现任何质量问题包修
               </p>
             </div>
-          </div>
-          <div class="layer-box-button">
-            <div>关闭</div>
           </div>
         </div>
       </div>
@@ -117,7 +113,7 @@ export default {
     width 100%
     height 100%
     position fixed
-    background rgba(0, 0, 0, 0.4)
+    background rgba(0, 0, 0, 0.75)
     top 0
     bottom 0
     z-index 1

@@ -35,4 +35,8 @@ html {
 body {
   height: 100%;
 }
+body.dialog-open {
+  position: fixed;
+  width: 100%;
+}
 </style>

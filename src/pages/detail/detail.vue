@@ -4,10 +4,11 @@
     <detail-header></detail-header>
     <detail-list :goods="goods"></detail-list>
     <detail-product :promotion="promotion"></detail-product>
-    <detail-specifictions></detail-specifictions>
+    <detail-specifictions  :show="maskShow" @cartControlMaskShow="cartControlMaskShow"></detail-specifictions>
     <detail-layer></detail-layer>
     <detail-comment></detail-comment>
-    <shop-cart></shop-cart>
+    <detail-tabs></detail-tabs>
+    <shop-cart @changeMaskShow="specifictionsShow"></shop-cart>
   </div>
 </template>
 
@@ -20,6 +21,7 @@ import DetailSpecifictions from './components/specifications'
 import DetailComment from './components/comment'
 import DetailLayer from './components/DetailLayer'
 import ShopCart from './components/shopcart'
+import Tabs from './components/tabs'
 import axios from 'axios'
 
 export default {
@@ -30,7 +32,9 @@ export default {
       goods: {},
       bannerImg: '',
       gallaryImgs: [],
-      promotion: []
+      promotion: [],
+      preventBodyScroll: false,
+      maskShow: false
     }
   },
   components: {
@@ -41,7 +45,8 @@ export default {
     DetailSpecifictions,
     DetailComment,
     DetailLayer,
-    ShopCart
+    ShopCart,
+    DetailTabs: Tabs
   },
   methods: {
     getDetailInfo () {
@@ -60,6 +65,12 @@ export default {
         this.promotion = data.promotion
         // const data = res.data
       }
+    },
+    specifictionsShow (flag) {
+      this.maskShow = flag
+    },
+    cartControlMaskShow (flag) {
+      this.maskShow = flag
     }
   },
   mounted () {
@@ -71,4 +82,6 @@ export default {
 <style lang="stylus" scoped>
 .content
   background: #efefef
+.noScoll
+  overflow-y: hidden;
 </style>

@@ -1,0 +1,517 @@
+{
+  "code": 0,
+  "data": {
+    "tabs": [
+      {
+        "name": "推荐",
+        "page_type": "home",
+        "page_id": 0,
+        "is_default": false,
+        "word_selected_color": "#ed5b00",
+        "word_unselected_color": "#747474",
+        "bg_img": "",
+        "bg_img_webp": ""
+      },
+      {
+        "name": "618返场",
+        "page_type": "tab",
+        "page_id": 6057,
+        "is_default": false,
+        "word_selected_color": "#ed5b00",
+        "word_unselected_color": "#747474",
+        "bg_img": "",
+        "bg_img_webp": ""
+      },
+      {
+        "name": "智能",
+        "page_type": "tab",
+        "page_id": 1860,
+        "is_default": false,
+        "word_selected_color": "#ed5b00",
+        "word_unselected_color": "#747474",
+        "bg_img": "",
+        "bg_img_webp": ""
+      },
+      {
+        "name": "电视",
+        "page_type": "tab",
+        "page_id": 6026,
+        "is_default": false,
+        "word_selected_color": "#ed5b00",
+        "word_unselected_color": "#747474",
+        "bg_img": "",
+        "bg_img_webp": ""
+      },
+      {
+        "name": "电脑",
+        "page_type": "tab",
+        "page_id": 1865,
+        "is_default": false,
+        "word_selected_color": "#ed5b00",
+        "word_unselected_color": "#747474",
+        "bg_img": "",
+        "bg_img_webp": ""
+      },
+      {
+        "name": "手机",
+        "page_type": "tab",
+        "page_id": 1864,
+        "is_default": false,
+        "word_selected_color": "#ed5b00",
+        "word_unselected_color": "#747474",
+        "bg_img": "",
+        "bg_img_webp": ""
+      },
+      {
+        "name": "游戏控",
+        "page_type": "tab",
+        "page_id": 6111,
+        "is_default": false,
+        "word_selected_color": "#ed5b00",
+        "word_unselected_color": "#747474",
+        "bg_img": "",
+        "bg_img_webp": ""
+      },
+      {
+        "name": "双摄",
+        "page_type": "tab",
+        "page_id": 5711,
+        "is_default": false,
+        "word_selected_color": "#ed5b00",
+        "word_unselected_color": "#747474",
+        "bg_img": "",
+        "bg_img_webp": ""
+      },
+      {
+        "name": "全面屏",
+        "page_type": "tab",
+        "page_id": 3257,
+        "is_default": false,
+        "word_selected_color": "#ed5b00",
+        "word_unselected_color": "#747474",
+        "bg_img": "",
+        "bg_img_webp": ""
+      },
+      {
+        "name": "生活周边",
+        "page_type": "tab",
+        "page_id": 1861,
+        "is_default": false,
+        "word_selected_color": "#ed5b00",
+        "word_unselected_color": "#747474",
+        "bg_img": "",
+        "bg_img_webp": ""
+      },
+      {
+        "name": "盒子",
+        "page_type": "tab",
+        "page_id": 2567,
+        "is_default": false,
+        "word_selected_color": "#ed5b00",
+        "word_unselected_color": "#747474",
+        "bg_img": "",
+        "bg_img_webp": ""
+      }
+    ],
+    "data": {
+      "header": {},
+      "sections": [
+        {
+          "view_type": "cells_auto_fill",
+          "block_id": "3195276",
+          "body": {
+            "bg_color": "#ffffff",
+            "w": 720,
+            "h": 360,
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "w": 720,
+                "h": 360,
+                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/f576fbe779896aa3fab6db79a50b37d7.jpg",
+                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/f576fbe779896aa3fab6db79a50b37d7.jpg",
+                "img_url_color": "#FFFFFF",
+                "action": {
+                  "type": "none",
+                  "log_code": "313257waptabcells_auto_fill001001#t=normal\u0026act=other\u0026page=tab\u0026page_id=3257\u0026bid=3195276.1"
+                },
+                "path_type": "image",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "recommend_flag": "0",
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "cells_auto_fill",
+          "block_id": "3195277",
+          "body": {
+            "bg_color": "#ffffff",
+            "w": 720,
+            "h": 198,
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "w": 720,
+                "h": 198,
+                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/64ffc627a7a267542395328ef24777a3.jpg",
+                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/64ffc627a7a267542395328ef24777a3.jpg",
+                "img_url_color": "#FFFFFF",
+                "action": {
+                  "type": "none",
+                  "log_code": "313257waptabcells_auto_fill001002#t=normal\u0026act=other\u0026page=tab\u0026page_id=3257\u0026bid=3195277.1"
+                },
+                "path_type": "image",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "recommend_flag": "0",
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "divider_line",
+          "body": {
+            "line_color": "#c00436",
+            "line_height": "16",
+            "height": "0",
+            "width": "0",
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "list_one_type14",
+          "body": {
+            "bg_color": "#c00436",
+            "btn_txt_color": "#ffffff",
+            "btn_color": "#ea625b",
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/de63f74a5e4327f83454a626bf1bca1b.jpg?w=1044\u0026h=654",
+                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/de63f74a5e4327f83454a626bf1bca1b.jpg?w=1044\u0026h=654",
+                "img_url_color": "#FFFFFF",
+                "action": {
+                  "type": "product",
+                  "path": "10000085",
+                  "log_code": "313257waptablist_one_type14001004#t=product\u0026act=other\u0026page=tab\u0026page_id=3257\u0026bid=3195279.1\u0026pid=10000085"
+                },
+                "btn_txt": "立即购买",
+                "show_price_qi": true,
+                "product_id": "10000085",
+                "product_name": "小米MIX 2S",
+                "product_brief": "骁龙845 旗舰处理器，AI双摄相机",
+                "product_price": "3299",
+                "product_org_price": "3299",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "divider_line",
+          "body": {
+            "line_color": "#c00436",
+            "line_height": "16",
+            "height": "0",
+            "width": "0",
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "list_one_type14",
+          "body": {
+            "bg_color": "#c00436",
+            "btn_txt_color": "#ffffff",
+            "btn_color": "#ea625b",
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/0c49bbc29925d693a1e16a3b8508d369.jpg?w=1044\u0026h=654",
+                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/0c49bbc29925d693a1e16a3b8508d369.jpg?w=1044\u0026h=654",
+                "img_url_color": "#FFFFFF",
+                "action": {
+                  "type": "product",
+                  "path": "10000084",
+                  "log_code": "313257waptablist_one_type14001006#t=product\u0026act=other\u0026page=tab\u0026page_id=3257\u0026bid=3195281.1\u0026pid=10000084"
+                },
+                "btn_txt": "立即购买",
+                "show_price_qi": true,
+                "product_id": "10000084",
+                "product_name": "红米Note 5 AI双摄",
+                "product_brief": "1.4μm大像素 AI双摄",
+                "product_price": "999",
+                "product_org_price": "1099",
+                "product_tag_array": [
+                  "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/de2f450efb4cd6302f4fa04432b6e2bc.png?w=167\u0026h=167"
+                ],
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "divider_line",
+          "body": {
+            "line_color": "#c00436",
+            "line_height": "16",
+            "height": "0",
+            "width": "0",
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "list_one_type14",
+          "body": {
+            "bg_color": "#c00436",
+            "btn_txt_color": "#ffffff",
+            "btn_color": "#ea625b",
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "img_url": "//i8.mifile.cn/v1/a1/67bbeb3d-2beb-65e9-3f9d-d10055b76c28.webp?w=1044\u0026h=654",
+                "img_url_webp": "//i8.mifile.cn/v1/a1/67bbeb3d-2beb-65e9-3f9d-d10055b76c28.webp?w=1044\u0026h=654",
+                "img_url_color": "#BAC4C4",
+                "action": {
+                  "type": "product",
+                  "path": "10000080",
+                  "log_code": "313257waptablist_one_type14001008#t=product\u0026act=other\u0026page=tab\u0026page_id=3257\u0026bid=3195283.1\u0026pid=10000080"
+                },
+                "btn_txt": "立即购买",
+                "show_price_qi": true,
+                "product_id": "10000080",
+                "product_name": "红米5 Plus",
+                "product_brief": "全面屏，4000mAh大电量",
+                "product_price": "799",
+                "product_org_price": "999",
+                "product_tag_array": [
+                  "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/46db8d25446053982fba551d425515e6.png?w=167\u0026h=167"
+                ],
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "divider_line",
+          "body": {
+            "line_color": "#c00436",
+            "line_height": "16",
+            "height": "0",
+            "width": "0",
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "list_one_type14",
+          "body": {
+            "bg_color": "#c00436",
+            "btn_txt_color": "#ffffff",
+            "btn_color": "#ea625b",
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/fd14ae688f3127949bd667dd148caaf1.jpg?w=1044\u0026h=654",
+                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/fd14ae688f3127949bd667dd148caaf1.jpg?w=1044\u0026h=654",
+                "img_url_color": "#FFFFFF",
+                "action": {
+                  "type": "product",
+                  "path": "10000079",
+                  "log_code": "313257waptablist_one_type14001010#t=product\u0026act=other\u0026page=tab\u0026page_id=3257\u0026bid=3195285.1\u0026pid=10000079"
+                },
+                "btn_txt": "立即购买",
+                "show_price_qi": true,
+                "product_id": "10000079",
+                "product_name": "红米5",
+                "product_brief": "前置柔光自拍，骁龙处理器，超长续航",
+                "product_price": "699",
+                "product_org_price": "799",
+                "product_tag_array": [
+                  "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/46db8d25446053982fba551d425515e6.png?w=167\u0026h=167"
+                ],
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "cells_auto_fill",
+          "block_id": "3195294",
+          "body": {
+            "bg_color": "#ffffff",
+            "w": 720,
+            "h": 198,
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "w": 720,
+                "h": 198,
+                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/6c3706d0491cc7e3969b16effa8f1ad8.png",
+                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/6c3706d0491cc7e3969b16effa8f1ad8.png",
+                "img_url_color": "#FFFFFF",
+                "action": {
+                  "type": "none",
+                  "log_code": "313257waptabcells_auto_fill001011#t=normal\u0026act=other\u0026page=tab\u0026page_id=3257\u0026bid=3195294.1"
+                },
+                "path_type": "image",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "recommend_flag": "0",
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "list_one_type12",
+          "body": {
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/8e01d7ba5d063f896b026e67b9cfee40.jpg?w=1080\u0026h=540",
+                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/8e01d7ba5d063f896b026e67b9cfee40.jpg?w=1080\u0026h=540",
+                "img_url_color": "#FFFFFF",
+                "action": {
+                  "type": "product",
+                  "path": "10000085",
+                  "log_code": "313257waptablist_one_type12001012#t=product\u0026act=other\u0026page=tab\u0026page_id=3257\u0026bid=3195295.1\u0026pid=10000085"
+                },
+                "btn_txt": "立即购买",
+                "show_price_qi": true,
+                "product_id": "10000085",
+                "product_name": "小米MIX 2S",
+                "product_brief": "骁龙845 旗舰处理器，AI双摄相机",
+                "product_price": "3299",
+                "product_org_price": "3299",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "list_one_type12",
+          "body": {
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "img_url": "//i8.mifile.cn/v1/a1/09a0d52e-7c23-fa4f-7299-65f0ba02b62f.webp?w=1080\u0026h=540",
+                "img_url_webp": "//i8.mifile.cn/v1/a1/09a0d52e-7c23-fa4f-7299-65f0ba02b62f.webp?w=1080\u0026h=540",
+                "img_url_color": "#BBBEC3",
+                "action": {
+                  "type": "product",
+                  "path": "7154",
+                  "log_code": "313257waptablist_one_type12001013#t=product\u0026act=other\u0026page=tab\u0026page_id=3257\u0026bid=3195296.1\u0026pid=7154"
+                },
+                "btn_txt": "立即购买",
+                "product_id": "7154",
+                "product_name": "小米MIX 2 全陶瓷尊享版 白色",
+                "product_brief": "全面屏2.0，Unibody 全陶瓷",
+                "product_price": "3499",
+                "product_org_price": "4699",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "list_one_type12",
+          "body": {
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "img_url": "//i8.mifile.cn/v1/a1/a2f6ebfa-f95e-43c6-8964-e0dd7f4e2711.webp?w=1080\u0026h=540",
+                "img_url_webp": "//i8.mifile.cn/v1/a1/a2f6ebfa-f95e-43c6-8964-e0dd7f4e2711.webp?w=1080\u0026h=540",
+                "img_url_color": "#B9AAA7",
+                "action": {
+                  "type": "product",
+                  "path": "10000070",
+                  "log_code": "313257waptablist_one_type12001014#t=product\u0026act=other\u0026page=tab\u0026page_id=3257\u0026bid=3195310.1\u0026pid=10000070"
+                },
+                "btn_txt": "立即购买",
+                "show_price_qi": true,
+                "product_id": "10000070",
+                "product_name": "小米MIX 2",
+                "product_brief": "5.99\"大屏，骁龙835旗舰处理器 ",
+                "product_price": "2599",
+                "product_org_price": "3299",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        }
+      ]
+    },
+    "default_type": "tab",
+    "default_id": 3257
+  },
+  "result": "ok"
+}

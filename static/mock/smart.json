@@ -1,0 +1,3297 @@
+{
+  "code": 0,
+  "data": {
+    "tabs": [
+      {
+        "name": "推荐",
+        "page_type": "home",
+        "page_id": 0,
+        "is_default": false,
+        "word_selected_color": "#ed5b00",
+        "word_unselected_color": "#747474",
+        "bg_img": "",
+        "bg_img_webp": ""
+      },
+      {
+        "name": "618返场",
+        "page_type": "tab",
+        "page_id": 6057,
+        "is_default": false,
+        "word_selected_color": "#ed5b00",
+        "word_unselected_color": "#747474",
+        "bg_img": "",
+        "bg_img_webp": ""
+      },
+      {
+        "name": "智能",
+        "page_type": "tab",
+        "page_id": 1860,
+        "is_default": false,
+        "word_selected_color": "#ed5b00",
+        "word_unselected_color": "#747474",
+        "bg_img": "",
+        "bg_img_webp": ""
+      },
+      {
+        "name": "电视",
+        "page_type": "tab",
+        "page_id": 6026,
+        "is_default": false,
+        "word_selected_color": "#ed5b00",
+        "word_unselected_color": "#747474",
+        "bg_img": "",
+        "bg_img_webp": ""
+      },
+      {
+        "name": "电脑",
+        "page_type": "tab",
+        "page_id": 1865,
+        "is_default": false,
+        "word_selected_color": "#ed5b00",
+        "word_unselected_color": "#747474",
+        "bg_img": "",
+        "bg_img_webp": ""
+      },
+      {
+        "name": "手机",
+        "page_type": "tab",
+        "page_id": 1864,
+        "is_default": false,
+        "word_selected_color": "#ed5b00",
+        "word_unselected_color": "#747474",
+        "bg_img": "",
+        "bg_img_webp": ""
+      },
+      {
+        "name": "游戏控",
+        "page_type": "tab",
+        "page_id": 6111,
+        "is_default": false,
+        "word_selected_color": "#ed5b00",
+        "word_unselected_color": "#747474",
+        "bg_img": "",
+        "bg_img_webp": ""
+      },
+      {
+        "name": "双摄",
+        "page_type": "tab",
+        "page_id": 5711,
+        "is_default": false,
+        "word_selected_color": "#ed5b00",
+        "word_unselected_color": "#747474",
+        "bg_img": "",
+        "bg_img_webp": ""
+      },
+      {
+        "name": "全面屏",
+        "page_type": "tab",
+        "page_id": 3257,
+        "is_default": false,
+        "word_selected_color": "#ed5b00",
+        "word_unselected_color": "#747474",
+        "bg_img": "",
+        "bg_img_webp": ""
+      },
+      {
+        "name": "生活周边",
+        "page_type": "tab",
+        "page_id": 1861,
+        "is_default": false,
+        "word_selected_color": "#ed5b00",
+        "word_unselected_color": "#747474",
+        "bg_img": "",
+        "bg_img_webp": ""
+      },
+      {
+        "name": "盒子",
+        "page_type": "tab",
+        "page_id": 2567,
+        "is_default": false,
+        "word_selected_color": "#ed5b00",
+        "word_unselected_color": "#747474",
+        "bg_img": "",
+        "bg_img_webp": ""
+      }
+    ],
+    "data": {
+      "header": {},
+      "sections": [
+        {
+          "view_type": "gallery",
+          "body": {
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "w": 720,
+                "h": 360,
+                "material_id": 7933,
+                "ad_position_id": 1004,
+                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/ce135066730fa1b589a4d2f6562d3e6c.jpg?bg=FFFFFF",
+                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/ce135066730fa1b589a4d2f6562d3e6c.jpg?bg=FFFFFF",
+                "img_url_color": "#FFFFFF",
+                "action": {
+                  "type": "product",
+                  "path": "8131",
+                  "log_code": "311860waptabgallery001001#t=ad\u0026act=product\u0026page=tab\u0026pid=8131\u0026page_id=1860\u0026bid=3000504.1\u0026adp=1004\u0026adm=7933"
+                },
+                "margin_left": 0,
+                "margin_right": 0
+              },
+              {
+                "w": 720,
+                "h": 360,
+                "material_id": 7583,
+                "ad_position_id": 1097,
+                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/f97791e12b3b97986c1a95957f68a54a.jpg?bg=FFFFFF",
+                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/f97791e12b3b97986c1a95957f68a54a.jpg?bg=FFFFFF",
+                "img_url_color": "#FFFFFF",
+                "action": {
+                  "type": "product",
+                  "path": "8026",
+                  "log_code": "311860waptabgallery002001#t=ad\u0026act=product\u0026page=tab\u0026pid=8026\u0026page_id=1860\u0026bid=3000504.2\u0026adp=1097\u0026adm=7583"
+                },
+                "margin_left": 0,
+                "margin_right": 0
+              },
+              {
+                "w": 720,
+                "h": 360,
+                "material_id": 6960,
+                "ad_position_id": 1003,
+                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/ef4641bb035d7ae1dd56c8d024bd4af7.jpg?bg=FFFFFF",
+                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/ef4641bb035d7ae1dd56c8d024bd4af7.jpg?bg=FFFFFF",
+                "img_url_color": "#FFFFFF",
+                "action": {
+                  "type": "product",
+                  "path": "7797",
+                  "log_code": "311860waptabgallery003001#t=ad\u0026act=product\u0026page=tab\u0026pid=7797\u0026page_id=1860\u0026bid=3000504.3\u0026adp=1003\u0026adm=6960"
+                },
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "cells_auto_fill",
+          "is_show": "Y",
+          "body": {
+            "w": 720,
+            "h": 152,
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "w": 144,
+                "h": 152,
+                "material_id": 7394,
+                "ad_position_id": 2199,
+                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/4f333c03e59b1e9fb8441905cf2759ca.jpg?bg=FFFFFF",
+                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/4f333c03e59b1e9fb8441905cf2759ca.jpg?bg=FFFFFF",
+                "img_url_color": "#FFFFFF",
+                "action": {
+                  "type": "channel",
+                  "path": "5582",
+                  "log_code": "311860waptabcells_auto_fill001002#t=ad\u0026act=other\u0026page=tab\u0026page_id=1860\u0026bid=3212939.1\u0026adp=2199\u0026adm=7394"
+                },
+                "path_type": "image",
+                "margin_left": 0,
+                "margin_right": 0
+              },
+              {
+                "x": 144,
+                "w": 144,
+                "h": 152,
+                "material_id": 7395,
+                "ad_position_id": 2200,
+                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/8fd43f63f8b1e886cabe84d4df2ffd14.jpg?bg=FFFFFF",
+                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/8fd43f63f8b1e886cabe84d4df2ffd14.jpg?bg=FFFFFF",
+                "img_url_color": "#FFFFFF",
+                "action": {
+                  "type": "channel",
+                  "path": "5583",
+                  "log_code": "311860waptabcells_auto_fill002002#t=ad\u0026act=other\u0026page=tab\u0026page_id=1860\u0026bid=3212939.2\u0026adp=2200\u0026adm=7395"
+                },
+                "path_type": "image",
+                "margin_left": 0,
+                "margin_right": 0
+              },
+              {
+                "x": 288,
+                "w": 144,
+                "h": 152,
+                "material_id": 7396,
+                "ad_position_id": 2201,
+                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/9874c9bc4efe1a287c891f52c015710e.jpg?bg=FFFFFF",
+                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/9874c9bc4efe1a287c891f52c015710e.jpg?bg=FFFFFF",
+                "img_url_color": "#FFFFFF",
+                "action": {
+                  "type": "channel",
+                  "path": "5584",
+                  "log_code": "311860waptabcells_auto_fill003002#t=ad\u0026act=other\u0026page=tab\u0026page_id=1860\u0026bid=3212939.3\u0026adp=2201\u0026adm=7396"
+                },
+                "path_type": "image",
+                "margin_left": 0,
+                "margin_right": 0
+              },
+              {
+                "x": 432,
+                "w": 144,
+                "h": 152,
+                "material_id": 7397,
+                "ad_position_id": 2202,
+                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/85e937f743da631cfb1ba37a32bc9185.jpg?bg=FFFFFF",
+                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/85e937f743da631cfb1ba37a32bc9185.jpg?bg=FFFFFF",
+                "img_url_color": "#FFFFFF",
+                "action": {
+                  "type": "channel",
+                  "path": "5804",
+                  "log_code": "311860waptabcells_auto_fill004002#t=ad\u0026act=other\u0026page=tab\u0026page_id=1860\u0026bid=3212939.4\u0026adp=2202\u0026adm=7397"
+                },
+                "path_type": "image",
+                "margin_left": 0,
+                "margin_right": 0
+              },
+              {
+                "x": 576,
+                "w": 144,
+                "h": 152,
+                "material_id": 7398,
+                "ad_position_id": 2203,
+                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/bc30d634c65610ecc47ad4c046b09f70.jpg?bg=FFFFFF",
+                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/bc30d634c65610ecc47ad4c046b09f70.jpg?bg=FFFFFF",
+                "img_url_color": "#FFFFFF",
+                "action": {
+                  "type": "channel",
+                  "path": "5586",
+                  "log_code": "311860waptabcells_auto_fill005002#t=ad\u0026act=other\u0026page=tab\u0026page_id=1860\u0026bid=3212939.5\u0026adp=2203\u0026adm=7398"
+                },
+                "path_type": "image",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "divider_line",
+          "body": {
+            "line_color": "#f5f5f5",
+            "line_height": "24",
+            "height": "0",
+            "width": "0",
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "cells_auto_fill",
+          "block_id": "3000512",
+          "body": {
+            "w": 720,
+            "h": 80,
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "w": 720,
+                "h": 80,
+                "img_url": "//i8.mifile.cn/v1/a1/f2635080-3835-53f0-5f80-ac1e50e0784c.webp",
+                "img_url_webp": "//i8.mifile.cn/v1/a1/f2635080-3835-53f0-5f80-ac1e50e0784c.webp",
+                "img_url_color": "#F9F9F9",
+                "action": {
+                  "type": "none",
+                  "log_code": "311860waptabcells_auto_fill001006#t=normal\u0026act=other\u0026page=tab\u0026page_id=1860\u0026bid=3000512.1"
+                },
+                "path_type": "image",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "recommend_flag": "0",
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "list_two_type1",
+          "body": {
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/9fbc4df86c8377ff7411c9942c003fff.jpg?w=1080\u0026h=1080",
+                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/9fbc4df86c8377ff7411c9942c003fff.jpg?w=1080\u0026h=1080",
+                "img_url_color": "#FFFFFF",
+                "action": {
+                  "type": "product",
+                  "path": "3377",
+                  "log_code": "311860waptablist_two_type1001007#t=product\u0026act=other\u0026page=tab\u0026page_id=1860\u0026bid=3229855.1\u0026pid=3377"
+                },
+                "product_id": "3377",
+                "product_name": "小米净水器（厨下式）",
+                "product_brief": "400加仑大流量，隐藏安装",
+                "product_price": "1999",
+                "product_org_price": "1999",
+                "margin_left": 0,
+                "margin_right": 0
+              },
+              {
+                "img_url": "//i8.mifile.cn/v1/a1/8ef1164d-e1c5-ed1e-f827-b9a201520586.webp?w=1080\u0026h=1080",
+                "img_url_webp": "//i8.mifile.cn/v1/a1/8ef1164d-e1c5-ed1e-f827-b9a201520586.webp?w=1080\u0026h=1080",
+                "img_url_color": "#D5D7DC",
+                "action": {
+                  "type": "product",
+                  "path": "4802",
+                  "log_code": "311860waptablist_two_type1002007#t=product\u0026act=other\u0026page=tab\u0026page_id=1860\u0026bid=3229855.2\u0026pid=4802"
+                },
+                "product_id": "4802",
+                "product_name": "米家空气净化器Pro",
+                "product_brief": "大空间，快循环",
+                "product_price": "1499",
+                "product_org_price": "1499",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "list_two_type1",
+          "body": {
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "img_url": "//i8.mifile.cn/v1/a1/5f78e5ba-cd16-0c67-3784-c64651596f94.webp?w=1080\u0026h=1080",
+                "img_url_webp": "//i8.mifile.cn/v1/a1/5f78e5ba-cd16-0c67-3784-c64651596f94.webp?w=1080\u0026h=1080",
+                "img_url_color": "#D7E3E0",
+                "action": {
+                  "type": "product",
+                  "path": "4348",
+                  "log_code": "311860waptablist_two_type1001008#t=product\u0026act=other\u0026page=tab\u0026page_id=1860\u0026bid=3214778.1\u0026pid=4348"
+                },
+                "product_id": "4348",
+                "product_name": "米家扫地机器人",
+                "product_brief": "智商高，扫得干净扫得快",
+                "product_price": "1699",
+                "product_org_price": "1699",
+                "margin_left": 0,
+                "margin_right": 0
+              },
+              {
+                "img_url": "//i8.mifile.cn/v1/a1/e46f3ec2-8537-b2b6-3590-196e98fa44f7.webp?w=1080\u0026h=1080",
+                "img_url_webp": "//i8.mifile.cn/v1/a1/e46f3ec2-8537-b2b6-3590-196e98fa44f7.webp?w=1080\u0026h=1080",
+                "img_url_color": "#9BA3A5",
+                "action": {
+                  "type": "product",
+                  "path": "7621",
+                  "log_code": "311860waptablist_two_type1002008#t=product\u0026act=other\u0026page=tab\u0026page_id=1860\u0026bid=3214778.2\u0026pid=7621"
+                },
+                "show_price_qi": true,
+                "product_id": "7621",
+                "product_name": "Amazfit Cor手环",
+                "product_brief": "彩色IPS触摸屏，50米游泳防水",
+                "product_price": "299",
+                "product_org_price": "299",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "list_two_type1",
+          "body": {
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/e8121b43506f63797ef6221b4fc7f584.jpg?w=1080\u0026h=1080",
+                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/e8121b43506f63797ef6221b4fc7f584.jpg?w=1080\u0026h=1080",
+                "img_url_color": "#FFFFFF",
+                "action": {
+                  "type": "product",
+                  "path": "8026",
+                  "log_code": "311860waptablist_two_type1001009#t=product\u0026act=other\u0026page=tab\u0026page_id=1860\u0026bid=3003275.1\u0026pid=8026"
+                },
+                "product_id": "8026",
+                "product_name": "小米米家智能摄像机云台版",
+                "product_brief": "高清画质，守护家的每一面",
+                "product_price": "199",
+                "product_org_price": "199",
+                "product_tag": "//i8.mifile.cn/v1/a1/289039eb-c3ed-7c26-69c3-5b07b72a797d.webp?w=120\u0026h=48",
+                "product_tag_webp": "//i8.mifile.cn/v1/a1/289039eb-c3ed-7c26-69c3-5b07b72a797d.webp?w=120\u0026h=48",
+                "margin_left": 0,
+                "margin_right": 0
+              },
+              {
+                "img_url": "//i8.mifile.cn/v1/a1/4d2f583e-e546-289f-3983-fdae7ef36e15.webp?w=1080\u0026h=1080",
+                "img_url_webp": "//i8.mifile.cn/v1/a1/4d2f583e-e546-289f-3983-fdae7ef36e15.webp?w=1080\u0026h=1080",
+                "img_url_color": "#C8CFD1",
+                "action": {
+                  "type": "product",
+                  "path": "2774",
+                  "log_code": "311860waptablist_two_type1002009#t=product\u0026act=other\u0026page=tab\u0026page_id=1860\u0026bid=3003275.2\u0026pid=2774"
+                },
+                "product_id": "2774",
+                "product_name": "九号平衡车",
+                "product_brief": "年轻人的酷玩具",
+                "product_price": "1999",
+                "product_org_price": "1999",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "list_two_type1",
+          "body": {
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/b38a95198475d2c8be1e11cab147fc22.jpg?w=1080\u0026h=1080",
+                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/b38a95198475d2c8be1e11cab147fc22.jpg?w=1080\u0026h=1080",
+                "img_url_color": "#FFFFFF",
+                "action": {
+                  "type": "product",
+                  "path": "7797",
+                  "log_code": "311860waptablist_two_type1001010#t=product\u0026act=other\u0026page=tab\u0026page_id=1860\u0026bid=3210760.1\u0026pid=7797"
+                },
+                "product_id": "7797",
+                "product_name": "米家电动剃须刀",
+                "product_brief": "剃得干净，剃得快",
+                "product_price": "199",
+                "product_org_price": "199",
+                "margin_left": 0,
+                "margin_right": 0
+              },
+              {
+                "img_url": "//i8.mifile.cn/v1/a1/1c1bbd6c-784f-3ee5-6d50-cc220e06e9e1.webp?w=1080\u0026h=1080",
+                "img_url_webp": "//i8.mifile.cn/v1/a1/1c1bbd6c-784f-3ee5-6d50-cc220e06e9e1.webp?w=1080\u0026h=1080",
+                "img_url_color": "#D7C3AB",
+                "action": {
+                  "type": "product",
+                  "path": "3943",
+                  "log_code": "311860waptablist_two_type1002010#t=product\u0026act=other\u0026page=tab\u0026page_id=1860\u0026bid=3210760.2\u0026pid=3943"
+                },
+                "product_id": "3943",
+                "product_name": "飞利浦智睿台灯二代",
+                "product_brief": "智能护眼，手机智能控制",
+                "product_price": "199",
+                "product_org_price": "199",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "list_two_type1",
+          "body": {
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "img_url": "//i8.mifile.cn/v1/a1/095e2d20-0a05-1649-7ffe-8f88e3e6c5b5.webp?w=1080\u0026h=1080",
+                "img_url_webp": "//i8.mifile.cn/v1/a1/095e2d20-0a05-1649-7ffe-8f88e3e6c5b5.webp?w=1080\u0026h=1080",
+                "img_url_color": "#C2DEE8",
+                "action": {
+                  "type": "product",
+                  "path": "6103",
+                  "log_code": "311860waptablist_two_type1001011#t=product\u0026act=other\u0026page=tab\u0026page_id=1860\u0026bid=3221545.1\u0026pid=6103"
+                },
+                "product_id": "6103",
+                "product_name": "米家声波电动牙刷",
+                "product_brief": "高效动力，刷的干净",
+                "product_price": "199",
+                "product_org_price": "199",
+                "margin_left": 0,
+                "margin_right": 0
+              },
+              {
+                "img_url": "//i8.mifile.cn/v1/a1/7dce30f0-5a79-a85e-9b2a-c0115928941e.webp?w=1080\u0026h=1080",
+                "img_url_webp": "//i8.mifile.cn/v1/a1/7dce30f0-5a79-a85e-9b2a-c0115928941e.webp?w=1080\u0026h=1080",
+                "img_url_color": "#87BAB7",
+                "action": {
+                  "type": "product",
+                  "path": "6007",
+                  "log_code": "311860waptablist_two_type1002011#t=product\u0026act=other\u0026page=tab\u0026page_id=1860\u0026bid=3221545.2\u0026pid=6007"
+                },
+                "product_id": "6007",
+                "product_name": "米兔儿童电话手表2 ",
+                "product_brief": "6 天使用，10 天待机",
+                "product_price": "399",
+                "product_org_price": "399",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "list_two_type1",
+          "body": {
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/ffe8610a808d8254fb5d37b141d0bf5f.jpg?w=1080\u0026h=1080",
+                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/ffe8610a808d8254fb5d37b141d0bf5f.jpg?w=1080\u0026h=1080",
+                "img_url_color": "#FFFFFF",
+                "action": {
+                  "type": "product",
+                  "path": "8105",
+                  "log_code": "311860waptablist_two_type1001012#t=product\u0026act=other\u0026page=tab\u0026page_id=1860\u0026bid=3205348.1\u0026pid=8105"
+                },
+                "product_id": "8105",
+                "product_name": "小米路由器4",
+                "product_brief": "双频双核 更快更稳定",
+                "product_price": "199",
+                "product_org_price": "199",
+                "product_tag": "//i8.mifile.cn/v1/a1/289039eb-c3ed-7c26-69c3-5b07b72a797d.webp?w=120\u0026h=48",
+                "product_tag_webp": "//i8.mifile.cn/v1/a1/289039eb-c3ed-7c26-69c3-5b07b72a797d.webp?w=120\u0026h=48",
+                "margin_left": 0,
+                "margin_right": 0
+              },
+              {
+                "img_url": "//i8.mifile.cn/v1/a1/070d67c4-aced-2088-8b64-de02220effbb.webp?w=1080\u0026h=1080",
+                "img_url_webp": "//i8.mifile.cn/v1/a1/070d67c4-aced-2088-8b64-de02220effbb.webp?w=1080\u0026h=1080",
+                "img_url_color": "#F3F0EF",
+                "action": {
+                  "type": "product",
+                  "path": "4738",
+                  "log_code": "311860waptablist_two_type1002012#t=product\u0026act=other\u0026page=tab\u0026page_id=1860\u0026bid=3205348.2\u0026pid=4738"
+                },
+                "product_id": "4738",
+                "product_name": "米家IH电饭煲 3L",
+                "product_brief": "多才多艺的智能电饭煲",
+                "product_price": "399",
+                "product_org_price": "399",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "divider_line",
+          "body": {
+            "line_color": "#f5f5f5",
+            "line_height": "24",
+            "height": "0",
+            "width": "0",
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "cells_auto_fill",
+          "block_id": "3016861",
+          "body": {
+            "bg_color": "#ffffff",
+            "w": 720,
+            "h": 80,
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "w": 720,
+                "h": 80,
+                "img_url": "//i8.mifile.cn/v1/a1/77812e55-c125-d282-15e2-652f1ca10f17.webp",
+                "img_url_webp": "//i8.mifile.cn/v1/a1/77812e55-c125-d282-15e2-652f1ca10f17.webp",
+                "img_url_color": "#F9F9F9",
+                "action": {
+                  "type": "none",
+                  "log_code": "311860waptabcells_auto_fill001014#t=normal\u0026act=other\u0026page=tab\u0026page_id=1860\u0026bid=3016861.1"
+                },
+                "path_type": "image",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "recommend_flag": "0",
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "list_one_type12",
+          "body": {
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/5231c49aa489999c0f670fac3d8d0f4a.jpg?w=1080\u0026h=540",
+                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/5231c49aa489999c0f670fac3d8d0f4a.jpg?w=1080\u0026h=540",
+                "img_url_color": "#FFFFFF",
+                "action": {
+                  "type": "product",
+                  "path": "8109",
+                  "log_code": "311860waptablist_one_type12001015#t=product\u0026act=other\u0026page=tab\u0026page_id=1860\u0026bid=3254167.1\u0026pid=8109"
+                },
+                "product_id": "8109",
+                "product_name": "米家投影仪",
+                "product_brief": "三秒自动对焦，好用又好看",
+                "product_price": "3999",
+                "product_org_price": "3999",
+                "product_tag": "//i8.mifile.cn/v1/a1/289039eb-c3ed-7c26-69c3-5b07b72a797d.webp?w=120\u0026h=48",
+                "product_tag_webp": "//i8.mifile.cn/v1/a1/289039eb-c3ed-7c26-69c3-5b07b72a797d.webp?w=120\u0026h=48",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "list_two_type1",
+          "body": {
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/ff6d8ce4b095cdc62c5924a2be3fc970.jpg?w=1080\u0026h=1080",
+                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/ff6d8ce4b095cdc62c5924a2be3fc970.jpg?w=1080\u0026h=1080",
+                "img_url_color": "#FFFFFF",
+                "action": {
+                  "type": "product",
+                  "path": "8131",
+                  "log_code": "311860waptablist_two_type1001016#t=product\u0026act=other\u0026page=tab\u0026page_id=1860\u0026bid=3244022.1\u0026pid=8131"
+                },
+                "product_id": "8131",
+                "product_name": "米家直流变频落地扇",
+                "product_brief": "用科技创造自然风",
+                "product_price": "349",
+                "product_org_price": "349",
+                "product_tag": "//i8.mifile.cn/v1/a1/289039eb-c3ed-7c26-69c3-5b07b72a797d.webp?w=120\u0026h=48",
+                "product_tag_webp": "//i8.mifile.cn/v1/a1/289039eb-c3ed-7c26-69c3-5b07b72a797d.webp?w=120\u0026h=48",
+                "margin_left": 0,
+                "margin_right": 0
+              },
+              {
+                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/46996ccea01ecacab8f4c08f65d925d3.jpg?w=1080\u0026h=1080",
+                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/46996ccea01ecacab8f4c08f65d925d3.jpg?w=1080\u0026h=1080",
+                "img_url_color": "#FFFFFF",
+                "action": {
+                  "type": "product",
+                  "path": "8107",
+                  "log_code": "311860waptablist_two_type1002016#t=product\u0026act=other\u0026page=tab\u0026page_id=1860\u0026bid=3244022.2\u0026pid=8107"
+                },
+                "product_id": "8107",
+                "product_name": "米兔儿童滑板车",
+                "product_brief": "安全好玩的酷玩具",
+                "product_price": "249",
+                "product_org_price": "249",
+                "product_tag": "//i8.mifile.cn/v1/a1/289039eb-c3ed-7c26-69c3-5b07b72a797d.webp?w=120\u0026h=48",
+                "product_tag_webp": "//i8.mifile.cn/v1/a1/289039eb-c3ed-7c26-69c3-5b07b72a797d.webp?w=120\u0026h=48",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "list_two_type1",
+          "body": {
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/5e6261b62ed749b8ef503076dc2f4891.jpg?w=1080\u0026h=1080",
+                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/5e6261b62ed749b8ef503076dc2f4891.jpg?w=1080\u0026h=1080",
+                "img_url_color": "#FFFFFF",
+                "action": {
+                  "type": "product",
+                  "path": "10000106",
+                  "log_code": "311860waptablist_two_type1001017#t=product\u0026act=other\u0026page=tab\u0026page_id=1860\u0026bid=3230127.1\u0026pid=10000106"
+                },
+                "product_id": "10000106",
+                "product_name": "小米米家滤水壶",
+                "product_brief": "高效过滤 享安心好水",
+                "product_price": "99",
+                "product_org_price": "99",
+                "product_tag": "//i8.mifile.cn/v1/a1/289039eb-c3ed-7c26-69c3-5b07b72a797d.webp?w=120\u0026h=48",
+                "product_tag_webp": "//i8.mifile.cn/v1/a1/289039eb-c3ed-7c26-69c3-5b07b72a797d.webp?w=120\u0026h=48",
+                "margin_left": 0,
+                "margin_right": 0
+              },
+              {
+                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/05d59f494c122b81d737a22e9125b89a.jpg?w=1080\u0026h=1080",
+                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/05d59f494c122b81d737a22e9125b89a.jpg?w=1080\u0026h=1080",
+                "img_url_color": "#FFFFFF",
+                "action": {
+                  "type": "product",
+                  "path": "8134",
+                  "log_code": "311860waptablist_two_type1002017#t=product\u0026act=other\u0026page=tab\u0026page_id=1860\u0026bid=3230127.2\u0026pid=8134"
+                },
+                "product_id": "8134",
+                "product_name": "小米手环3 ",
+                "product_brief": "全新OLED可触摸大屏",
+                "product_price": "169",
+                "product_org_price": "169",
+                "product_tag": "//i8.mifile.cn/v1/a1/289039eb-c3ed-7c26-69c3-5b07b72a797d.webp?w=120\u0026h=48",
+                "product_tag_webp": "//i8.mifile.cn/v1/a1/289039eb-c3ed-7c26-69c3-5b07b72a797d.webp?w=120\u0026h=48",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "list_two_type1",
+          "body": {
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/e8bb9149f581b54ef7d9121217f56717.jpg?w=1080\u0026h=1080",
+                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/e8bb9149f581b54ef7d9121217f56717.jpg?w=1080\u0026h=1080",
+                "img_url_color": "#FFFFFF",
+                "action": {
+                  "type": "product",
+                  "path": "10000101",
+                  "log_code": "311860waptablist_two_type1001018#t=product\u0026act=other\u0026page=tab\u0026page_id=1860\u0026bid=3248254.1\u0026pid=10000101"
+                },
+                "show_price_qi": true,
+                "product_id": "10000101",
+                "product_name": "小米VR一体机 ",
+                "product_brief": "超乎寻常的虚拟体验",
+                "product_price": "1499",
+                "product_org_price": "1499",
+                "product_tag": "//i8.mifile.cn/v1/a1/289039eb-c3ed-7c26-69c3-5b07b72a797d.webp?w=120\u0026h=48",
+                "product_tag_webp": "//i8.mifile.cn/v1/a1/289039eb-c3ed-7c26-69c3-5b07b72a797d.webp?w=120\u0026h=48",
+                "margin_left": 0,
+                "margin_right": 0
+              },
+              {
+                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/992720c81b93f68d26cf9de920fdbc09.jpg?w=1080\u0026h=1080",
+                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/992720c81b93f68d26cf9de920fdbc09.jpg?w=1080\u0026h=1080",
+                "img_url_color": "#FFFFFF",
+                "action": {
+                  "type": "product",
+                  "path": "8045",
+                  "log_code": "311860waptablist_two_type1002018#t=product\u0026act=other\u0026page=tab\u0026page_id=1860\u0026bid=3248254.2\u0026pid=8045"
+                },
+                "product_id": "8045",
+                "product_name": "米家驱蚊器",
+                "product_brief": "长效驱蚊 静享一整个夏天",
+                "product_price": "59",
+                "product_org_price": "59",
+                "product_tag": "//i8.mifile.cn/v1/a1/289039eb-c3ed-7c26-69c3-5b07b72a797d.webp?w=120\u0026h=48",
+                "product_tag_webp": "//i8.mifile.cn/v1/a1/289039eb-c3ed-7c26-69c3-5b07b72a797d.webp?w=120\u0026h=48",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "list_two_type1",
+          "body": {
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/ffe8610a808d8254fb5d37b141d0bf5f.jpg?w=1080\u0026h=1080",
+                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/ffe8610a808d8254fb5d37b141d0bf5f.jpg?w=1080\u0026h=1080",
+                "img_url_color": "#FFFFFF",
+                "action": {
+                  "type": "product",
+                  "path": "8105",
+                  "log_code": "311860waptablist_two_type1001019#t=product\u0026act=other\u0026page=tab\u0026page_id=1860\u0026bid=3232433.1\u0026pid=8105"
+                },
+                "product_id": "8105",
+                "product_name": "小米路由器4",
+                "product_brief": "双频双核 更快更稳定",
+                "product_price": "199",
+                "product_org_price": "199",
+                "product_tag": "//i8.mifile.cn/v1/a1/289039eb-c3ed-7c26-69c3-5b07b72a797d.webp?w=120\u0026h=48",
+                "product_tag_webp": "//i8.mifile.cn/v1/a1/289039eb-c3ed-7c26-69c3-5b07b72a797d.webp?w=120\u0026h=48",
+                "margin_left": 0,
+                "margin_right": 0
+              },
+              {
+                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/4742e1e7a51bf02df936e9b8c5b3faf1.jpg?w=1080\u0026h=1080",
+                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/4742e1e7a51bf02df936e9b8c5b3faf1.jpg?w=1080\u0026h=1080",
+                "img_url_color": "#FFFFFF",
+                "action": {
+                  "type": "product",
+                  "path": "8108",
+                  "log_code": "311860waptablist_two_type1002019#t=product\u0026act=other\u0026page=tab\u0026page_id=1860\u0026bid=3232433.2\u0026pid=8108"
+                },
+                "product_id": "8108",
+                "product_name": "米兔卡片学习机",
+                "product_brief": "宝宝学习好 妈妈看得见",
+                "product_price": "299",
+                "product_org_price": "299",
+                "product_tag": "//i8.mifile.cn/v1/a1/289039eb-c3ed-7c26-69c3-5b07b72a797d.webp?w=120\u0026h=48",
+                "product_tag_webp": "//i8.mifile.cn/v1/a1/289039eb-c3ed-7c26-69c3-5b07b72a797d.webp?w=120\u0026h=48",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "list_two_type1",
+          "body": {
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/851fab54e50e3f1c57d0e2c646ad1fca.jpg?w=1080\u0026h=1080",
+                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/851fab54e50e3f1c57d0e2c646ad1fca.jpg?w=1080\u0026h=1080",
+                "img_url_color": "#FFFFFF",
+                "action": {
+                  "type": "product",
+                  "path": "7850",
+                  "log_code": "311860waptablist_two_type1001020#t=product\u0026act=other\u0026page=tab\u0026page_id=1860\u0026bid=3226076.1\u0026pid=7850"
+                },
+                "product_id": "7850",
+                "product_name": "Amazfit智能运动手表2",
+                "product_brief": "陶瓷表圈，50米防水",
+                "product_price": "999",
+                "product_org_price": "999",
+                "margin_left": 0,
+                "margin_right": 0
+              },
+              {
+                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/b38a95198475d2c8be1e11cab147fc22.jpg?w=1080\u0026h=1080",
+                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/b38a95198475d2c8be1e11cab147fc22.jpg?w=1080\u0026h=1080",
+                "img_url_color": "#FFFFFF",
+                "action": {
+                  "type": "product",
+                  "path": "7797",
+                  "log_code": "311860waptablist_two_type1002020#t=product\u0026act=other\u0026page=tab\u0026page_id=1860\u0026bid=3226076.2\u0026pid=7797"
+                },
+                "product_id": "7797",
+                "product_name": "米家电动剃须刀",
+                "product_brief": "剃得干净，剃得快",
+                "product_price": "199",
+                "product_org_price": "199",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "list_two_type1",
+          "body": {
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/a8d3a4fea422bd6026efb4b0fb789cb4.jpg?w=1080\u0026h=1080",
+                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/a8d3a4fea422bd6026efb4b0fb789cb4.jpg?w=1080\u0026h=1080",
+                "img_url_color": "#FFFFFF",
+                "action": {
+                  "type": "product",
+                  "path": "7852",
+                  "log_code": "311860waptablist_two_type1001021#t=product\u0026act=other\u0026page=tab\u0026page_id=1860\u0026bid=3005226.1\u0026pid=7852"
+                },
+                "product_id": "7852",
+                "product_name": "小米净水器1A（厨下式）",
+                "product_brief": "小身材节省空间，大流量直出纯净水",
+                "product_price": "1499",
+                "product_org_price": "1499",
+                "margin_left": 0,
+                "margin_right": 0
+              },
+              {
+                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/67b72f719a7832c34d095f0fe57014b8.png?w=1080\u0026h=1080",
+                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/67b72f719a7832c34d095f0fe57014b8.png?w=1080\u0026h=1080",
+                "img_url_color": "#FFFFFF",
+                "action": {
+                  "type": "product",
+                  "path": "7832",
+                  "log_code": "311860waptablist_two_type1002021#t=product\u0026act=other\u0026page=tab\u0026page_id=1860\u0026bid=3005226.2\u0026pid=7832"
+                },
+                "product_id": "7832",
+                "product_name": "小米小爱音箱mini",
+                "product_brief": "能听会说的人工智能音箱",
+                "product_price": "169",
+                "product_org_price": "169",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "divider_line",
+          "body": {
+            "line_color": "#f5f5f5",
+            "line_height": "24",
+            "height": "0",
+            "width": "0",
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "cells_auto_fill",
+          "block_id": "3005588",
+          "body": {
+            "w": 720,
+            "h": 80,
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "w": 720,
+                "h": 80,
+                "img_url": "//i8.mifile.cn/v1/a1/937e2fca-5302-26e1-f8db-604ff36fe9bd.webp",
+                "img_url_webp": "//i8.mifile.cn/v1/a1/937e2fca-5302-26e1-f8db-604ff36fe9bd.webp",
+                "img_url_color": "#F9F9F9",
+                "action": {
+                  "log_code": "311860waptabcells_auto_fill001023#t=normal\u0026act=other\u0026page=tab\u0026page_id=1860\u0026bid=3005588.1"
+                },
+                "path_type": "image",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "recommend_flag": "0",
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "list_two_type1",
+          "body": {
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/0adfec1b55d3d9e4417d28e4dd074a59.jpg?w=1080\u0026h=1080",
+                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/0adfec1b55d3d9e4417d28e4dd074a59.jpg?w=1080\u0026h=1080",
+                "img_url_color": "#FFFFFF",
+                "action": {
+                  "type": "product",
+                  "path": "8109",
+                  "log_code": "311860waptablist_two_type1001024#t=product\u0026act=other\u0026page=tab\u0026page_id=1860\u0026bid=3198992.1\u0026pid=8109"
+                },
+                "product_id": "8109",
+                "product_name": "米家投影仪",
+                "product_brief": "三秒自动对焦，好用又好看",
+                "product_price": "3999",
+                "product_org_price": "3999",
+                "product_tag": "//i8.mifile.cn/v1/a1/289039eb-c3ed-7c26-69c3-5b07b72a797d.webp?w=120\u0026h=48",
+                "product_tag_webp": "//i8.mifile.cn/v1/a1/289039eb-c3ed-7c26-69c3-5b07b72a797d.webp?w=120\u0026h=48",
+                "margin_left": 0,
+                "margin_right": 0
+              },
+              {
+                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/a8d3a4fea422bd6026efb4b0fb789cb4.jpg?w=1080\u0026h=1080",
+                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/a8d3a4fea422bd6026efb4b0fb789cb4.jpg?w=1080\u0026h=1080",
+                "img_url_color": "#FFFFFF",
+                "action": {
+                  "type": "product",
+                  "path": "7852",
+                  "log_code": "311860waptablist_two_type1002024#t=product\u0026act=other\u0026page=tab\u0026page_id=1860\u0026bid=3198992.2\u0026pid=7852"
+                },
+                "product_id": "7852",
+                "product_name": "小米净水器1A（厨下式）",
+                "product_brief": "小身材节省空间，大流量直出纯净水",
+                "product_price": "1499",
+                "product_org_price": "1499",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "list_two_type1",
+          "body": {
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "img_url": "//i8.mifile.cn/v1/a1/8ef1164d-e1c5-ed1e-f827-b9a201520586.webp?w=1080\u0026h=1080",
+                "img_url_webp": "//i8.mifile.cn/v1/a1/8ef1164d-e1c5-ed1e-f827-b9a201520586.webp?w=1080\u0026h=1080",
+                "img_url_color": "#D5D7DC",
+                "action": {
+                  "type": "product",
+                  "path": "4802",
+                  "log_code": "311860waptablist_two_type1001025#t=product\u0026act=other\u0026page=tab\u0026page_id=1860\u0026bid=3198993.1\u0026pid=4802"
+                },
+                "product_id": "4802",
+                "product_name": "米家空气净化器Pro",
+                "product_brief": "大空间，快循环",
+                "product_price": "1499",
+                "product_org_price": "1499",
+                "margin_left": 0,
+                "margin_right": 0
+              },
+              {
+                "img_url": "//i8.mifile.cn/v1/a1/06142d12-1dc5-7d5f-b44b-29c756d862f8.webp?w=1080\u0026h=1080",
+                "img_url_webp": "//i8.mifile.cn/v1/a1/06142d12-1dc5-7d5f-b44b-29c756d862f8.webp?w=1080\u0026h=1080",
+                "img_url_color": "#B2B6B8",
+                "action": {
+                  "type": "product",
+                  "path": "7528",
+                  "log_code": "311860waptablist_two_type1002025#t=product\u0026act=other\u0026page=tab\u0026page_id=1860\u0026bid=3198993.2\u0026pid=7528"
+                },
+                "product_id": "7528",
+                "product_name": "米家电磁炉",
+                "product_brief": "双频火力，精准控温",
+                "product_price": "299",
+                "product_org_price": "299",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "divider_line",
+          "body": {
+            "line_color": "#f5f5f5",
+            "line_height": "24",
+            "height": "0",
+            "width": "0",
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "cells_auto_fill",
+          "block_id": "3000533",
+          "body": {
+            "w": 720,
+            "h": 80,
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "w": 720,
+                "h": 80,
+                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/3d68400903c44558383c8408684e5a53.png",
+                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/3d68400903c44558383c8408684e5a53.png",
+                "img_url_color": "#FFFFFF",
+                "action": {
+                  "log_code": "311860waptabcells_auto_fill001027#t=normal\u0026act=other\u0026page=tab\u0026page_id=1860\u0026bid=3000533.1"
+                },
+                "path_type": "image",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "recommend_flag": "0",
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "list_two_type1",
+          "body": {
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "img_url": "//i8.mifile.cn/v1/a1/1d27fc55-8497-84f4-5392-37d66b09368e.webp?w=1080\u0026h=1080",
+                "img_url_webp": "//i8.mifile.cn/v1/a1/1d27fc55-8497-84f4-5392-37d66b09368e.webp?w=1080\u0026h=1080",
+                "img_url_color": "#C9E2EA",
+                "action": {
+                  "type": "product",
+                  "path": "6791",
+                  "log_code": "311860waptablist_two_type1001028#t=product\u0026act=other\u0026page=tab\u0026page_id=1860\u0026bid=3249562.1\u0026pid=6791"
+                },
+                "product_id": "6791",
+                "product_name": "米家 iHealth 体温计",
+                "product_brief": "一按就能测体温",
+                "product_price": "129",
+                "product_org_price": "129",
+                "margin_left": 0,
+                "margin_right": 0
+              },
+              {
+                "img_url": "//i8.mifile.cn/v1/a1/3c866ab8-1795-23d6-78ae-eacc29f81cd2.webp?w=1080\u0026h=1080",
+                "img_url_webp": "//i8.mifile.cn/v1/a1/3c866ab8-1795-23d6-78ae-eacc29f81cd2.webp?w=1080\u0026h=1080",
+                "img_url_color": "#C0D8CB",
+                "action": {
+                  "type": "product",
+                  "path": "3674",
+                  "log_code": "311860waptablist_two_type1002028#t=product\u0026act=other\u0026page=tab\u0026page_id=1860\u0026bid=3249562.2\u0026pid=3674"
+                },
+                "product_id": "3674",
+                "product_name": "米家iHealth血压计",
+                "product_brief": "爸妈上手就会用的血压计",
+                "product_price": "399",
+                "product_org_price": "399",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "list_two_type1",
+          "body": {
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/a9462097ca7665ab9638526856415cce.jpg?w=1080\u0026h=1080",
+                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/a9462097ca7665ab9638526856415cce.jpg?w=1080\u0026h=1080",
+                "img_url_color": "#FFFFFF",
+                "action": {
+                  "type": "product",
+                  "path": "6443",
+                  "log_code": "311860waptablist_two_type1001029#t=product\u0026act=other\u0026page=tab\u0026page_id=1860\u0026bid=3198996.1\u0026pid=6443"
+                },
+                "product_id": "6443",
+                "product_name": "贝医生巴氏牙刷",
+                "product_brief": "进口刷毛，好品质",
+                "product_price": "39.9",
+                "product_org_price": "39.9",
+                "margin_left": 0,
+                "margin_right": 0
+              },
+              {
+                "img_url": "//i8.mifile.cn/v1/a1/4730b800-80a7-8ce3-1cd6-be442c3f1cad.webp?w=1080\u0026h=1080",
+                "img_url_webp": "//i8.mifile.cn/v1/a1/4730b800-80a7-8ce3-1cd6-be442c3f1cad.webp?w=1080\u0026h=1080",
+                "img_url_color": "#D8E8EF",
+                "action": {
+                  "type": "product",
+                  "path": "5297",
+                  "log_code": "311860waptablist_two_type1002029#t=product\u0026act=other\u0026page=tab\u0026page_id=1860\u0026bid=3198996.2\u0026pid=5297"
+                },
+                "product_id": "5297",
+                "product_name": "小米体脂秤",
+                "product_brief": "简约纤薄掌握身体数据",
+                "product_price": "199",
+                "product_org_price": "199",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "divider_line",
+          "body": {
+            "line_color": "#f5f5f5",
+            "line_height": "24",
+            "height": "0",
+            "width": "0",
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "cells_auto_fill",
+          "block_id": "3000537",
+          "body": {
+            "w": 720,
+            "h": 80,
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "w": 720,
+                "h": 80,
+                "img_url": "//i8.mifile.cn/v1/a1/9ae76cb7-b47d-8820-66ef-6da2149c0224.webp",
+                "img_url_webp": "//i8.mifile.cn/v1/a1/9ae76cb7-b47d-8820-66ef-6da2149c0224.webp",
+                "img_url_color": "#F9F9F9",
+                "action": {
+                  "log_code": "311860waptabcells_auto_fill001031#t=normal\u0026act=other\u0026page=tab\u0026page_id=1860\u0026bid=3000537.1"
+                },
+                "path_type": "image",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "recommend_flag": "0",
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "list_two_type1",
+          "body": {
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/f72435af466a005b131d970a6f246bcb.jpg?w=1080\u0026h=1080",
+                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/f72435af466a005b131d970a6f246bcb.jpg?w=1080\u0026h=1080",
+                "img_url_color": "#FFFFFF",
+                "action": {
+                  "type": "product",
+                  "path": "7773",
+                  "log_code": "311860waptablist_two_type1001032#t=product\u0026act=other\u0026page=tab\u0026page_id=1860\u0026bid=3198999.1\u0026pid=7773"
+                },
+                "product_id": "7773",
+                "product_name": "米兔积木矿山卡车",
+                "product_brief": "小零件，拼接出大乐趣",
+                "product_price": "99",
+                "product_org_price": "99",
+                "margin_left": 0,
+                "margin_right": 0
+              },
+              {
+                "img_url": "//i8.mifile.cn/v1/a1/c6019250-b731-698a-691f-d7291605c869.webp?w=1080\u0026h=1080",
+                "img_url_webp": "//i8.mifile.cn/v1/a1/c6019250-b731-698a-691f-d7291605c869.webp?w=1080\u0026h=1080",
+                "img_url_color": "#E4E6EB",
+                "action": {
+                  "type": "product",
+                  "path": "1945",
+                  "log_code": "311860waptablist_two_type1002032#t=product\u0026act=other\u0026page=tab\u0026page_id=1860\u0026bid=3198999.2\u0026pid=1945"
+                },
+                "product_id": "1945",
+                "product_name": "小米体重秤",
+                "product_brief": "高精度压力传感器",
+                "product_price": "99",
+                "product_org_price": "99",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "list_two_type1",
+          "body": {
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "img_url": "//i8.mifile.cn/v1/a1/da4c2b91-097d-da67-bf48-b37b6a6f793f.webp?w=1080\u0026h=1080",
+                "img_url_webp": "//i8.mifile.cn/v1/a1/da4c2b91-097d-da67-bf48-b37b6a6f793f.webp?w=1080\u0026h=1080",
+                "img_url_color": "#2F91AE",
+                "action": {
+                  "type": "product",
+                  "path": "4674",
+                  "log_code": "311860waptablist_two_type1001033#t=product\u0026act=other\u0026page=tab\u0026page_id=1860\u0026bid=3199000.1\u0026pid=4674"
+                },
+                "product_id": "4674",
+                "product_name": "米兔积木机器人",
+                "product_brief": "978个零件，手机智能遥控",
+                "product_price": "499",
+                "product_org_price": "499",
+                "margin_left": 0,
+                "margin_right": 0
+              },
+              {
+                "img_url": "//i8.mifile.cn/v1/a1/51cb366f-c6a2-5767-053d-633c1c5a5f1c.webp?w=1080\u0026h=1080",
+                "img_url_webp": "//i8.mifile.cn/v1/a1/51cb366f-c6a2-5767-053d-633c1c5a5f1c.webp?w=1080\u0026h=1080",
+                "img_url_color": "#DFE9E8",
+                "action": {
+                  "type": "product",
+                  "path": "3807",
+                  "log_code": "311860waptablist_two_type1002033#t=product\u0026act=other\u0026page=tab\u0026page_id=1860\u0026bid=3199000.2\u0026pid=3807"
+                },
+                "product_id": "3807",
+                "product_name": "米兔智能故事机 ",
+                "product_brief": "能说会道，宝宝的好玩伴",
+                "product_price": "199",
+                "product_org_price": "199",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "divider_line",
+          "body": {
+            "line_color": "#f5f5f5",
+            "line_height": "24",
+            "height": "0",
+            "width": "0",
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "cells_auto_fill",
+          "block_id": "3201996",
+          "body": {
+            "w": 720,
+            "h": 80,
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "w": 720,
+                "h": 80,
+                "img_url": "//i8.mifile.cn/v1/a1/672f3f2a-9e31-909f-16b9-53eee01bc21b.webp",
+                "img_url_webp": "//i8.mifile.cn/v1/a1/672f3f2a-9e31-909f-16b9-53eee01bc21b.webp",
+                "img_url_color": "#F9F9F9",
+                "action": {
+                  "log_code": "311860waptabcells_auto_fill001035#t=normal\u0026act=other\u0026page=tab\u0026page_id=1860\u0026bid=3201996.1"
+                },
+                "path_type": "image",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "recommend_flag": "0",
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "list_two_type1",
+          "body": {
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "img_url": "//i8.mifile.cn/v1/a1/90003447-2eaf-f268-1ed6-4903be237854.webp?w=1080\u0026h=1080",
+                "img_url_webp": "//i8.mifile.cn/v1/a1/90003447-2eaf-f268-1ed6-4903be237854.webp?w=1080\u0026h=1080",
+                "img_url_color": "#CACACE",
+                "action": {
+                  "type": "product",
+                  "path": "6079",
+                  "log_code": "311860waptablist_two_type1001036#t=product\u0026act=other\u0026page=tab\u0026page_id=1860\u0026bid=3201997.1\u0026pid=6079"
+                },
+                "product_id": "6079",
+                "product_name": "九号平衡车 Plus",
+                "product_brief": "一个形影不离的新伙伴",
+                "product_price": "3499",
+                "product_org_price": "3499",
+                "margin_left": 0,
+                "margin_right": 0
+              },
+              {
+                "img_url": "//i8.mifile.cn/v1/a1/eebdb591-381c-e0a7-9574-5cb5b47482cf.webp?w=1080\u0026h=1080",
+                "img_url_webp": "//i8.mifile.cn/v1/a1/eebdb591-381c-e0a7-9574-5cb5b47482cf.webp?w=1080\u0026h=1080",
+                "img_url_color": "#CEDFE7",
+                "action": {
+                  "type": "product",
+                  "path": "4984",
+                  "log_code": "311860waptablist_two_type1002036#t=product\u0026act=other\u0026page=tab\u0026page_id=1860\u0026bid=3201997.2\u0026pid=4984"
+                },
+                "product_id": "4984",
+                "product_name": "小米米家电动滑板车",
+                "product_brief": "便携折叠，自由穿行",
+                "product_price": "1999",
+                "product_org_price": "1999",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "list_two_type1",
+          "body": {
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "img_url": "//i8.mifile.cn/v1/a1/f093e0a8-e3d8-4fc8-deb7-af25ea3d8663.webp?w=1080\u0026h=1080",
+                "img_url_webp": "//i8.mifile.cn/v1/a1/f093e0a8-e3d8-4fc8-deb7-af25ea3d8663.webp?w=1080\u0026h=1080",
+                "img_url_color": "#B4B5B8",
+                "action": {
+                  "type": "product",
+                  "path": "5251",
+                  "log_code": "311860waptablist_two_type1001037#t=product\u0026act=other\u0026page=tab\u0026page_id=1860\u0026bid=3201998.1\u0026pid=5251"
+                },
+                "product_id": "5251",
+                "product_name": "米家行车记录仪",
+                "product_brief": "晚上也可以拍清车牌",
+                "product_price": "349",
+                "product_org_price": "349",
+                "margin_left": 0,
+                "margin_right": 0
+              },
+              {
+                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/6473d20b8c0f0ae9d1453de69eee4296.jpg?w=1080\u0026h=1080",
+                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/6473d20b8c0f0ae9d1453de69eee4296.jpg?w=1080\u0026h=1080",
+                "img_url_color": "#FFFFFF",
+                "action": {
+                  "type": "product",
+                  "path": "7689",
+                  "log_code": "311860waptablist_two_type1002037#t=product\u0026act=other\u0026page=tab\u0026page_id=1860\u0026bid=3201998.2\u0026pid=7689"
+                },
+                "product_id": "7689",
+                "product_name": "70迈 智能记录仪",
+                "product_brief": "智能语音控制，1080P全高清",
+                "product_price": "199",
+                "product_org_price": "199",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "divider_line",
+          "body": {
+            "line_color": "#f5f5f5",
+            "line_height": "24",
+            "height": "0",
+            "width": "0",
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "cells_auto_fill",
+          "block_id": "3199006",
+          "body": {
+            "bg_color": "#ffffff",
+            "w": 720,
+            "h": 80,
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "w": 720,
+                "h": 80,
+                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/718b0dc661dc132ac1de6ad41d3b26d5.png",
+                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/718b0dc661dc132ac1de6ad41d3b26d5.png",
+                "img_url_color": "#FFFFFF",
+                "action": {
+                  "type": "none",
+                  "log_code": "311860waptabcells_auto_fill001039#t=normal\u0026act=other\u0026page=tab\u0026page_id=1860\u0026bid=3199006.1"
+                },
+                "path_type": "image",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "recommend_flag": "0",
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "list_two_type1",
+          "body": {
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/aeec7ffbd05dcf06ceec3b4ee4726905.jpeg?w=1080\u0026h=1080",
+                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/aeec7ffbd05dcf06ceec3b4ee4726905.jpeg?w=1080\u0026h=1080",
+                "img_url_color": "#FFFFFF",
+                "action": {
+                  "type": "product",
+                  "path": "8023",
+                  "log_code": "311860waptablist_two_type1001040#t=product\u0026act=other\u0026page=tab\u0026page_id=1860\u0026bid=3199007.1\u0026pid=8023"
+                },
+                "product_id": "8023",
+                "product_name": "米家LED吸顶灯",
+                "product_brief": "用光线，还原理想生活",
+                "product_price": "399",
+                "product_org_price": "399",
+                "product_tag": "//i8.mifile.cn/v1/a1/289039eb-c3ed-7c26-69c3-5b07b72a797d.webp?w=120\u0026h=48",
+                "product_tag_webp": "//i8.mifile.cn/v1/a1/289039eb-c3ed-7c26-69c3-5b07b72a797d.webp?w=120\u0026h=48",
+                "margin_left": 0,
+                "margin_right": 0
+              },
+              {
+                "img_url": "//i8.mifile.cn/v1/a1/1c1bbd6c-784f-3ee5-6d50-cc220e06e9e1.webp?w=1080\u0026h=1080",
+                "img_url_webp": "//i8.mifile.cn/v1/a1/1c1bbd6c-784f-3ee5-6d50-cc220e06e9e1.webp?w=1080\u0026h=1080",
+                "img_url_color": "#D7C3AB",
+                "action": {
+                  "type": "product",
+                  "path": "3943",
+                  "log_code": "311860waptablist_two_type1002040#t=product\u0026act=other\u0026page=tab\u0026page_id=1860\u0026bid=3199007.2\u0026pid=3943"
+                },
+                "product_id": "3943",
+                "product_name": "飞利浦智睿台灯二代",
+                "product_brief": "智能护眼，手机智能控制",
+                "product_price": "199",
+                "product_org_price": "199",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "list_two_type1",
+          "body": {
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/c22af4a7114219e6c0488b820474eedc.jpg?w=1080\u0026h=1080",
+                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/c22af4a7114219e6c0488b820474eedc.jpg?w=1080\u0026h=1080",
+                "img_url_color": "#FFFFFF",
+                "action": {
+                  "type": "product",
+                  "path": "2723",
+                  "log_code": "311860waptablist_two_type1001041#t=product\u0026act=other\u0026page=tab\u0026page_id=1860\u0026bid=3199008.1\u0026pid=2723"
+                },
+                "product_id": "2723",
+                "product_name": "米家小白智能摄像机",
+                "product_brief": "360° 全景拍摄，红外夜视",
+                "product_price": "399",
+                "product_org_price": "399",
+                "margin_left": 0,
+                "margin_right": 0
+              },
+              {
+                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/efd2293fd6bb08e90412dfcea142dc8e.jpg?w=1080\u0026h=1080",
+                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/efd2293fd6bb08e90412dfcea142dc8e.jpg?w=1080\u0026h=1080",
+                "img_url_color": "#FFFFFF",
+                "action": {
+                  "type": "product",
+                  "path": "8311",
+                  "log_code": "311860waptablist_two_type1002041#t=product\u0026act=other\u0026page=tab\u0026page_id=1860\u0026bid=3199008.2\u0026pid=8311"
+                },
+                "product_id": "8311",
+                "product_name": "米家手持手机云台",
+                "product_brief": "手机也能拍大片",
+                "product_price": "599",
+                "product_org_price": "599",
+                "product_tag": "//i8.mifile.cn/v1/a1/289039eb-c3ed-7c26-69c3-5b07b72a797d.webp?w=120\u0026h=48",
+                "product_tag_webp": "//i8.mifile.cn/v1/a1/289039eb-c3ed-7c26-69c3-5b07b72a797d.webp?w=120\u0026h=48",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "divider_line",
+          "body": {
+            "line_color": "#f5f5f5",
+            "line_height": "24",
+            "height": "0",
+            "width": "0",
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "cells_auto_fill",
+          "block_id": "3000542",
+          "body": {
+            "w": 720,
+            "h": 80,
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "w": 720,
+                "h": 80,
+                "img_url": "//i8.mifile.cn/v1/a1/b9e007c2-7305-d13c-a743-ac72b0453b03.webp",
+                "img_url_webp": "//i8.mifile.cn/v1/a1/b9e007c2-7305-d13c-a743-ac72b0453b03.webp",
+                "img_url_color": "#F8F8F8",
+                "action": {
+                  "log_code": "311860waptabcells_auto_fill001043#t=normal\u0026act=other\u0026page=tab\u0026page_id=1860\u0026bid=3000542.1"
+                },
+                "path_type": "image",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "recommend_flag": "0",
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "list_two_type1",
+          "body": {
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/4900b70b3ffd893d6c130f0b741fa6f1.jpg?w=1080\u0026h=1080",
+                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/4900b70b3ffd893d6c130f0b741fa6f1.jpg?w=1080\u0026h=1080",
+                "img_url_color": "#FFFFFF",
+                "action": {
+                  "type": "product",
+                  "path": "7840",
+                  "log_code": "311860waptablist_two_type1001044#t=product\u0026act=other\u0026page=tab\u0026page_id=1860\u0026bid=3199010.1\u0026pid=7840"
+                },
+                "product_id": "7840",
+                "product_name": "小米蓝牙项圈耳机",
+                "product_brief": "时尚外观，挂在脖子上的好耳机",
+                "product_price": "299",
+                "product_org_price": "299",
+                "margin_left": 0,
+                "margin_right": 0
+              },
+              {
+                "img_url": "//i8.mifile.cn/v1/a1/81aed22a-ec72-e3ac-1016-f03dbd595e41.webp?w=1080\u0026h=1080",
+                "img_url_webp": "//i8.mifile.cn/v1/a1/81aed22a-ec72-e3ac-1016-f03dbd595e41.webp?w=1080\u0026h=1080",
+                "img_url_color": "#BDBEC2",
+                "action": {
+                  "type": "product",
+                  "path": "6377",
+                  "log_code": "311860waptablist_two_type1002044#t=product\u0026act=other\u0026page=tab\u0026page_id=1860\u0026bid=3199010.2\u0026pid=6377"
+                },
+                "product_id": "6377",
+                "product_name": "小米运动蓝牙耳机mini ",
+                "product_brief": "迷你机身, 小如蚕豆",
+                "product_price": "169",
+                "product_org_price": "169",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "list_two_type1",
+          "body": {
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "img_url": "//i8.mifile.cn/v1/a1/497e767f-ee21-4fc5-e55d-3525cc5f6987.webp?w=1080\u0026h=1080",
+                "img_url_webp": "//i8.mifile.cn/v1/a1/497e767f-ee21-4fc5-e55d-3525cc5f6987.webp?w=1080\u0026h=1080",
+                "img_url_color": "#99B6C4",
+                "action": {
+                  "type": "product",
+                  "path": "4792",
+                  "log_code": "311860waptablist_two_type1001045#t=product\u0026act=other\u0026page=tab\u0026page_id=1860\u0026bid=3199011.1\u0026pid=4792"
+                },
+                "product_id": "4792",
+                "product_name": "小米圈铁耳机Pro",
+                "product_brief": "好故事，让好声音述说",
+                "product_price": "149",
+                "product_org_price": "149",
+                "margin_left": 0,
+                "margin_right": 0
+              },
+              {
+                "img_url": "//i8.mifile.cn/v1/a1/1dd6c737-28ff-8e48-63c5-56249d58f40b.webp?w=1080\u0026h=1080",
+                "img_url_webp": "//i8.mifile.cn/v1/a1/1dd6c737-28ff-8e48-63c5-56249d58f40b.webp?w=1080\u0026h=1080",
+                "img_url_color": "#AAAEB4",
+                "action": {
+                  "type": "product",
+                  "path": "4582",
+                  "log_code": "311860waptablist_two_type1002045#t=product\u0026act=other\u0026page=tab\u0026page_id=1860\u0026bid=3199011.2\u0026pid=4582"
+                },
+                "product_id": "4582",
+                "product_name": "小米运动蓝牙耳机",
+                "product_brief": "防水防汗，7小时播放",
+                "product_price": "129",
+                "product_org_price": "149",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "list_two_type1",
+          "body": {
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "img_url": "//i8.mifile.cn/v1/a1/4cb189d9-5c45-fc85-434e-51ead3520921.webp?w=1080\u0026h=1080",
+                "img_url_webp": "//i8.mifile.cn/v1/a1/4cb189d9-5c45-fc85-434e-51ead3520921.webp?w=1080\u0026h=1080",
+                "img_url_color": "#E2E5EC",
+                "action": {
+                  "type": "product",
+                  "path": "4479",
+                  "log_code": "311860waptablist_two_type1001046#t=product\u0026act=other\u0026page=tab\u0026page_id=1860\u0026bid=3230244.1\u0026pid=4479"
+                },
+                "product_id": "4479",
+                "product_name": "小米蓝牙耳机青春版",
+                "product_brief": "6.5 克轻巧，高清通话音质",
+                "product_price": "59",
+                "product_org_price": "59",
+                "margin_left": 0,
+                "margin_right": 0
+              },
+              {
+                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/359594c6feed269a51eec5d0e59e42b1.jpg?w=1080\u0026h=1080",
+                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/359594c6feed269a51eec5d0e59e42b1.jpg?w=1080\u0026h=1080",
+                "img_url_color": "#FFFFFF",
+                "action": {
+                  "type": "product",
+                  "path": "5059",
+                  "log_code": "311860waptablist_two_type1002046#t=product\u0026act=other\u0026page=tab\u0026page_id=1860\u0026bid=3230244.2\u0026pid=5059"
+                },
+                "product_id": "5059",
+                "product_name": "小米活塞耳机  ",
+                "product_brief": "新鲜绽放，五色可选",
+                "product_price": "29",
+                "product_org_price": "29",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "divider_line",
+          "body": {
+            "line_color": "#f5f5f5",
+            "line_height": "24",
+            "height": "0",
+            "width": "0",
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "cells_auto_fill",
+          "block_id": "3201999",
+          "body": {
+            "bg_color": "#ffffff",
+            "w": 720,
+            "h": 80,
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "w": 720,
+                "h": 80,
+                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/0b9e487296c5430552b5876af2b06d87.png",
+                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/0b9e487296c5430552b5876af2b06d87.png",
+                "img_url_color": "#FFFFFF",
+                "action": {
+                  "type": "none",
+                  "log_code": "311860waptabcells_auto_fill001048#t=normal\u0026act=other\u0026page=tab\u0026page_id=1860\u0026bid=3201999.1"
+                },
+                "path_type": "image",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "recommend_flag": "0",
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "list_two_type1",
+          "body": {
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "img_url": "//i8.mifile.cn/v1/a1/77570ffe-db66-7a1a-4fb4-63683591794e.webp?w=1080\u0026h=1080",
+                "img_url_webp": "//i8.mifile.cn/v1/a1/77570ffe-db66-7a1a-4fb4-63683591794e.webp?w=1080\u0026h=1080",
+                "img_url_color": "#AE9F9D",
+                "action": {
+                  "type": "product",
+                  "path": "6820",
+                  "log_code": "311860waptablist_two_type1001049#t=product\u0026act=other\u0026page=tab\u0026page_id=1860\u0026bid=3202000.1\u0026pid=6820"
+                },
+                "product_id": "6820",
+                "product_name": "米动手表青春版",
+                "product_brief": "满足你的各种运动需求",
+                "product_price": "399",
+                "product_org_price": "399",
+                "margin_left": 0,
+                "margin_right": 0
+              },
+              {
+                "img_url": "//i8.mifile.cn/v1/a1/7a20086a-90ef-31d2-79c3-d2223bafe6c0.webp?w=1080\u0026h=1080",
+                "img_url_webp": "//i8.mifile.cn/v1/a1/7a20086a-90ef-31d2-79c3-d2223bafe6c0.webp?w=1080\u0026h=1080",
+                "img_url_color": "#A47D7A",
+                "action": {
+                  "type": "product",
+                  "path": "4786",
+                  "log_code": "311860waptablist_two_type1002049#t=product\u0026act=other\u0026page=tab\u0026page_id=1860\u0026bid=3202000.2\u0026pid=4786"
+                },
+                "product_id": "4786",
+                "product_name": "AMAZFIT运动手表",
+                "product_brief": "扔掉手机去跑步",
+                "product_price": "799",
+                "product_org_price": "799",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "list_two_type1",
+          "body": {
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "img_url": "//i8.mifile.cn/v1/a1/808b0701-2d62-73e5-0b16-81da5e8ece7c.webp?w=1080\u0026h=1080",
+                "img_url_webp": "//i8.mifile.cn/v1/a1/808b0701-2d62-73e5-0b16-81da5e8ece7c.webp?w=1080\u0026h=1080",
+                "img_url_color": "#CBDCE4",
+                "action": {
+                  "type": "product",
+                  "path": "5299",
+                  "log_code": "311860waptablist_two_type1001050#t=product\u0026act=other\u0026page=tab\u0026page_id=1860\u0026bid=3202001.1\u0026pid=5299"
+                },
+                "product_id": "5299",
+                "product_name": "小米米家对讲机",
+                "product_brief": "8天超长待机，FM收音机",
+                "product_price": "249",
+                "product_org_price": "249",
+                "margin_left": 0,
+                "margin_right": 0
+              },
+              {
+                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/851fab54e50e3f1c57d0e2c646ad1fca.jpg?w=1080\u0026h=1080",
+                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/851fab54e50e3f1c57d0e2c646ad1fca.jpg?w=1080\u0026h=1080",
+                "img_url_color": "#FFFFFF",
+                "action": {
+                  "type": "product",
+                  "path": "7850",
+                  "log_code": "311860waptablist_two_type1002050#t=product\u0026act=other\u0026page=tab\u0026page_id=1860\u0026bid=3202001.2\u0026pid=7850"
+                },
+                "product_id": "7850",
+                "product_name": "Amazfit智能运动手表2",
+                "product_brief": "陶瓷表圈，50米防水",
+                "product_price": "999",
+                "product_org_price": "999",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "divider_line",
+          "body": {
+            "line_color": "#f5f5f5",
+            "line_height": "24",
+            "height": "0",
+            "width": "0",
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "cells_auto_fill",
+          "block_id": "3195835",
+          "body": {
+            "bg_color": "#ffffff",
+            "w": 720,
+            "h": 280,
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "w": 720,
+                "h": 280,
+                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/79627fb747111c3e01f94cac10d61db3.jpg",
+                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/79627fb747111c3e01f94cac10d61db3.jpg",
+                "img_url_color": "#FFFFFF",
+                "action": {
+                  "type": "channel",
+                  "path": "1852",
+                  "log_code": "311860waptabcells_auto_fill001052#t=normal\u0026act=other\u0026page=tab\u0026page_id=1860\u0026bid=3195835.1"
+                },
+                "path_type": "image",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "recommend_flag": "0",
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "divider_line",
+          "body": {
+            "line_color": "#f5f5f5",
+            "line_height": "24",
+            "height": "0",
+            "width": "0",
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "cells_auto_fill",
+          "block_id": "3000523",
+          "body": {
+            "w": 720,
+            "h": 80,
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "w": 720,
+                "h": 80,
+                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/e9ac63f857282845550bdbf0d816e74d.png",
+                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/e9ac63f857282845550bdbf0d816e74d.png",
+                "img_url_color": "#FFFFFF",
+                "action": {
+                  "log_code": "311860waptabcells_auto_fill001054#t=normal\u0026act=other\u0026page=tab\u0026page_id=1860\u0026bid=3000523.1"
+                },
+                "path_type": "image",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "recommend_flag": "0",
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "list_two_type1",
+          "body": {
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/ffe8610a808d8254fb5d37b141d0bf5f.jpg?w=1080\u0026h=1080",
+                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/ffe8610a808d8254fb5d37b141d0bf5f.jpg?w=1080\u0026h=1080",
+                "img_url_color": "#FFFFFF",
+                "action": {
+                  "type": "product",
+                  "path": "8105",
+                  "log_code": "311860waptablist_two_type1001055#t=product\u0026act=other\u0026page=tab\u0026page_id=1860\u0026bid=3005586.1\u0026pid=8105"
+                },
+                "product_id": "8105",
+                "product_name": "小米路由器4",
+                "product_brief": "双频双核 更快更稳定",
+                "product_price": "199",
+                "product_org_price": "199",
+                "product_tag": "//i8.mifile.cn/v1/a1/289039eb-c3ed-7c26-69c3-5b07b72a797d.webp?w=120\u0026h=48",
+                "product_tag_webp": "//i8.mifile.cn/v1/a1/289039eb-c3ed-7c26-69c3-5b07b72a797d.webp?w=120\u0026h=48",
+                "margin_left": 0,
+                "margin_right": 0
+              },
+              {
+                "img_url": "//i8.mifile.cn/v1/a1/57912412-70d9-515c-6a6f-1b22cb5ed93e.webp?w=1080\u0026h=1080",
+                "img_url_webp": "//i8.mifile.cn/v1/a1/57912412-70d9-515c-6a6f-1b22cb5ed93e.webp?w=1080\u0026h=1080",
+                "img_url_color": "#B2C2CB",
+                "action": {
+                  "type": "product",
+                  "path": "5663",
+                  "log_code": "311860waptablist_two_type1002055#t=product\u0026act=other\u0026page=tab\u0026page_id=1860\u0026bid=3005586.2\u0026pid=5663"
+                },
+                "product_id": "5663",
+                "product_name": "小米路由器Pro",
+                "product_brief": "全新一代智能家庭中心",
+                "product_price": "499",
+                "product_org_price": "499",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "list_two_type1",
+          "body": {
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "img_url": "//i8.mifile.cn/v1/a1/f7e52cd7-16e5-857a-34dd-0a7ad13c1842.webp?w=1080\u0026h=1080\u0026bg=E0E0E0",
+                "img_url_webp": "//i8.mifile.cn/v1/a1/f7e52cd7-16e5-857a-34dd-0a7ad13c1842.webp?w=1080\u0026h=1080\u0026bg=E0E0E0",
+                "img_url_color": "#E0E0E0",
+                "action": {
+                  "type": "product",
+                  "path": "5825",
+                  "log_code": "311860waptablist_two_type1001056#t=product\u0026act=other\u0026page=tab\u0026page_id=1860\u0026bid=3230245.1\u0026pid=5825"
+                },
+                "product_id": "5825",
+                "product_name": "小米路由器 3G",
+                "product_brief": "双核双千兆，上网很快",
+                "product_price": "249",
+                "product_org_price": "249",
+                "margin_left": 0,
+                "margin_right": 0
+              },
+              {
+                "img_url": "//i8.mifile.cn/v1/a1/058dd3ce-e8d2-678d-ed48-7c412b202eb6.webp?w=1080\u0026h=1080\u0026bg=D7D7D7",
+                "img_url_webp": "//i8.mifile.cn/v1/a1/058dd3ce-e8d2-678d-ed48-7c412b202eb6.webp?w=1080\u0026h=1080\u0026bg=D7D7D7",
+                "img_url_color": "#D7D7D7",
+                "action": {
+                  "type": "product",
+                  "path": "4108",
+                  "log_code": "311860waptablist_two_type1002056#t=product\u0026act=other\u0026page=tab\u0026page_id=1860\u0026bid=3230245.2\u0026pid=4108"
+                },
+                "product_id": "4108",
+                "product_name": "小米路由器 3C",
+                "product_brief": "一款更轻快的好路由",
+                "product_price": "99",
+                "product_org_price": "99",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "list_two_type1",
+          "body": {
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "img_url": "//i8.mifile.cn/v1/a1/60a35f39-6e7d-c00f-1e37-3de9de50afcf.webp?w=1080\u0026h=1080\u0026bg=C6E5E5",
+                "img_url_webp": "//i8.mifile.cn/v1/a1/60a35f39-6e7d-c00f-1e37-3de9de50afcf.webp?w=1080\u0026h=1080\u0026bg=C6E5E5",
+                "img_url_color": "#C6E5E5",
+                "action": {
+                  "type": "product",
+                  "path": "6297",
+                  "log_code": "311860waptablist_two_type1001057#t=product\u0026act=other\u0026page=tab\u0026page_id=1860\u0026bid=3005587.1\u0026pid=6297"
+                },
+                "product_id": "6297",
+                "product_name": "WiFi 电力猫（单只版）",
+                "product_brief": "有插座的地方，就有WiFi ",
+                "product_price": "169",
+                "product_org_price": "169",
+                "margin_left": 0,
+                "margin_right": 0
+              },
+              {
+                "img_url": "//i8.mifile.cn/v1/a1/5fcf0769-1485-a856-3ec6-1945c5150968.webp?w=1080\u0026h=1080",
+                "img_url_webp": "//i8.mifile.cn/v1/a1/5fcf0769-1485-a856-3ec6-1945c5150968.webp?w=1080\u0026h=1080",
+                "img_url_color": "#B3B3B3",
+                "action": {
+                  "type": "product",
+                  "path": "5433",
+                  "log_code": "311860waptablist_two_type1002057#t=product\u0026act=other\u0026page=tab\u0026page_id=1860\u0026bid=3005587.2\u0026pid=5433"
+                },
+                "product_id": "5433",
+                "product_name": "小米路由器HD",
+                "product_brief": "智能家庭中心 内置1TB硬盘",
+                "product_price": "1299",
+                "product_org_price": "1299",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "divider_line",
+          "body": {
+            "line_color": "#f5f5f5",
+            "line_height": "24",
+            "height": "0",
+            "width": "0",
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "cells_auto_fill",
+          "block_id": "3000528",
+          "body": {
+            "w": 720,
+            "h": 80,
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "w": 720,
+                "h": 80,
+                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/b487835b0611004e6a69af7a1c05b8c4.png",
+                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/b487835b0611004e6a69af7a1c05b8c4.png",
+                "img_url_color": "#FFFFFF",
+                "action": {
+                  "log_code": "311860waptabcells_auto_fill001059#t=normal\u0026act=other\u0026page=tab\u0026page_id=1860\u0026bid=3000528.1"
+                },
+                "path_type": "image",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "recommend_flag": "0",
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "list_two_type1",
+          "body": {
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/9fbc4df86c8377ff7411c9942c003fff.jpg?w=1080\u0026h=1080",
+                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/9fbc4df86c8377ff7411c9942c003fff.jpg?w=1080\u0026h=1080",
+                "img_url_color": "#FFFFFF",
+                "action": {
+                  "type": "product",
+                  "path": "3377",
+                  "log_code": "311860waptablist_two_type1001060#t=product\u0026act=other\u0026page=tab\u0026page_id=1860\u0026bid=3000530.1\u0026pid=3377"
+                },
+                "product_id": "3377",
+                "product_name": "小米净水器（厨下式）",
+                "product_brief": "400加仑大流量，隐藏安装",
+                "product_price": "1999",
+                "product_org_price": "1999",
+                "margin_left": 0,
+                "margin_right": 0
+              },
+              {
+                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/0bae639f35315bd0fce05a375eb4558a.jpg?w=1080\u0026h=1080",
+                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/0bae639f35315bd0fce05a375eb4558a.jpg?w=1080\u0026h=1080",
+                "img_url_color": "#FFFFFF",
+                "action": {
+                  "type": "product",
+                  "path": "2392",
+                  "log_code": "311860waptablist_two_type1002060#t=product\u0026act=other\u0026page=tab\u0026page_id=1860\u0026bid=3000530.2\u0026pid=2392"
+                },
+                "product_id": "2392",
+                "product_name": "净水器厨上式增强版",
+                "product_brief": "纯水多废水少",
+                "product_price": "1499",
+                "product_org_price": "1499",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "list_two_type1",
+          "body": {
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "img_url": "//i8.mifile.cn/v1/a1/a3b0fd45-5ab5-bc2d-9a54-4bb4c5e148b4.webp?w=1080\u0026h=1080",
+                "img_url_webp": "//i8.mifile.cn/v1/a1/a3b0fd45-5ab5-bc2d-9a54-4bb4c5e148b4.webp?w=1080\u0026h=1080",
+                "img_url_color": "#C0D7CB",
+                "action": {
+                  "type": "product",
+                  "path": "7229",
+                  "log_code": "311860waptablist_two_type1001061#t=product\u0026act=other\u0026page=tab\u0026page_id=1860\u0026bid=3230246.1\u0026pid=7229"
+                },
+                "product_id": "7229",
+                "product_name": "小米米家空气净化器 2S",
+                "product_brief": "经典再升级，好空气看得见",
+                "product_price": "899",
+                "product_org_price": "899",
+                "margin_left": 0,
+                "margin_right": 0
+              },
+              {
+                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/a8d3a4fea422bd6026efb4b0fb789cb4.jpg?w=1080\u0026h=1080",
+                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/a8d3a4fea422bd6026efb4b0fb789cb4.jpg?w=1080\u0026h=1080",
+                "img_url_color": "#FFFFFF",
+                "action": {
+                  "type": "product",
+                  "path": "7852",
+                  "log_code": "311860waptablist_two_type1002061#t=product\u0026act=other\u0026page=tab\u0026page_id=1860\u0026bid=3230246.2\u0026pid=7852"
+                },
+                "product_id": "7852",
+                "product_name": "小米净水器1A（厨下式）",
+                "product_brief": "小身材节省空间，大流量直出纯净水",
+                "product_price": "1499",
+                "product_org_price": "1499",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "list_two_type1",
+          "body": {
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "img_url": "//i8.mifile.cn/v1/a1/1ea1fb37-2da1-ae02-311e-7928a67a5bb0.webp?w=1080\u0026h=1080\u0026bg=A8937C",
+                "img_url_webp": "//i8.mifile.cn/v1/a1/1ea1fb37-2da1-ae02-311e-7928a67a5bb0.webp?w=1080\u0026h=1080\u0026bg=A8937C",
+                "img_url_color": "#A8937C",
+                "action": {
+                  "type": "product",
+                  "path": "3398",
+                  "log_code": "311860waptablist_two_type1001062#t=product\u0026act=other\u0026page=tab\u0026page_id=1860\u0026bid=3136141.1\u0026pid=3398"
+                },
+                "product_id": "3398",
+                "product_name": "小米空气净化器 2",
+                "product_brief": "10分钟，房间空气焕然一新",
+                "product_price": "699",
+                "product_org_price": "699",
+                "margin_left": 0,
+                "margin_right": 0
+              },
+              {
+                "img_url": "//i8.mifile.cn/v1/a1/8ef1164d-e1c5-ed1e-f827-b9a201520586.webp?w=1080\u0026h=1080\u0026bg=D5D7DC",
+                "img_url_webp": "//i8.mifile.cn/v1/a1/8ef1164d-e1c5-ed1e-f827-b9a201520586.webp?w=1080\u0026h=1080\u0026bg=D5D7DC",
+                "img_url_color": "#D5D7DC",
+                "action": {
+                  "type": "product",
+                  "path": "4802",
+                  "log_code": "311860waptablist_two_type1002062#t=product\u0026act=other\u0026page=tab\u0026page_id=1860\u0026bid=3136141.2\u0026pid=4802"
+                },
+                "product_id": "4802",
+                "product_name": "米家空气净化器Pro",
+                "product_brief": "大空间，快循环",
+                "product_price": "1499",
+                "product_org_price": "1499",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "list_two_type1",
+          "body": {
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/eb7f50c739406bb059b19eaea1a71cfa.jpg?w=1080\u0026h=1080",
+                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/eb7f50c739406bb059b19eaea1a71cfa.jpg?w=1080\u0026h=1080",
+                "img_url_color": "#FFFFFF",
+                "action": {
+                  "type": "product",
+                  "path": "8016",
+                  "log_code": "311860waptablist_two_type1001063#t=product\u0026act=other\u0026page=tab\u0026page_id=1860\u0026bid=3005871.1\u0026pid=8016"
+                },
+                "product_id": "8016",
+                "product_name": "小米净水器滤芯 反渗透",
+                "product_brief": "有效滤除抗生素、重金属、细菌、亚硝酸盐、有机物等",
+                "product_price": "499",
+                "product_org_price": "499",
+                "margin_left": 0,
+                "margin_right": 0
+              },
+              {
+                "img_url": "//i8.mifile.cn/v1/a1/5e01f285-c8f9-a49e-7bd3-59d2cce285da.webp?w=1080\u0026h=1080",
+                "img_url_webp": "//i8.mifile.cn/v1/a1/5e01f285-c8f9-a49e-7bd3-59d2cce285da.webp?w=1080\u0026h=1080",
+                "img_url_color": "#A9CAC2",
+                "action": {
+                  "type": "product",
+                  "path": "4665",
+                  "log_code": "311860waptablist_two_type1002063#t=product\u0026act=other\u0026page=tab\u0026page_id=1860\u0026bid=3005871.2\u0026pid=4665"
+                },
+                "product_id": "4665",
+                "product_name": "空气净化器除甲醛滤芯",
+                "product_brief": "阻挡细菌，有效去除甲醛",
+                "product_price": "169",
+                "product_org_price": "169",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "list_two_type1",
+          "body": {
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "img_url": "//i8.mifile.cn/v1/a1/b00cc150-343a-cddd-bc81-5eb466b517c3.webp?w=1080\u0026h=1080\u0026bg=6B6C6E",
+                "img_url_webp": "//i8.mifile.cn/v1/a1/b00cc150-343a-cddd-bc81-5eb466b517c3.webp?w=1080\u0026h=1080\u0026bg=6B6C6E",
+                "img_url_color": "#6B6C6E",
+                "action": {
+                  "type": "product",
+                  "path": "4942",
+                  "log_code": "311860waptablist_two_type1001064#t=product\u0026act=other\u0026page=tab\u0026page_id=1860\u0026bid=3005872.1\u0026pid=4942"
+                },
+                "product_id": "4942",
+                "product_name": "车载空气净化器",
+                "product_brief": "高效净化车内空气",
+                "product_price": "449",
+                "product_org_price": "449",
+                "margin_left": 0,
+                "margin_right": 0
+              },
+              {
+                "img_url": "//i8.mifile.cn/v1/a1/2d50bc68-ac35-7435-cd0b-d052b9aaa448.webp?w=1080\u0026h=1080",
+                "img_url_webp": "//i8.mifile.cn/v1/a1/2d50bc68-ac35-7435-cd0b-d052b9aaa448.webp?w=1080\u0026h=1080",
+                "img_url_color": "#C5DCA4",
+                "action": {
+                  "type": "product",
+                  "path": "7522",
+                  "log_code": "311860waptablist_two_type1002064#t=product\u0026act=other\u0026page=tab\u0026page_id=1860\u0026bid=3005872.2\u0026pid=7522"
+                },
+                "product_id": "7522",
+                "product_name": "米家空气净化器MAX",
+                "product_brief": "适用大面积，先进静音技术",
+                "product_price": "1999",
+                "product_org_price": "1999",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "divider_line",
+          "body": {
+            "line_color": "#f5f5f5",
+            "line_height": "24",
+            "height": "0",
+            "width": "0",
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "cells_auto_fill",
+          "block_id": "3180095",
+          "body": {
+            "bg_color": "#ffffff",
+            "w": 720,
+            "h": 80,
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "w": 720,
+                "h": 80,
+                "img_url": "//i8.mifile.cn/v1/a1/24f1be74-0c84-15d9-fca0-1c4ee0667862.webp",
+                "img_url_webp": "//i8.mifile.cn/v1/a1/24f1be74-0c84-15d9-fca0-1c4ee0667862.webp",
+                "img_url_color": "#F8F8F8",
+                "action": {
+                  "type": "none",
+                  "log_code": "311860waptabcells_auto_fill001066#t=normal\u0026act=other\u0026page=tab\u0026page_id=1860\u0026bid=3180095.1"
+                },
+                "path_type": "image",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "recommend_flag": "0",
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "list_one_type12",
+          "body": {
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/d4fbdc1f8165875eac99bfc8c4b46cad.jpg?w=1080\u0026h=540",
+                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/d4fbdc1f8165875eac99bfc8c4b46cad.jpg?w=1080\u0026h=540",
+                "img_url_color": "#FFFFFF",
+                "action": {
+                  "type": "product",
+                  "path": "8026",
+                  "log_code": "311860waptablist_one_type12001067#t=product\u0026act=other\u0026page=tab\u0026page_id=1860\u0026bid=3005595.1\u0026pid=8026"
+                },
+                "product_id": "8026",
+                "product_name": "小米米家智能摄像机云台版",
+                "product_brief": "高清画质，守护家的每一面",
+                "product_price": "199",
+                "product_org_price": "199",
+                "product_tag": "//i8.mifile.cn/v1/a1/289039eb-c3ed-7c26-69c3-5b07b72a797d.webp?w=120\u0026h=48",
+                "product_tag_webp": "//i8.mifile.cn/v1/a1/289039eb-c3ed-7c26-69c3-5b07b72a797d.webp?w=120\u0026h=48",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "list_two_type1",
+          "body": {
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/c22af4a7114219e6c0488b820474eedc.jpg?w=1080\u0026h=1080\u0026bg=FFFFFF",
+                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/c22af4a7114219e6c0488b820474eedc.jpg?w=1080\u0026h=1080\u0026bg=FFFFFF",
+                "img_url_color": "#FFFFFF",
+                "action": {
+                  "type": "product",
+                  "path": "2723",
+                  "log_code": "311860waptablist_two_type1001068#t=product\u0026act=other\u0026page=tab\u0026page_id=1860\u0026bid=3005596.1\u0026pid=2723"
+                },
+                "product_id": "2723",
+                "product_name": "米家小白智能摄像机",
+                "product_brief": "360° 全景拍摄，红外夜视",
+                "product_price": "399",
+                "product_org_price": "399",
+                "margin_left": 0,
+                "margin_right": 0
+              },
+              {
+                "img_url": "//i8.mifile.cn/v1/a1/63478c28-1971-a8f7-c80a-511e3ed966e8.webp?w=1080\u0026h=1080",
+                "img_url_webp": "//i8.mifile.cn/v1/a1/63478c28-1971-a8f7-c80a-511e3ed966e8.webp?w=1080\u0026h=1080",
+                "img_url_color": "#D3D9DA",
+                "action": {
+                  "type": "product",
+                  "path": "7088",
+                  "log_code": "311860waptablist_two_type1002068#t=product\u0026act=other\u0026page=tab\u0026page_id=1860\u0026bid=3005596.2\u0026pid=7088"
+                },
+                "product_id": "7088",
+                "product_name": "小白智能摄像机大众版",
+                "product_brief": "家庭看护小卫士",
+                "product_price": "99",
+                "product_org_price": "109",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "list_two_type1",
+          "body": {
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "img_url": "//i8.mifile.cn/v1/a1/ec914618-ea89-dabb-2354-1844eb83c1f2.webp?w=1080\u0026h=1080",
+                "img_url_webp": "//i8.mifile.cn/v1/a1/ec914618-ea89-dabb-2354-1844eb83c1f2.webp?w=1080\u0026h=1080",
+                "img_url_color": "#D7D8DA",
+                "action": {
+                  "type": "product",
+                  "path": "7160",
+                  "log_code": "311860waptablist_two_type1001069#t=product\u0026act=other\u0026page=tab\u0026page_id=1860\u0026bid=3060387.1\u0026pid=7160"
+                },
+                "product_id": "7160",
+                "product_name": "大方智能摄像机",
+                "product_brief": "高清双云台，看家更放心",
+                "product_price": "149",
+                "product_org_price": "149",
+                "margin_left": 0,
+                "margin_right": 0
+              },
+              {
+                "img_url": "//i8.mifile.cn/v1/a1/d60cc88b-b88f-752c-0e01-59738fd51dc7.webp?w=1080\u0026h=1080\u0026bg=DCDCDC",
+                "img_url_webp": "//i8.mifile.cn/v1/a1/d60cc88b-b88f-752c-0e01-59738fd51dc7.webp?w=1080\u0026h=1080\u0026bg=DCDCDC",
+                "img_url_color": "#DCDCDC",
+                "action": {
+                  "type": "product",
+                  "path": "5145",
+                  "log_code": "311860waptablist_two_type1002069#t=product\u0026act=other\u0026page=tab\u0026page_id=1860\u0026bid=3060387.2\u0026pid=5145"
+                },
+                "product_id": "5145",
+                "product_name": "小方智能摄像1S",
+                "product_brief": "1080P清晰画质，安全看家",
+                "product_price": "99",
+                "product_org_price": "99",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "list_two_type1",
+          "body": {
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "img_url": "//i8.mifile.cn/v1/a1/a3856ff1-d79e-cdfc-bfe6-fa372289ecb9.webp?w=1080\u0026h=1080",
+                "img_url_webp": "//i8.mifile.cn/v1/a1/a3856ff1-d79e-cdfc-bfe6-fa372289ecb9.webp?w=1080\u0026h=1080",
+                "img_url_color": "#919390",
+                "action": {
+                  "type": "product",
+                  "path": "5469",
+                  "log_code": "311860waptablist_two_type1001070#t=product\u0026act=other\u0026page=tab\u0026page_id=1860\u0026bid=3005597.1\u0026pid=5469"
+                },
+                "product_id": "5469",
+                "product_name": "米家全景相机套装 ",
+                "product_brief": "旅行运动360°自拍神器",
+                "product_price": "1699",
+                "product_org_price": "1699",
+                "margin_left": 0,
+                "margin_right": 0
+              },
+              {
+                "img_url": "//i8.mifile.cn/v1/a1/0e41ac7d-0ef3-6045-fe48-09773e8c5fda.webp?w=1080\u0026h=1080",
+                "img_url_webp": "//i8.mifile.cn/v1/a1/0e41ac7d-0ef3-6045-fe48-09773e8c5fda.webp?w=1080\u0026h=1080",
+                "img_url_color": "#8EBAA9",
+                "action": {
+                  "type": "product",
+                  "path": "6526",
+                  "log_code": "311860waptablist_two_type1002070#t=product\u0026act=other\u0026page=tab\u0026page_id=1860\u0026bid=3005597.2\u0026pid=6526"
+                },
+                "product_id": "6526",
+                "product_name": "米家小相机",
+                "product_brief": "清晰捕捉美好瞬间",
+                "product_price": "699",
+                "product_org_price": "699",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "list_two_type1",
+          "body": {
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/dbba6838f2ef6e8f32cfb0e39b930cc2.jpg?w=1080\u0026h=1080",
+                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/dbba6838f2ef6e8f32cfb0e39b930cc2.jpg?w=1080\u0026h=1080",
+                "img_url_color": "#FFFFFF",
+                "action": {
+                  "type": "product",
+                  "path": "7695",
+                  "log_code": "311860waptablist_two_type1001071#t=product\u0026act=other\u0026page=tab\u0026page_id=1860\u0026bid=3118319.1\u0026pid=7695"
+                },
+                "product_id": "7695",
+                "product_name": "MADV Mini 全景相机",
+                "product_brief": "360°全景拍摄，全景直播",
+                "product_price": "599",
+                "product_org_price": "599",
+                "margin_left": 0,
+                "margin_right": 0
+              },
+              {
+                "img_url": "//i8.mifile.cn/v1/a1/fb47024e-7f6c-c9fa-41a5-6bb7d97e403c.webp?w=1080\u0026h=1080\u0026bg=B98280",
+                "img_url_webp": "//i8.mifile.cn/v1/a1/fb47024e-7f6c-c9fa-41a5-6bb7d97e403c.webp?w=1080\u0026h=1080\u0026bg=B98280",
+                "img_url_color": "#B98280",
+                "action": {
+                  "type": "product",
+                  "path": "5708",
+                  "log_code": "311860waptablist_two_type1002071#t=product\u0026act=other\u0026page=tab\u0026page_id=1860\u0026bid=3118319.2\u0026pid=5708"
+                },
+                "product_id": "5708",
+                "product_name": "米家智能家庭套装",
+                "product_brief": "实时感应门窗开关状态",
+                "product_price": "329",
+                "product_org_price": "329",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "divider_line",
+          "body": {
+            "line_color": "#f5f5f5",
+            "line_height": "24",
+            "height": "0",
+            "width": "0",
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "cells_auto_fill",
+          "block_id": "3005606",
+          "body": {
+            "w": 720,
+            "h": 80,
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "w": 720,
+                "h": 80,
+                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/54e8abb99350289287630833146c931a.png",
+                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/54e8abb99350289287630833146c931a.png",
+                "img_url_color": "#FFFFFF",
+                "action": {
+                  "log_code": "311860waptabcells_auto_fill001073#t=normal\u0026act=other\u0026page=tab\u0026page_id=1860\u0026bid=3005606.1"
+                },
+                "path_type": "image",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "recommend_flag": "0",
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "list_one_type12",
+          "body": {
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "img_url": "//i8.mifile.cn/v1/a1/d73f379a-dfb3-c388-3669-b2213266faa8.webp?w=1080\u0026h=540\u0026bg=7D7E82",
+                "img_url_webp": "//i8.mifile.cn/v1/a1/d73f379a-dfb3-c388-3669-b2213266faa8.webp?w=1080\u0026h=540\u0026bg=7D7E82",
+                "img_url_color": "#7D7E82",
+                "action": {
+                  "type": "product",
+                  "path": "1677",
+                  "log_code": "311860waptablist_one_type12001074#t=product\u0026act=other\u0026page=tab\u0026page_id=1860\u0026bid=3005607.1\u0026pid=1677"
+                },
+                "product_id": "1677",
+                "product_name": "小米万能遥控器",
+                "product_brief": "家庭智能控制中心",
+                "product_price": "79",
+                "product_org_price": "79",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "list_two_type1",
+          "body": {
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "img_url": "//i8.mifile.cn/v1/a1/e155b6c3-8610-4bd3-2158-cea74ae33182.webp?w=1080\u0026h=1080\u0026bg=EBEDEF",
+                "img_url_webp": "//i8.mifile.cn/v1/a1/e155b6c3-8610-4bd3-2158-cea74ae33182.webp?w=1080\u0026h=1080\u0026bg=EBEDEF",
+                "img_url_color": "#EBEDEF",
+                "action": {
+                  "type": "product",
+                  "path": "4949",
+                  "log_code": "311860waptablist_two_type1001075#t=product\u0026act=other\u0026page=tab\u0026page_id=1860\u0026bid=3000535.1\u0026pid=4949"
+                },
+                "product_id": "4949",
+                "product_name": "米家多功能网关",
+                "product_brief": "米家智能配件控制中心",
+                "product_price": "149",
+                "product_org_price": "149",
+                "margin_left": 0,
+                "margin_right": 0
+              },
+              {
+                "img_url": "//i8.mifile.cn/v1/a1/35634df6-31b0-d99f-b095-a15f98328070.webp?w=1080\u0026h=1080\u0026bg=EFF1F3",
+                "img_url_webp": "//i8.mifile.cn/v1/a1/35634df6-31b0-d99f-b095-a15f98328070.webp?w=1080\u0026h=1080\u0026bg=EFF1F3",
+                "img_url_color": "#EFF1F3",
+                "action": {
+                  "type": "product",
+                  "path": "5009",
+                  "log_code": "311860waptablist_two_type1002075#t=product\u0026act=other\u0026page=tab\u0026page_id=1860\u0026bid=3000535.2\u0026pid=5009"
+                },
+                "product_id": "5009",
+                "product_name": "米家温湿度传感器",
+                "product_brief": "智能联动，改善室内温湿度",
+                "product_price": "49",
+                "product_org_price": "49",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "list_two_type1",
+          "body": {
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "img_url": "//i8.mifile.cn/v1/a1/7441815c-10e6-8811-d87a-3b7355e8a7e7.webp?w=1080\u0026h=1080\u0026bg=EDF0F2",
+                "img_url_webp": "//i8.mifile.cn/v1/a1/7441815c-10e6-8811-d87a-3b7355e8a7e7.webp?w=1080\u0026h=1080\u0026bg=EDF0F2",
+                "img_url_color": "#EDF0F2",
+                "action": {
+                  "type": "product",
+                  "path": "5008",
+                  "log_code": "311860waptablist_two_type1001076#t=product\u0026act=other\u0026page=tab\u0026page_id=1860\u0026bid=3004105.1\u0026pid=5008"
+                },
+                "product_id": "5008",
+                "product_name": "米家智能插座（Zigbee版）",
+                "product_brief": "超智能的插座",
+                "product_price": "69",
+                "product_org_price": "69",
+                "margin_left": 0,
+                "margin_right": 0
+              },
+              {
+                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/13bd4c6106f7cf53a3d779340b180be6.jpg?w=1080\u0026h=1080\u0026bg=FFFFFF",
+                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/13bd4c6106f7cf53a3d779340b180be6.jpg?w=1080\u0026h=1080\u0026bg=FFFFFF",
+                "img_url_color": "#FFFFFF",
+                "action": {
+                  "type": "product",
+                  "path": "5817",
+                  "log_code": "311860waptablist_two_type1002076#t=product\u0026act=other\u0026page=tab\u0026page_id=1860\u0026bid=3004105.2\u0026pid=5817"
+                },
+                "product_id": "5817",
+                "product_name": "米家空调伴侣（智能网关）",
+                "product_brief": "让传统空调秒变智能",
+                "product_price": "169",
+                "product_org_price": "169",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "divider_line",
+          "body": {
+            "line_color": "#f5f5f5",
+            "line_height": "24",
+            "height": "0",
+            "width": "0",
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "cells_auto_fill",
+          "block_id": "3180099",
+          "body": {
+            "bg_color": "#ffffff",
+            "w": 720,
+            "h": 80,
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "w": 720,
+                "h": 80,
+                "img_url": "//i8.mifile.cn/v1/a1/fe5b12df-3cf7-021e-213b-b8dadced9ab4.webp",
+                "img_url_webp": "//i8.mifile.cn/v1/a1/fe5b12df-3cf7-021e-213b-b8dadced9ab4.webp",
+                "img_url_color": "#FAFAFA",
+                "action": {
+                  "type": "none",
+                  "log_code": "311860waptabcells_auto_fill001078#t=normal\u0026act=other\u0026page=tab\u0026page_id=1860\u0026bid=3180099.1"
+                },
+                "path_type": "image",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "recommend_flag": "0",
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "list_two_type1",
+          "body": {
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "img_url": "//i8.mifile.cn/v1/a1/66e38543-5c71-c593-5634-15b6a043a6c1.webp?w=1080\u0026h=1080",
+                "img_url_webp": "//i8.mifile.cn/v1/a1/66e38543-5c71-c593-5634-15b6a043a6c1.webp?w=1080\u0026h=1080",
+                "img_url_color": "#F6F4EB",
+                "action": {
+                  "type": "product",
+                  "path": "7591",
+                  "log_code": "311860waptablist_two_type1001080#t=product\u0026act=other\u0026page=tab\u0026page_id=1860\u0026bid=3230247.1\u0026pid=7591"
+                },
+                "product_id": "7591",
+                "product_name": "米家四位四控插线板（含3口USB 2A快充）",
+                "product_brief": "四位分控，随用随开",
+                "product_price": "89",
+                "product_org_price": "89",
+                "margin_left": 0,
+                "margin_right": 0
+              },
+              {
+                "img_url": "//i8.mifile.cn/v1/a1/a8c1e4b1-4771-1cdf-65a1-4418ec2073f7.webp?w=1080\u0026h=1080",
+                "img_url_webp": "//i8.mifile.cn/v1/a1/a8c1e4b1-4771-1cdf-65a1-4418ec2073f7.webp?w=1080\u0026h=1080",
+                "img_url_color": "#B7D3E1",
+                "action": {
+                  "type": "product",
+                  "path": "7594",
+                  "log_code": "311860waptablist_two_type1002080#t=product\u0026act=other\u0026page=tab\u0026page_id=1860\u0026bid=3230247.2\u0026pid=7594"
+                },
+                "product_id": "7594",
+                "product_name": "米家插线板3位基础版",
+                "product_brief": "极简设计，轻松便捷",
+                "product_price": "24.9",
+                "product_org_price": "24.9",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "list_two_type1",
+          "body": {
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "img_url": "//i8.mifile.cn/v1/a1/ac36de46-b542-1abf-54c4-c740eba9d535.webp?w=1080\u0026h=1080",
+                "img_url_webp": "//i8.mifile.cn/v1/a1/ac36de46-b542-1abf-54c4-c740eba9d535.webp?w=1080\u0026h=1080",
+                "img_url_color": "#EBF1F4",
+                "action": {
+                  "type": "product",
+                  "path": "7592",
+                  "log_code": "311860waptablist_two_type1001081#t=product\u0026act=other\u0026page=tab\u0026page_id=1860\u0026bid=3230248.1\u0026pid=7592"
+                },
+                "product_id": "7592",
+                "product_name": "米家二位转换器（含2口USB 2A快充）",
+                "product_brief": "双国标组合插孔，双USB充电口，过载保护",
+                "product_price": "44.9",
+                "product_org_price": "44.9",
+                "margin_left": 0,
+                "margin_right": 0
+              },
+              {
+                "img_url": "//i8.mifile.cn/v1/a1/cd606494-7ad5-c900-a722-bb69661fed21.webp?w=1080\u0026h=1080",
+                "img_url_webp": "//i8.mifile.cn/v1/a1/cd606494-7ad5-c900-a722-bb69661fed21.webp?w=1080\u0026h=1080",
+                "img_url_color": "#C1D9E6",
+                "action": {
+                  "type": "product",
+                  "path": "4888",
+                  "log_code": "311860waptablist_two_type1002081#t=product\u0026act=other\u0026page=tab\u0026page_id=1860\u0026bid=3230248.2\u0026pid=4888"
+                },
+                "product_id": "4888",
+                "product_name": "米家插线板6位基础版（含3口USB 2A快充）",
+                "product_brief": "小巧设计，便捷不占地儿",
+                "product_price": "79",
+                "product_org_price": "79",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "divider_line",
+          "body": {
+            "line_color": "#f5f5f5",
+            "line_height": "24",
+            "height": "0",
+            "width": "0",
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "cells_auto_fill",
+          "block_id": "3230250",
+          "body": {
+            "bg_color": "#ffffff",
+            "w": 720,
+            "h": 80,
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "w": 720,
+                "h": 80,
+                "img_url": "//i8.mifile.cn/v1/a1/69c23938-105f-722a-de09-ce5f038a0ea8.webp",
+                "img_url_webp": "//i8.mifile.cn/v1/a1/69c23938-105f-722a-de09-ce5f038a0ea8.webp",
+                "img_url_color": "#F8F8F8",
+                "action": {
+                  "type": "none",
+                  "log_code": "311860waptabcells_auto_fill001083#t=normal\u0026act=other\u0026page=tab\u0026page_id=1860\u0026bid=3230250.1"
+                },
+                "path_type": "image",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "recommend_flag": "0",
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "list_one_type12",
+          "body": {
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "img_url": "//i8.mifile.cn/v1/a1/7e46acef-fe30-e366-fd1c-cc380d2e57cc.webp?w=1080\u0026h=540\u0026bg=CFC3BC",
+                "img_url_webp": "//i8.mifile.cn/v1/a1/7e46acef-fe30-e366-fd1c-cc380d2e57cc.webp?w=1080\u0026h=540\u0026bg=CFC3BC",
+                "img_url_color": "#CFC3BC",
+                "action": {
+                  "type": "product",
+                  "path": "6802",
+                  "log_code": "311860waptablist_one_type12001084#t=product\u0026act=other\u0026page=tab\u0026page_id=1860\u0026bid=3230251.1\u0026pid=6802"
+                },
+                "product_id": "6802",
+                "product_name": "小米移动电源2C 20000mAh",
+                "product_brief": "双 USB 输出接口，多出一种选择",
+                "product_price": "129",
+                "product_org_price": "129",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "list_two_type1",
+          "body": {
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "img_url": "//i8.mifile.cn/v1/a1/f65d0c33-4df6-936c-6a35-3f971511d73e.webp?w=1080\u0026h=1080",
+                "img_url_webp": "//i8.mifile.cn/v1/a1/f65d0c33-4df6-936c-6a35-3f971511d73e.webp?w=1080\u0026h=1080",
+                "img_url_color": "#7B8A95",
+                "action": {
+                  "type": "product",
+                  "path": "7463",
+                  "log_code": "311860waptablist_two_type1001085#t=product\u0026act=other\u0026page=tab\u0026page_id=1860\u0026bid=3230252.1\u0026pid=7463"
+                },
+                "product_id": "7463",
+                "product_name": "新小米移动电源2 (10000mAh)",
+                "product_brief": "双向快充，铝合金外壳",
+                "product_price": "79",
+                "product_org_price": "79",
+                "margin_left": 0,
+                "margin_right": 0
+              },
+              {
+                "img_url": "//i8.mifile.cn/v1/a1/55f43fdd-13a0-c8d8-231d-1ce2005c7327.webp?w=1080\u0026h=1080",
+                "img_url_webp": "//i8.mifile.cn/v1/a1/55f43fdd-13a0-c8d8-231d-1ce2005c7327.webp?w=1080\u0026h=1080",
+                "img_url_color": "#B2B7B7",
+                "action": {
+                  "type": "product",
+                  "path": "4998",
+                  "log_code": "311860waptablist_two_type1002085#t=product\u0026act=other\u0026page=tab\u0026page_id=1860\u0026bid=3230252.2\u0026pid=4998"
+                },
+                "product_id": "4998",
+                "product_name": "小米移动电源高配版",
+                "product_brief": " 轻薄设计，轻松出行",
+                "product_price": "149",
+                "product_org_price": "149",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "list_two_type1",
+          "body": {
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "img_url": "//i8.mifile.cn/v1/a1/5c46b47c-c837-1476-99c2-83d9b8b09213.webp?w=1080\u0026h=1080",
+                "img_url_webp": "//i8.mifile.cn/v1/a1/5c46b47c-c837-1476-99c2-83d9b8b09213.webp?w=1080\u0026h=1080",
+                "img_url_color": "#B8BABE",
+                "action": {
+                  "type": "product",
+                  "path": "7607",
+                  "log_code": "311860waptablist_two_type1001086#t=product\u0026act=other\u0026page=tab\u0026page_id=1860\u0026bid=3004107.1\u0026pid=7607"
+                },
+                "product_id": "7607",
+                "product_name": "小米移动电源2 (5000mAh版)",
+                "product_brief": "锂聚合物电芯，轻巧便捷",
+                "product_price": "49",
+                "product_org_price": "49",
+                "margin_left": 0,
+                "margin_right": 0
+              },
+              {
+                "img_url": "//i8.mifile.cn/v1/a1/0512ce0e-1cdd-801a-6fe4-833041618d2b.webp?w=1080\u0026h=1080",
+                "img_url_webp": "//i8.mifile.cn/v1/a1/0512ce0e-1cdd-801a-6fe4-833041618d2b.webp?w=1080\u0026h=1080",
+                "img_url_color": "#ADBDAD",
+                "action": {
+                  "type": "product",
+                  "path": "4085",
+                  "log_code": "311860waptablist_two_type1002086#t=product\u0026act=other\u0026page=tab\u0026page_id=1860\u0026bid=3004107.2\u0026pid=4085"
+                },
+                "product_id": "4085",
+                "product_name": "小米移动电源保护套",
+                "product_brief": "高品质有机硅胶，三色可选",
+                "product_price": "19.9",
+                "product_org_price": "19.9",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "cells_auto_fill",
+          "is_show": "Y",
+          "body": {
+            "w": 720,
+            "h": 280,
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "w": 720,
+                "h": 280,
+                "material_id": 8007,
+                "ad_position_id": 2341,
+                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/6ef0c74a1f10f6e78e92c62245d26c7a.jpg?bg=FFFFFF",
+                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/6ef0c74a1f10f6e78e92c62245d26c7a.jpg?bg=FFFFFF",
+                "img_url_color": "#FFFFFF",
+                "action": {
+                  "type": "activity",
+                  "path": "https://s1.mi.com/pages/3bd8fdb090f1f5eb66a00c84dbc5ad51/index.html",
+                  "log_code": "311860waptabcells_auto_fill001087#t=ad\u0026act=other\u0026page=tab\u0026page_id=1860\u0026bid=3221889.1\u0026adp=2341\u0026adm=8007"
+                },
+                "path_type": "image",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        }
+      ]
+    },
+    "default_type": "tab",
+    "default_id": 1860
+  },
+  "result": "ok"
+}

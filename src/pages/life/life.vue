@@ -23,8 +23,8 @@
           <div class="list-item">
             <div class="img">
               <img class="big"
-                    v-lazy="innerItem.img_url"
-                   >
+                   v-lazy="innerItem.img_url"
+              >
             </div>
             <div class="info">
               <h3 class="name">{{innerItem.product_name}}</h3>
@@ -42,21 +42,21 @@
 import axios from 'axios'
 
 export default {
-  name: 'phone',
+  name: 'life',
   data () {
     return {
       list: []
     }
   },
   mounted () {
-    this.getPhoneInfo()
+    this.getLifeInfo()
   },
   methods: {
-    getPhoneInfo () {
-      axios.get('/api/phone.json')
-        .then(this.handleGetPhoneInfoSucc)
+    getLifeInfo () {
+      axios.get('/api/life.json')
+        .then(this.handleGetLifeInfoSucc)
     },
-    handleGetPhoneInfoSucc (res) {
+    handleGetLifeInfoSucc (res) {
       res = res.data
       if (res.code === 0 && res.data) {
         const data = res.data.data.sections
@@ -137,6 +137,8 @@ export default {
             width 100%
             height:100%
         .info
+          width 3.6rem
+          box-sizing border-box
           padding: .2rem .27rem;
           text-align: left;
           .name

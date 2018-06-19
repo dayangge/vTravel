@@ -1,0 +1,3337 @@
+{
+  "code": 0,
+  "data": {
+    "tabs": [
+      {
+        "name": "推荐",
+        "page_type": "home",
+        "page_id": 0,
+        "is_default": false,
+        "word_selected_color": "#ed5b00",
+        "word_unselected_color": "#747474",
+        "bg_img": "",
+        "bg_img_webp": ""
+      },
+      {
+        "name": "618返场",
+        "page_type": "tab",
+        "page_id": 6057,
+        "is_default": false,
+        "word_selected_color": "#ed5b00",
+        "word_unselected_color": "#747474",
+        "bg_img": "",
+        "bg_img_webp": ""
+      },
+      {
+        "name": "智能",
+        "page_type": "tab",
+        "page_id": 1860,
+        "is_default": false,
+        "word_selected_color": "#ed5b00",
+        "word_unselected_color": "#747474",
+        "bg_img": "",
+        "bg_img_webp": ""
+      },
+      {
+        "name": "电视",
+        "page_type": "tab",
+        "page_id": 6026,
+        "is_default": false,
+        "word_selected_color": "#ed5b00",
+        "word_unselected_color": "#747474",
+        "bg_img": "",
+        "bg_img_webp": ""
+      },
+      {
+        "name": "电脑",
+        "page_type": "tab",
+        "page_id": 1865,
+        "is_default": false,
+        "word_selected_color": "#ed5b00",
+        "word_unselected_color": "#747474",
+        "bg_img": "",
+        "bg_img_webp": ""
+      },
+      {
+        "name": "手机",
+        "page_type": "tab",
+        "page_id": 1864,
+        "is_default": false,
+        "word_selected_color": "#ed5b00",
+        "word_unselected_color": "#747474",
+        "bg_img": "",
+        "bg_img_webp": ""
+      },
+      {
+        "name": "游戏控",
+        "page_type": "tab",
+        "page_id": 6111,
+        "is_default": false,
+        "word_selected_color": "#ed5b00",
+        "word_unselected_color": "#747474",
+        "bg_img": "",
+        "bg_img_webp": ""
+      },
+      {
+        "name": "双摄",
+        "page_type": "tab",
+        "page_id": 5711,
+        "is_default": false,
+        "word_selected_color": "#ed5b00",
+        "word_unselected_color": "#747474",
+        "bg_img": "",
+        "bg_img_webp": ""
+      },
+      {
+        "name": "全面屏",
+        "page_type": "tab",
+        "page_id": 3257,
+        "is_default": false,
+        "word_selected_color": "#ed5b00",
+        "word_unselected_color": "#747474",
+        "bg_img": "",
+        "bg_img_webp": ""
+      },
+      {
+        "name": "生活周边",
+        "page_type": "tab",
+        "page_id": 1861,
+        "is_default": false,
+        "word_selected_color": "#ed5b00",
+        "word_unselected_color": "#747474",
+        "bg_img": "",
+        "bg_img_webp": ""
+      },
+      {
+        "name": "盒子",
+        "page_type": "tab",
+        "page_id": 2567,
+        "is_default": false,
+        "word_selected_color": "#ed5b00",
+        "word_unselected_color": "#747474",
+        "bg_img": "",
+        "bg_img_webp": ""
+      }
+    ],
+    "data": {
+      "header": {},
+      "sections": [
+        {
+          "view_type": "gallery",
+          "body": {
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "w": 720,
+                "h": 360,
+                "material_id": 7931,
+                "ad_position_id": 1314,
+                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/d60bd33b50c29251fd106f18f147a845.jpg?bg=FFFFFF",
+                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/d60bd33b50c29251fd106f18f147a845.jpg?bg=FFFFFF",
+                "img_url_color": "#FFFFFF",
+                "action": {
+                  "type": "product",
+                  "path": "10000102",
+                  "log_code": "311861waptabgallery001001#t=ad\u0026act=product\u0026page=tab\u0026pid=10000102\u0026page_id=1861\u0026bid=3173006.1\u0026adp=1314\u0026adm=7931"
+                },
+                "margin_left": 0,
+                "margin_right": 0
+              },
+              {
+                "w": 720,
+                "h": 360,
+                "material_id": 5680,
+                "ad_position_id": 1570,
+                "img_url": "//i8.mifile.cn/v1/a1/17f62cb9-be53-368e-1d7e-0c4315f15bc8.webp?bg=CBC5C1",
+                "img_url_webp": "//i8.mifile.cn/v1/a1/17f62cb9-be53-368e-1d7e-0c4315f15bc8.webp?bg=CBC5C1",
+                "img_url_color": "#CBC5C1",
+                "action": {
+                  "type": "product",
+                  "path": "3038",
+                  "log_code": "311861waptabgallery002001#t=ad\u0026act=product\u0026page=tab\u0026pid=3038\u0026page_id=1861\u0026bid=3173006.2\u0026adp=1570\u0026adm=5680"
+                },
+                "margin_left": 0,
+                "margin_right": 0
+              },
+              {
+                "w": 720,
+                "h": 360,
+                "material_id": 1360,
+                "ad_position_id": 1569,
+                "img_url": "//i8.mifile.cn/v1/a1/2fe5fdd7-b73e-3b1f-5768-bdb1e03d5f01.webp?bg=CCD8E3",
+                "img_url_webp": "//i8.mifile.cn/v1/a1/2fe5fdd7-b73e-3b1f-5768-bdb1e03d5f01.webp?bg=CCD8E3",
+                "img_url_color": "#CCD8E3",
+                "action": {
+                  "type": "product",
+                  "path": "5673",
+                  "log_code": "311861waptabgallery003001#t=ad\u0026act=product\u0026page=tab\u0026pid=5673\u0026page_id=1861\u0026bid=3173006.3\u0026adp=1569\u0026adm=1360"
+                },
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "cells_auto_fill",
+          "is_show": "Y",
+          "body": {
+            "w": 720,
+            "h": 152,
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "w": 144,
+                "h": 152,
+                "material_id": 7399,
+                "ad_position_id": 2215,
+                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/744a6c8c5fd696193d9f608f683f9c6e.jpg?bg=FFFFFF",
+                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/744a6c8c5fd696193d9f608f683f9c6e.jpg?bg=FFFFFF",
+                "img_url_color": "#FFFFFF",
+                "action": {
+                  "type": "channel",
+                  "path": "5593",
+                  "log_code": "311861waptabcells_auto_fill001002#t=ad\u0026act=other\u0026page=tab\u0026page_id=1861\u0026bid=3213218.1\u0026adp=2215\u0026adm=7399"
+                },
+                "path_type": "image",
+                "margin_left": 0,
+                "margin_right": 0
+              },
+              {
+                "x": 144,
+                "w": 144,
+                "h": 152,
+                "material_id": 7400,
+                "ad_position_id": 2214,
+                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/2aec734a14f5301128219279b016c9a6.jpg?bg=FFFFFF",
+                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/2aec734a14f5301128219279b016c9a6.jpg?bg=FFFFFF",
+                "img_url_color": "#FFFFFF",
+                "action": {
+                  "type": "channel",
+                  "path": "5594",
+                  "log_code": "311861waptabcells_auto_fill002002#t=ad\u0026act=other\u0026page=tab\u0026page_id=1861\u0026bid=3213218.2\u0026adp=2214\u0026adm=7400"
+                },
+                "path_type": "image",
+                "margin_left": 0,
+                "margin_right": 0
+              },
+              {
+                "x": 288,
+                "w": 144,
+                "h": 152,
+                "material_id": 7401,
+                "ad_position_id": 2213,
+                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/ebe7f67192ddb55b4f8f94f2e1ab4376.jpg?bg=FFFFFF",
+                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/ebe7f67192ddb55b4f8f94f2e1ab4376.jpg?bg=FFFFFF",
+                "img_url_color": "#FFFFFF",
+                "action": {
+                  "type": "channel",
+                  "path": "5595",
+                  "log_code": "311861waptabcells_auto_fill003002#t=ad\u0026act=other\u0026page=tab\u0026page_id=1861\u0026bid=3213218.3\u0026adp=2213\u0026adm=7401"
+                },
+                "path_type": "image",
+                "margin_left": 0,
+                "margin_right": 0
+              },
+              {
+                "x": 432,
+                "w": 144,
+                "h": 152,
+                "material_id": 7402,
+                "ad_position_id": 2212,
+                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/08b6ade705922f14f196bcd905903caf.jpg?bg=FFFFFF",
+                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/08b6ade705922f14f196bcd905903caf.jpg?bg=FFFFFF",
+                "img_url_color": "#FFFFFF",
+                "action": {
+                  "type": "channel",
+                  "path": "5597",
+                  "log_code": "311861waptabcells_auto_fill004002#t=ad\u0026act=other\u0026page=tab\u0026page_id=1861\u0026bid=3213218.4\u0026adp=2212\u0026adm=7402"
+                },
+                "path_type": "image",
+                "margin_left": 0,
+                "margin_right": 0
+              },
+              {
+                "x": 576,
+                "w": 144,
+                "h": 152,
+                "material_id": 7403,
+                "ad_position_id": 2211,
+                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/921ce6cd7c033799e45ca01e32430402.jpg?bg=FFFFFF",
+                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/921ce6cd7c033799e45ca01e32430402.jpg?bg=FFFFFF",
+                "img_url_color": "#FFFFFF",
+                "action": {
+                  "type": "channel",
+                  "path": "5598",
+                  "log_code": "311861waptabcells_auto_fill005002#t=ad\u0026act=other\u0026page=tab\u0026page_id=1861\u0026bid=3213218.5\u0026adp=2211\u0026adm=7403"
+                },
+                "path_type": "image",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "divider_line",
+          "body": {
+            "line_color": "#f5f5f5",
+            "line_height": "24",
+            "height": "0",
+            "width": "0",
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "cells_auto_fill",
+          "block_id": "3190522",
+          "body": {
+            "bg_color": "#ffffff",
+            "w": 720,
+            "h": 80,
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "w": 720,
+                "h": 80,
+                "img_url": "//i8.mifile.cn/v1/a1/f2635080-3835-53f0-5f80-ac1e50e0784c.webp",
+                "img_url_webp": "//i8.mifile.cn/v1/a1/f2635080-3835-53f0-5f80-ac1e50e0784c.webp",
+                "img_url_color": "#F9F9F9",
+                "action": {
+                  "type": "none",
+                  "log_code": "311861waptabcells_auto_fill001005#t=normal\u0026act=other\u0026page=tab\u0026page_id=1861\u0026bid=3190522.1"
+                },
+                "path_type": "image",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "recommend_flag": "0",
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "list_two_type1",
+          "body": {
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/dd2e96bce0955ffa8eb1eb2e07d4466a.jpg?w=1080\u0026h=1080",
+                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/dd2e96bce0955ffa8eb1eb2e07d4466a.jpg?w=1080\u0026h=1080",
+                "img_url_color": "#FFFFFF",
+                "action": {
+                  "type": "product",
+                  "path": "6512",
+                  "log_code": "311861waptablist_two_type1001006#t=product\u0026act=other\u0026page=tab\u0026page_id=1861\u0026bid=3222783.1\u0026pid=6512"
+                },
+                "show_price_qi": true,
+                "product_id": "6512",
+                "product_name": "8H 乳胶弹簧静音床垫",
+                "product_brief": "健康每一处  床垫会呼吸",
+                "product_price": "1599",
+                "product_org_price": "1599",
+                "margin_left": 0,
+                "margin_right": 0
+              },
+              {
+                "img_url": "//i8.mifile.cn/v1/a1/265d40e8-8afc-d31d-ccfd-761f5e515542.webp?w=1080\u0026h=1080",
+                "img_url_webp": "//i8.mifile.cn/v1/a1/265d40e8-8afc-d31d-ccfd-761f5e515542.webp?w=1080\u0026h=1080",
+                "img_url_color": "#DEDADA",
+                "action": {
+                  "type": "product",
+                  "path": "5729",
+                  "log_code": "311861waptablist_two_type1002006#t=product\u0026act=other\u0026page=tab\u0026page_id=1861\u0026bid=3222783.2\u0026pid=5729"
+                },
+                "show_price_qi": true,
+                "product_id": "5729",
+                "product_name": "乳胶床垫·青春版",
+                "product_brief": "真心品质帮助睡眠",
+                "product_price": "599",
+                "product_org_price": "599",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "list_two_type1",
+          "body": {
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "img_url": "//i8.mifile.cn/v1/a1/4fa5c0ad-2d52-2ac4-0095-05108a580310.webp?w=1080\u0026h=1080",
+                "img_url_webp": "//i8.mifile.cn/v1/a1/4fa5c0ad-2d52-2ac4-0095-05108a580310.webp?w=1080\u0026h=1080",
+                "img_url_color": "#878B8F",
+                "action": {
+                  "type": "product",
+                  "path": "6125",
+                  "log_code": "311861waptablist_two_type1001007#t=product\u0026act=other\u0026page=tab\u0026page_id=1861\u0026bid=3173010.1\u0026pid=6125"
+                },
+                "product_id": "6125",
+                "product_name": "米家wiha螺丝刀套装",
+                "product_brief": "满足大多数日常所需",
+                "product_price": "99",
+                "product_org_price": "99",
+                "margin_left": 0,
+                "margin_right": 0
+              },
+              {
+                "img_url": "//i8.mifile.cn/v1/a1/18eaa5d7-fa3a-7b5b-dab6-dd78124d58ba.webp?w=1080\u0026h=1080",
+                "img_url_webp": "//i8.mifile.cn/v1/a1/18eaa5d7-fa3a-7b5b-dab6-dd78124d58ba.webp?w=1080\u0026h=1080",
+                "img_url_color": "#BFC1C3",
+                "action": {
+                  "type": "product",
+                  "path": "3038",
+                  "log_code": "311861waptablist_two_type1002007#t=product\u0026act=other\u0026page=tab\u0026page_id=1861\u0026bid=3173010.2\u0026pid=3038"
+                },
+                "product_id": "3038",
+                "product_name": "90分旅行箱 24寸",
+                "product_brief": "静音轮胎，内饰纺织布料",
+                "product_price": "349",
+                "product_org_price": "349",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "list_two_type1",
+          "body": {
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "img_url": "//i8.mifile.cn/v1/a1/a5117c80-b120-b5a4-aaef-d38d781cb94a.webp?w=1080\u0026h=1080",
+                "img_url_webp": "//i8.mifile.cn/v1/a1/a5117c80-b120-b5a4-aaef-d38d781cb94a.webp?w=1080\u0026h=1080",
+                "img_url_color": "#DFDFDF",
+                "action": {
+                  "type": "product",
+                  "path": "6621",
+                  "log_code": "311861waptablist_two_type1001008#t=product\u0026act=other\u0026page=tab\u0026page_id=1861\u0026bid=3173011.1\u0026pid=6621"
+                },
+                "product_id": "6621",
+                "product_name": "90分金属登机箱",
+                "product_brief": "去旅行，趁年轻",
+                "product_price": "999",
+                "product_org_price": "999",
+                "margin_left": 0,
+                "margin_right": 0
+              },
+              {
+                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/3d2611c6cef7b09e79d66f218a9588ca.jpg?w=1080\u0026h=1080",
+                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/3d2611c6cef7b09e79d66f218a9588ca.jpg?w=1080\u0026h=1080",
+                "img_url_color": "#FFFFFF",
+                "action": {
+                  "type": "product",
+                  "path": "7861",
+                  "log_code": "311861waptablist_two_type1002008#t=product\u0026act=other\u0026page=tab\u0026page_id=1861\u0026bid=3173011.2\u0026pid=7861"
+                },
+                "product_id": "7861",
+                "product_name": "米兔招财猫足金吊坠",
+                "product_brief": "把好运戴在身边",
+                "product_price": "888",
+                "product_org_price": "888",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "list_two_type1",
+          "body": {
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "img_url": "//i8.mifile.cn/v1/a1/79804032-d04f-0807-5dd8-779857be93bc.webp?w=1080\u0026h=1080",
+                "img_url_webp": "//i8.mifile.cn/v1/a1/79804032-d04f-0807-5dd8-779857be93bc.webp?w=1080\u0026h=1080",
+                "img_url_color": "#ECEEF2",
+                "action": {
+                  "type": "product",
+                  "path": "6312",
+                  "log_code": "311861waptablist_two_type1001009#t=product\u0026act=other\u0026page=tab\u0026page_id=1861\u0026bid=3173012.1\u0026pid=6312"
+                },
+                "product_id": "6312",
+                "product_name": " TS 防蓝光护目镜",
+                "product_brief": "新“视”界，有目共睹",
+                "product_price": "99",
+                "product_org_price": "99",
+                "margin_left": 0,
+                "margin_right": 0
+              },
+              {
+                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/97bdebaac4f524b9dfdfe6981815ead4.jpg?w=1080\u0026h=1080",
+                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/97bdebaac4f524b9dfdfe6981815ead4.jpg?w=1080\u0026h=1080",
+                "img_url_color": "#FFFFFF",
+                "action": {
+                  "type": "product",
+                  "path": "5673",
+                  "log_code": "311861waptablist_two_type1002009#t=product\u0026act=other\u0026page=tab\u0026page_id=1861\u0026bid=3173012.2\u0026pid=5673"
+                },
+                "show_price_qi": true,
+                "product_id": "5673",
+                "product_name": "尼龙偏光太阳镜",
+                "product_brief": "重塑专业，打造时尚",
+                "product_price": "199",
+                "product_org_price": "199",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "list_two_type1",
+          "body": {
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/d082e0dd8fa9cefe97460f2ee1767956.jpg?w=1080\u0026h=1080",
+                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/d082e0dd8fa9cefe97460f2ee1767956.jpg?w=1080\u0026h=1080",
+                "img_url_color": "#FFFFFF",
+                "action": {
+                  "type": "product",
+                  "path": "10000102",
+                  "log_code": "311861waptablist_two_type1001010#t=product\u0026act=other\u0026page=tab\u0026page_id=1861\u0026bid=3213201.1\u0026pid=10000102"
+                },
+                "product_id": "10000102",
+                "product_name": "米家运动鞋2",
+                "product_brief": "轻盈灵巧 动静皆宜",
+                "product_price": "199",
+                "product_org_price": "199",
+                "product_tag": "//i8.mifile.cn/v1/a1/289039eb-c3ed-7c26-69c3-5b07b72a797d.webp?w=120\u0026h=48",
+                "product_tag_webp": "//i8.mifile.cn/v1/a1/289039eb-c3ed-7c26-69c3-5b07b72a797d.webp?w=120\u0026h=48",
+                "margin_left": 0,
+                "margin_right": 0
+              },
+              {
+                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/4510417cc032e147de425280c81b7e8c.jpg?w=1080\u0026h=1080",
+                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/4510417cc032e147de425280c81b7e8c.jpg?w=1080\u0026h=1080",
+                "img_url_color": "#FFFFFF",
+                "action": {
+                  "type": "product",
+                  "path": "8003",
+                  "log_code": "311861waptablist_two_type1002010#t=product\u0026act=other\u0026page=tab\u0026page_id=1861\u0026bid=3213201.2\u0026pid=8003"
+                },
+                "product_id": "8003",
+                "product_name": "8H护颈乳胶枕两件装",
+                "product_brief": "多重黑科技 睡眠新神器",
+                "product_price": "438",
+                "product_org_price": "478",
+                "product_tag": "//i8.mifile.cn/v1/a1/289039eb-c3ed-7c26-69c3-5b07b72a797d.webp?w=120\u0026h=48",
+                "product_tag_webp": "//i8.mifile.cn/v1/a1/289039eb-c3ed-7c26-69c3-5b07b72a797d.webp?w=120\u0026h=48",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "list_two_type1",
+          "body": {
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "img_url": "//i8.mifile.cn/v1/a1/cad503c1-828b-6ffd-59f8-7f5850af43dc.webp?w=1080\u0026h=1080",
+                "img_url_webp": "//i8.mifile.cn/v1/a1/cad503c1-828b-6ffd-59f8-7f5850af43dc.webp?w=1080\u0026h=1080",
+                "img_url_color": "#B3C1C9",
+                "action": {
+                  "type": "product",
+                  "path": "6518",
+                  "log_code": "311861waptablist_two_type1001011#t=product\u0026act=other\u0026page=tab\u0026page_id=1861\u0026bid=3173013.1\u0026pid=6518"
+                },
+                "product_id": "6518",
+                "product_name": "Free Tie 真皮板鞋 男款",
+                "product_brief": "做一双简单的板鞋",
+                "product_price": "199",
+                "product_org_price": "199",
+                "margin_left": 0,
+                "margin_right": 0
+              },
+              {
+                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/8acc6ec4ae3ea944e314e47b7d33ba40.jpg?w=1080\u0026h=1080",
+                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/8acc6ec4ae3ea944e314e47b7d33ba40.jpg?w=1080\u0026h=1080",
+                "img_url_color": "#FFFFFF",
+                "action": {
+                  "type": "product",
+                  "path": "2606",
+                  "log_code": "311861waptablist_two_type1002011#t=product\u0026act=other\u0026page=tab\u0026page_id=1861\u0026bid=3173013.2\u0026pid=2606"
+                },
+                "product_id": "2606",
+                "product_name": "90分旅行箱 20寸",
+                "product_brief": "静音轮胎，内饰纺织布料",
+                "product_price": "299",
+                "product_org_price": "299",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "list_two_type1",
+          "body": {
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "img_url": "//i8.mifile.cn/v1/a1/b71d2160-35e0-7feb-f465-54b921fe2bc7.webp?w=1080\u0026h=1080",
+                "img_url_webp": "//i8.mifile.cn/v1/a1/b71d2160-35e0-7feb-f465-54b921fe2bc7.webp?w=1080\u0026h=1080",
+                "img_url_color": "#BDC1CC",
+                "action": {
+                  "type": "product",
+                  "path": "7140",
+                  "log_code": "311861waptablist_two_type1001012#t=product\u0026act=other\u0026page=tab\u0026page_id=1861\u0026bid=3190524.1\u0026pid=7140"
+                },
+                "product_id": "7140",
+                "product_name": "90分轻商务登机箱 ",
+                "product_brief": "20寸免托运",
+                "product_price": "399",
+                "product_org_price": "399",
+                "margin_left": 0,
+                "margin_right": 0
+              },
+              {
+                "img_url": "//i8.mifile.cn/v1/a1/8a32f092-a784-b908-aca8-a682120b8f58.webp?w=1080\u0026h=1080",
+                "img_url_webp": "//i8.mifile.cn/v1/a1/8a32f092-a784-b908-aca8-a682120b8f58.webp?w=1080\u0026h=1080",
+                "img_url_color": "#979AA3",
+                "action": {
+                  "type": "product",
+                  "path": "3460",
+                  "log_code": "311861waptablist_two_type1002012#t=product\u0026act=other\u0026page=tab\u0026page_id=1861\u0026bid=3190524.2\u0026pid=3460"
+                },
+                "product_id": "3460",
+                "product_name": "多功能都市胸包",
+                "product_brief": "装下你出行的所有需求",
+                "product_price": "69",
+                "product_org_price": "69",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "list_two_type1",
+          "body": {
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "img_url": "//i8.mifile.cn/v1/a1/d5899104-e7a8-6d82-0cc5-11c1dd6a7f19.webp?w=1080\u0026h=1080",
+                "img_url_webp": "//i8.mifile.cn/v1/a1/d5899104-e7a8-6d82-0cc5-11c1dd6a7f19.webp?w=1080\u0026h=1080",
+                "img_url_color": "#7D7A78",
+                "action": {
+                  "type": "product",
+                  "path": "2839",
+                  "log_code": "311861waptablist_two_type1001013#t=product\u0026act=other\u0026page=tab\u0026page_id=1861\u0026bid=3232580.1\u0026pid=2839"
+                },
+                "product_id": "2839",
+                "product_name": "极简都市双肩包",
+                "product_brief": "方形立体设计",
+                "product_price": "149",
+                "product_org_price": "149",
+                "margin_left": 0,
+                "margin_right": 0
+              },
+              {
+                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/00db10bf30e2328c8024be9be48b692f.jpg?w=1080\u0026h=1080",
+                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/00db10bf30e2328c8024be9be48b692f.jpg?w=1080\u0026h=1080",
+                "img_url_color": "#FFFFFF",
+                "action": {
+                  "type": "product",
+                  "path": "6124",
+                  "log_code": "311861waptablist_two_type1002013#t=product\u0026act=other\u0026page=tab\u0026page_id=1861\u0026bid=3232580.2\u0026pid=6124"
+                },
+                "product_id": "6124",
+                "product_name": "自动折叠伞",
+                "product_brief": "防泼水伞布，轻盈拒水",
+                "product_price": "99",
+                "product_org_price": "99",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "list_two_type1",
+          "body": {
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/e0da585ed7a1ffde224f0483ab4e6634.jpg?w=1080\u0026h=1080",
+                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/e0da585ed7a1ffde224f0483ab4e6634.jpg?w=1080\u0026h=1080",
+                "img_url_color": "#FFFFFF",
+                "action": {
+                  "type": "product",
+                  "path": "7716",
+                  "log_code": "311861waptablist_two_type1001014#t=product\u0026act=other\u0026page=tab\u0026page_id=1861\u0026bid=3232581.1\u0026pid=7716"
+                },
+                "product_id": "7716",
+                "product_name": "Populele  U1 智能尤克里里",
+                "product_brief": "练琴不枯燥，个性且精致",
+                "product_price": "499",
+                "product_org_price": "499",
+                "margin_left": 0,
+                "margin_right": 0
+              },
+              {
+                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/243cb5c674250b901831fbfd0e461689.jpg?w=1080\u0026h=1080",
+                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/243cb5c674250b901831fbfd0e461689.jpg?w=1080\u0026h=1080",
+                "img_url_color": "#FFFFFF",
+                "action": {
+                  "type": "product",
+                  "path": "7785",
+                  "log_code": "311861waptablist_two_type1002014#t=product\u0026act=other\u0026page=tab\u0026page_id=1861\u0026bid=3232581.2\u0026pid=7785"
+                },
+                "product_id": "7785",
+                "product_name": "小米短袖T恤 两件装",
+                "product_brief": "小米短袖T恤 两件装",
+                "product_price": "89",
+                "product_org_price": "89",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "list_two_type1",
+          "body": {
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/91719d13a3b04fdbc6305e5c602c3a75.jpg?w=1080\u0026h=1080",
+                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/91719d13a3b04fdbc6305e5c602c3a75.jpg?w=1080\u0026h=1080",
+                "img_url_color": "#FFFFFF",
+                "action": {
+                  "type": "product",
+                  "path": "7784",
+                  "log_code": "311861waptablist_two_type1001015#t=product\u0026act=other\u0026page=tab\u0026page_id=1861\u0026bid=3232582.1\u0026pid=7784"
+                },
+                "product_id": "7784",
+                "product_name": "小米短袖POLO衫",
+                "product_brief": "始于贵族，忠于生活",
+                "product_price": "79",
+                "product_org_price": "79",
+                "margin_left": 0,
+                "margin_right": 0
+              },
+              {
+                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/49e48ad67aba41cf14e32d9ca86cbf85.jpg?w=1080\u0026h=1080",
+                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/49e48ad67aba41cf14e32d9ca86cbf85.jpg?w=1080\u0026h=1080",
+                "img_url_color": "#FFFFFF",
+                "action": {
+                  "type": "product",
+                  "path": "7753",
+                  "log_code": "311861waptablist_two_type1002015#t=product\u0026act=other\u0026page=tab\u0026page_id=1861\u0026bid=3232582.2\u0026pid=7753"
+                },
+                "product_id": "7753",
+                "product_name": "8H记忆绵护椎腰靠",
+                "product_brief": "处处体贴，为你撑腰",
+                "product_price": "89",
+                "product_org_price": "89",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "list_two_type1",
+          "body": {
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/fe498de4ca4b5a0f0c51f99877d5032b.jpg?w=1080\u0026h=1080",
+                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/fe498de4ca4b5a0f0c51f99877d5032b.jpg?w=1080\u0026h=1080",
+                "img_url_color": "#FFFFFF",
+                "action": {
+                  "type": "product",
+                  "path": "7979",
+                  "log_code": "311861waptablist_two_type1001016#t=product\u0026act=other\u0026page=tab\u0026page_id=1861\u0026bid=3232583.1\u0026pid=7979"
+                },
+                "product_id": "7979",
+                "product_name": "时怡每日坚果\u0009\u0009",
+                "product_brief": "科学搭配，每天一包",
+                "product_price": "99",
+                "product_org_price": "116",
+                "margin_left": 0,
+                "margin_right": 0
+              },
+              {
+                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/8178b0bab5f9b17fffcbf0aeb669b72d.jpg?w=1080\u0026h=1080",
+                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/8178b0bab5f9b17fffcbf0aeb669b72d.jpg?w=1080\u0026h=1080",
+                "img_url_color": "#FFFFFF",
+                "action": {
+                  "type": "product",
+                  "path": "7980",
+                  "log_code": "311861waptablist_two_type1002016#t=product\u0026act=other\u0026page=tab\u0026page_id=1861\u0026bid=3232583.2\u0026pid=7980"
+                },
+                "product_id": "7980",
+                "product_name": "时怡什锦果仁",
+                "product_brief": "5种果仁，用心甄选",
+                "product_price": "119",
+                "product_org_price": "148",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "divider_line",
+          "body": {
+            "line_color": "#f5f5f5",
+            "line_height": "24",
+            "height": "0",
+            "width": "0",
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "cells_auto_fill",
+          "block_id": "3195845",
+          "body": {
+            "bg_color": "#ffffff",
+            "w": 720,
+            "h": 280,
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "w": 720,
+                "h": 280,
+                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/79627fb747111c3e01f94cac10d61db3.jpg",
+                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/79627fb747111c3e01f94cac10d61db3.jpg",
+                "img_url_color": "#FFFFFF",
+                "action": {
+                  "type": "channel",
+                  "path": "1852",
+                  "log_code": "311861waptabcells_auto_fill001018#t=normal\u0026act=other\u0026page=tab\u0026page_id=1861\u0026bid=3195845.1"
+                },
+                "path_type": "image",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "recommend_flag": "0",
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "divider_line",
+          "body": {
+            "line_color": "#f5f5f5",
+            "line_height": "24",
+            "height": "0",
+            "width": "0",
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "cells_auto_fill",
+          "block_id": "3173015",
+          "body": {
+            "bg_color": "#ffffff",
+            "w": 720,
+            "h": 80,
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "w": 720,
+                "h": 80,
+                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/582de8fb8ae1c2c8cdd6a16c662b6a7d.png",
+                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/582de8fb8ae1c2c8cdd6a16c662b6a7d.png",
+                "img_url_color": "#FFFFFF",
+                "action": {
+                  "type": "none",
+                  "log_code": "311861waptabcells_auto_fill001020#t=normal\u0026act=other\u0026page=tab\u0026page_id=1861\u0026bid=3173015.1"
+                },
+                "path_type": "image",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "recommend_flag": "0",
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "list_two_type1",
+          "body": {
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/243cb5c674250b901831fbfd0e461689.jpg?w=1080\u0026h=1080",
+                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/243cb5c674250b901831fbfd0e461689.jpg?w=1080\u0026h=1080",
+                "img_url_color": "#FFFFFF",
+                "action": {
+                  "type": "product",
+                  "path": "7785",
+                  "log_code": "311861waptablist_two_type1001021#t=product\u0026act=other\u0026page=tab\u0026page_id=1861\u0026bid=3173017.1\u0026pid=7785"
+                },
+                "product_id": "7785",
+                "product_name": "小米短袖T恤 两件装",
+                "product_brief": "小米短袖T恤 两件装",
+                "product_price": "89",
+                "product_org_price": "89",
+                "margin_left": 0,
+                "margin_right": 0
+              },
+              {
+                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/ee974a608c877753587b6652ad32952e.jpg?w=1080\u0026h=1080",
+                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/ee974a608c877753587b6652ad32952e.jpg?w=1080\u0026h=1080",
+                "img_url_color": "#FFFFFF",
+                "action": {
+                  "type": "product",
+                  "path": "7782",
+                  "log_code": "311861waptablist_two_type1002021#t=product\u0026act=other\u0026page=tab\u0026page_id=1861\u0026bid=3173017.2\u0026pid=7782"
+                },
+                "product_id": "7782",
+                "product_name": "小米速干短袖T恤 黑色",
+                "product_brief": "冰点矩阵 高亮反光",
+                "product_price": "99",
+                "product_org_price": "99",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "list_two_type1",
+          "body": {
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/91719d13a3b04fdbc6305e5c602c3a75.jpg?w=1080\u0026h=1080",
+                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/91719d13a3b04fdbc6305e5c602c3a75.jpg?w=1080\u0026h=1080",
+                "img_url_color": "#FFFFFF",
+                "action": {
+                  "type": "product",
+                  "path": "7784",
+                  "log_code": "311861waptablist_two_type1001022#t=product\u0026act=other\u0026page=tab\u0026page_id=1861\u0026bid=3230141.1\u0026pid=7784"
+                },
+                "product_id": "7784",
+                "product_name": "小米短袖POLO衫",
+                "product_brief": "始于贵族，忠于生活",
+                "product_price": "79",
+                "product_org_price": "79",
+                "margin_left": 0,
+                "margin_right": 0
+              },
+              {
+                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/4e6a96ca3a1636f6358b76028d258a47.jpg?w=1080\u0026h=1080",
+                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/4e6a96ca3a1636f6358b76028d258a47.jpg?w=1080\u0026h=1080",
+                "img_url_color": "#FFFFFF",
+                "action": {
+                  "type": "product",
+                  "path": "7783",
+                  "log_code": "311861waptablist_two_type1002022#t=product\u0026act=other\u0026page=tab\u0026page_id=1861\u0026bid=3230141.2\u0026pid=7783"
+                },
+                "product_id": "7783",
+                "product_name": "小米短袖T恤 口袋米兔 男款",
+                "product_brief": "小米短袖T恤 口袋米兔",
+                "product_price": "69",
+                "product_org_price": "69",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "list_two_type1",
+          "body": {
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/387caaf80b8f8ed9d848e6ff51dfe2a9.jpg?w=1080\u0026h=1080",
+                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/387caaf80b8f8ed9d848e6ff51dfe2a9.jpg?w=1080\u0026h=1080",
+                "img_url_color": "#FFFFFF",
+                "action": {
+                  "type": "product",
+                  "path": "7871",
+                  "log_code": "311861waptablist_two_type1001023#t=product\u0026act=other\u0026page=tab\u0026page_id=1861\u0026bid=3200187.1\u0026pid=7871"
+                },
+                "product_id": "7871",
+                "product_name": "最生活毛巾·运动系列",
+                "product_brief": "最生活毛巾·运动系列",
+                "product_price": "39.9",
+                "product_org_price": "39.9",
+                "margin_left": 0,
+                "margin_right": 0
+              },
+              {
+                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/c713ce9fbf5faaa7df2996ab8f4bbfee.jpg?w=1080\u0026h=1080",
+                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/c713ce9fbf5faaa7df2996ab8f4bbfee.jpg?w=1080\u0026h=1080",
+                "img_url_color": "#FFFFFF",
+                "action": {
+                  "type": "product",
+                  "path": "7863",
+                  "log_code": "311861waptablist_two_type1002023#t=product\u0026act=other\u0026page=tab\u0026page_id=1861\u0026bid=3200187.2\u0026pid=7863"
+                },
+                "product_id": "7863",
+                "product_name": "小米棒球帽",
+                "product_brief": "简约干练，点睛搭配",
+                "product_price": "49",
+                "product_org_price": "49",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "divider_line",
+          "body": {
+            "line_color": "#f5f5f5",
+            "line_height": "24",
+            "height": "0",
+            "width": "0",
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "cells_auto_fill",
+          "block_id": "3200189",
+          "body": {
+            "bg_color": "#ffffff",
+            "w": 720,
+            "h": 80,
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "w": 720,
+                "h": 80,
+                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/8616f15bf3040624fc8f8279c83ae97c.png",
+                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/8616f15bf3040624fc8f8279c83ae97c.png",
+                "img_url_color": "#FFFFFF",
+                "action": {
+                  "type": "none",
+                  "log_code": "311861waptabcells_auto_fill001025#t=normal\u0026act=other\u0026page=tab\u0026page_id=1861\u0026bid=3200189.1"
+                },
+                "path_type": "image",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "recommend_flag": "0",
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "list_one_type12",
+          "body": {
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/f80ca3ccc3b15afd3565ad6c7db3442c.jpg?w=1080\u0026h=540",
+                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/f80ca3ccc3b15afd3565ad6c7db3442c.jpg?w=1080\u0026h=540",
+                "img_url_color": "#FFFFFF",
+                "action": {
+                  "type": "product",
+                  "path": "7756",
+                  "log_code": "311861waptablist_one_type12001026#t=product\u0026act=other\u0026page=tab\u0026page_id=1861\u0026bid=3243474.1\u0026pid=7756"
+                },
+                "product_id": "7756",
+                "product_name": "贝医生儿童牙刷 （单只装）\u0009",
+                "product_brief": "专业呵护宝宝智能牙齿",
+                "product_price": "19.9",
+                "product_org_price": "19.9",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "list_two_type1",
+          "body": {
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/a9462097ca7665ab9638526856415cce.jpg?w=1080\u0026h=1080",
+                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/a9462097ca7665ab9638526856415cce.jpg?w=1080\u0026h=1080",
+                "img_url_color": "#FFFFFF",
+                "action": {
+                  "type": "product",
+                  "path": "6443",
+                  "log_code": "311861waptablist_two_type1001027#t=product\u0026act=other\u0026page=tab\u0026page_id=1861\u0026bid=3243475.1\u0026pid=6443"
+                },
+                "product_id": "6443",
+                "product_name": "贝医生巴氏牙刷",
+                "product_brief": "进口刷毛，好品质",
+                "product_price": "39.9",
+                "product_org_price": "39.9",
+                "margin_left": 0,
+                "margin_right": 0
+              },
+              {
+                "img_url": "//i8.mifile.cn/v1/a1/48dd2efd-b1a9-2283-f235-14ae2763d196.webp?w=1080\u0026h=1080",
+                "img_url_webp": "//i8.mifile.cn/v1/a1/48dd2efd-b1a9-2283-f235-14ae2763d196.webp?w=1080\u0026h=1080",
+                "img_url_color": "#E5EDEF",
+                "action": {
+                  "type": "product",
+                  "path": "6904",
+                  "log_code": "311861waptablist_two_type1002027#t=product\u0026act=other\u0026page=tab\u0026page_id=1861\u0026bid=3243475.2\u0026pid=6904"
+                },
+                "product_id": "6904",
+                "product_name": "贝医生巴氏牙刷",
+                "product_brief": "对细节苛刻，是对健康呵护",
+                "product_price": "9.9",
+                "product_org_price": "9.9",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "divider_line",
+          "body": {
+            "line_color": "#f5f5f5",
+            "line_height": "24",
+            "height": "0",
+            "width": "0",
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "cells_auto_fill",
+          "block_id": "3243477",
+          "body": {
+            "bg_color": "#ffffff",
+            "w": 720,
+            "h": 80,
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "w": 720,
+                "h": 80,
+                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/52fd9bcbe4c9e2ce3f2e747c7781b75c.png",
+                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/52fd9bcbe4c9e2ce3f2e747c7781b75c.png",
+                "img_url_color": "#FFFFFF",
+                "action": {
+                  "type": "none",
+                  "log_code": "311861waptabcells_auto_fill001029#t=normal\u0026act=other\u0026page=tab\u0026page_id=1861\u0026bid=3243477.1"
+                },
+                "path_type": "image",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "recommend_flag": "0",
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "list_two_type1",
+          "body": {
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/7a1286efbf175aa8c2772e2d5ef35915.jpg?w=1080\u0026h=1080",
+                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/7a1286efbf175aa8c2772e2d5ef35915.jpg?w=1080\u0026h=1080",
+                "img_url_color": "#FFFFFF",
+                "action": {
+                  "type": "product",
+                  "path": "7725",
+                  "log_code": "311861waptablist_two_type1001030#t=product\u0026act=other\u0026page=tab\u0026page_id=1861\u0026bid=3243478.1\u0026pid=7725"
+                },
+                "product_id": "7725",
+                "product_name": "TS太阳镜 旅行者款 米家定制",
+                "product_brief": "轻装上阵才够酷",
+                "product_price": "249",
+                "product_org_price": "249",
+                "margin_left": 0,
+                "margin_right": 0
+              },
+              {
+                "img_url": "//i8.mifile.cn/v1/a1/7d41e6a2-0b7e-4d2b-f897-33f0a90be2d0.webp?w=1080\u0026h=1080",
+                "img_url_webp": "//i8.mifile.cn/v1/a1/7d41e6a2-0b7e-4d2b-f897-33f0a90be2d0.webp?w=1080\u0026h=1080",
+                "img_url_color": "#AECBD8",
+                "action": {
+                  "type": "product",
+                  "path": "6305",
+                  "log_code": "311861waptablist_two_type1002030#t=product\u0026act=other\u0026page=tab\u0026page_id=1861\u0026bid=3243478.2\u0026pid=6305"
+                },
+                "product_id": "6305",
+                "product_name": "TS偏光太阳镜",
+                "product_brief": "夏季优选，时尚随行",
+                "product_price": "99",
+                "product_org_price": "99",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "list_two_type1",
+          "body": {
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "img_url": "//i8.mifile.cn/v1/a1/0a5b3926-bf9c-6eb1-b8d0-e950ff5bb47b.webp?w=1080\u0026h=1080",
+                "img_url_webp": "//i8.mifile.cn/v1/a1/0a5b3926-bf9c-6eb1-b8d0-e950ff5bb47b.webp?w=1080\u0026h=1080",
+                "img_url_color": "#E8E9EE",
+                "action": {
+                  "type": "product",
+                  "path": "7163",
+                  "log_code": "311861waptablist_two_type1001031#t=product\u0026act=other\u0026page=tab\u0026page_id=1861\u0026bid=3200191.1\u0026pid=7163"
+                },
+                "product_id": "7163",
+                "product_name": "TS儿童防蓝光护目镜",
+                "product_brief": "关爱孩子成长每一刻",
+                "product_price": "199",
+                "product_org_price": "199",
+                "margin_left": 0,
+                "margin_right": 0
+              },
+              {
+                "img_url": "//i8.mifile.cn/v1/a1/57397725-7ed4-265e-79c1-493e2ca0ce9c.webp?w=1080\u0026h=1080",
+                "img_url_webp": "//i8.mifile.cn/v1/a1/57397725-7ed4-265e-79c1-493e2ca0ce9c.webp?w=1080\u0026h=1080",
+                "img_url_color": "#F0CD71",
+                "action": {
+                  "type": "product",
+                  "path": "7157",
+                  "log_code": "311861waptablist_two_type1002031#t=product\u0026act=other\u0026page=tab\u0026page_id=1861\u0026bid=3200191.2\u0026pid=7157"
+                },
+                "product_id": "7157",
+                "product_name": "TS眼镜架 米家定制",
+                "product_brief": "打造品质，拒绝沉重",
+                "product_price": "249",
+                "product_org_price": "249",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "list_two_type1",
+          "body": {
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/b39cacc49776d3f2aac1387f4c2fef10.jpg?w=1080\u0026h=1080",
+                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/b39cacc49776d3f2aac1387f4c2fef10.jpg?w=1080\u0026h=1080",
+                "img_url_color": "#FFFFFF",
+                "action": {
+                  "type": "product",
+                  "path": "7724",
+                  "log_code": "311861waptablist_two_type1001032#t=product\u0026act=other\u0026page=tab\u0026page_id=1861\u0026bid=3200192.1\u0026pid=7724"
+                },
+                "product_id": "7724",
+                "product_name": "TS太阳镜 猫眼款 米家定制",
+                "product_brief": "不挑脸型超百搭",
+                "product_price": "249",
+                "product_org_price": "249",
+                "margin_left": 0,
+                "margin_right": 0
+              },
+              {
+                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/a878685ed7c30b4e9a7994894eaebd89.jpg?w=1080\u0026h=1080",
+                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/a878685ed7c30b4e9a7994894eaebd89.jpg?w=1080\u0026h=1080",
+                "img_url_color": "#FFFFFF",
+                "action": {
+                  "type": "product",
+                  "path": "7722",
+                  "log_code": "311861waptablist_two_type1002032#t=product\u0026act=other\u0026page=tab\u0026page_id=1861\u0026bid=3200192.2\u0026pid=7722"
+                },
+                "product_id": "7722",
+                "product_name": "TS太阳镜 潮范 米家定制",
+                "product_brief": "复古圆框，双梁设计",
+                "product_price": "199",
+                "product_org_price": "199",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "divider_line",
+          "body": {
+            "line_color": "#f5f5f5",
+            "line_height": "24",
+            "height": "0",
+            "width": "0",
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "cells_auto_fill",
+          "block_id": "3200194",
+          "body": {
+            "bg_color": "#ffffff",
+            "w": 720,
+            "h": 80,
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "w": 720,
+                "h": 80,
+                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/3402fb2f255754ad2e2fb9fc4dc1b664.png",
+                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/3402fb2f255754ad2e2fb9fc4dc1b664.png",
+                "img_url_color": "#FFFFFF",
+                "action": {
+                  "type": "none",
+                  "log_code": "311861waptabcells_auto_fill001034#t=normal\u0026act=other\u0026page=tab\u0026page_id=1861\u0026bid=3200194.1"
+                },
+                "path_type": "image",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "recommend_flag": "0",
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "list_two_type1",
+          "body": {
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "img_url": "//i8.mifile.cn/v1/a1/a5117c80-b120-b5a4-aaef-d38d781cb94a.webp?w=1080\u0026h=1080",
+                "img_url_webp": "//i8.mifile.cn/v1/a1/a5117c80-b120-b5a4-aaef-d38d781cb94a.webp?w=1080\u0026h=1080",
+                "img_url_color": "#DFDFDF",
+                "action": {
+                  "type": "product",
+                  "path": "6621",
+                  "log_code": "311861waptablist_two_type1001035#t=product\u0026act=other\u0026page=tab\u0026page_id=1861\u0026bid=3200195.1\u0026pid=6621"
+                },
+                "product_id": "6621",
+                "product_name": "90分金属登机箱",
+                "product_brief": "去旅行，趁年轻",
+                "product_price": "999",
+                "product_org_price": "999",
+                "margin_left": 0,
+                "margin_right": 0
+              },
+              {
+                "img_url": "//i8.mifile.cn/v1/a1/18eaa5d7-fa3a-7b5b-dab6-dd78124d58ba.webp?w=1080\u0026h=1080",
+                "img_url_webp": "//i8.mifile.cn/v1/a1/18eaa5d7-fa3a-7b5b-dab6-dd78124d58ba.webp?w=1080\u0026h=1080",
+                "img_url_color": "#BFC1C3",
+                "action": {
+                  "type": "product",
+                  "path": "3038",
+                  "log_code": "311861waptablist_two_type1002035#t=product\u0026act=other\u0026page=tab\u0026page_id=1861\u0026bid=3200195.2\u0026pid=3038"
+                },
+                "product_id": "3038",
+                "product_name": "90分旅行箱 24寸",
+                "product_brief": "静音轮胎，内饰纺织布料",
+                "product_price": "349",
+                "product_org_price": "349",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "list_two_type1",
+          "body": {
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "img_url": "//i8.mifile.cn/v1/a1/b5deb4a5-b93d-bd5d-ea1e-9b844b1e351e.webp?w=1080\u0026h=1080",
+                "img_url_webp": "//i8.mifile.cn/v1/a1/b5deb4a5-b93d-bd5d-ea1e-9b844b1e351e.webp?w=1080\u0026h=1080",
+                "img_url_color": "#939394",
+                "action": {
+                  "type": "product",
+                  "path": "5484",
+                  "log_code": "311861waptablist_two_type1001036#t=product\u0026act=other\u0026page=tab\u0026page_id=1861\u0026bid=3200196.1\u0026pid=5484"
+                },
+                "product_id": "5484",
+                "product_name": "90分旅行箱 28寸",
+                "product_brief": "轻盈设计，便捷出行",
+                "product_price": "499",
+                "product_org_price": "499",
+                "margin_left": 0,
+                "margin_right": 0
+              },
+              {
+                "img_url": "//i8.mifile.cn/v1/a1/b71d2160-35e0-7feb-f465-54b921fe2bc7.webp?w=1080\u0026h=1080",
+                "img_url_webp": "//i8.mifile.cn/v1/a1/b71d2160-35e0-7feb-f465-54b921fe2bc7.webp?w=1080\u0026h=1080",
+                "img_url_color": "#BDC1CC",
+                "action": {
+                  "type": "product",
+                  "path": "7140",
+                  "log_code": "311861waptablist_two_type1002036#t=product\u0026act=other\u0026page=tab\u0026page_id=1861\u0026bid=3200196.2\u0026pid=7140"
+                },
+                "product_id": "7140",
+                "product_name": "90分轻商务登机箱 ",
+                "product_brief": "20寸免托运",
+                "product_price": "399",
+                "product_org_price": "399",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "list_two_type1",
+          "body": {
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "img_url": "//i8.mifile.cn/v1/a1/4054bc06-4e54-2b2b-f7ab-fbe26c339e01.webp?w=1080\u0026h=1080",
+                "img_url_webp": "//i8.mifile.cn/v1/a1/4054bc06-4e54-2b2b-f7ab-fbe26c339e01.webp?w=1080\u0026h=1080",
+                "img_url_color": "#C3C9D4",
+                "action": {
+                  "type": "product",
+                  "path": "4087",
+                  "log_code": "311861waptablist_two_type1001037#t=product\u0026act=other\u0026page=tab\u0026page_id=1861\u0026bid=3200197.1\u0026pid=4087"
+                },
+                "product_id": "4087",
+                "product_name": "90分金属旅行箱",
+                "product_brief": "航空系铝镁合金",
+                "product_price": "1799",
+                "product_org_price": "1799",
+                "margin_left": 0,
+                "margin_right": 0
+              },
+              {
+                "img_url": "//i8.mifile.cn/v1/a1/8a32f092-a784-b908-aca8-a682120b8f58.webp?w=1080\u0026h=1080",
+                "img_url_webp": "//i8.mifile.cn/v1/a1/8a32f092-a784-b908-aca8-a682120b8f58.webp?w=1080\u0026h=1080",
+                "img_url_color": "#979AA3",
+                "action": {
+                  "type": "product",
+                  "path": "3460",
+                  "log_code": "311861waptablist_two_type1002037#t=product\u0026act=other\u0026page=tab\u0026page_id=1861\u0026bid=3200197.2\u0026pid=3460"
+                },
+                "product_id": "3460",
+                "product_name": "多功能都市胸包",
+                "product_brief": "装下你出行的所有需求",
+                "product_price": "69",
+                "product_org_price": "69",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "list_two_type1",
+          "body": {
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "img_url": "//i8.mifile.cn/v1/a1/8b9c9da5-9f80-f7ea-a7af-3b009b285598.webp?w=1080\u0026h=1080",
+                "img_url_webp": "//i8.mifile.cn/v1/a1/8b9c9da5-9f80-f7ea-a7af-3b009b285598.webp?w=1080\u0026h=1080",
+                "img_url_color": "#606470",
+                "action": {
+                  "type": "product",
+                  "path": "3452",
+                  "log_code": "311861waptablist_two_type1001038#t=product\u0026act=other\u0026page=tab\u0026page_id=1861\u0026bid=3200198.1\u0026pid=3452"
+                },
+                "product_id": "3452",
+                "product_name": "小米经典商务双肩包",
+                "product_brief": "实用商务时尚范",
+                "product_price": "99",
+                "product_org_price": "99",
+                "margin_left": 0,
+                "margin_right": 0
+              },
+              {
+                "img_url": "//i8.mifile.cn/v1/a1/c5c5ff4e-eae3-72e8-290a-2c815ef5c603.webp?w=1080\u0026h=1080",
+                "img_url_webp": "//i8.mifile.cn/v1/a1/c5c5ff4e-eae3-72e8-290a-2c815ef5c603.webp?w=1080\u0026h=1080",
+                "img_url_color": "#CED1D9",
+                "action": {
+                  "type": "product",
+                  "path": "7105",
+                  "log_code": "311861waptablist_two_type1002038#t=product\u0026act=other\u0026page=tab\u0026page_id=1861\u0026bid=3200198.2\u0026pid=7105"
+                },
+                "product_id": "7105",
+                "product_name": "小米数码收纳包",
+                "product_brief": "多合一立体设计",
+                "product_price": "59",
+                "product_org_price": "59",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "list_two_type1",
+          "body": {
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/7d2918fdab49684c39d8523b47a17920.jpg?w=1080\u0026h=1080",
+                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/7d2918fdab49684c39d8523b47a17920.jpg?w=1080\u0026h=1080",
+                "img_url_color": "#FFFFFF",
+                "action": {
+                  "type": "product",
+                  "path": "5831",
+                  "log_code": "311861waptablist_two_type1001039#t=product\u0026act=other\u0026page=tab\u0026page_id=1861\u0026bid=3200199.1\u0026pid=5831"
+                },
+                "product_id": "5831",
+                "product_name": "小米学院休闲双肩包",
+                "product_brief": "青春百搭，出街必备",
+                "product_price": "69",
+                "product_org_price": "79",
+                "margin_left": 0,
+                "margin_right": 0
+              },
+              {
+                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/6271599b34151bdc2caa543795057ed2.jpg?w=1080\u0026h=1080",
+                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/6271599b34151bdc2caa543795057ed2.jpg?w=1080\u0026h=1080",
+                "img_url_color": "#FFFFFF",
+                "action": {
+                  "type": "product",
+                  "path": "7688",
+                  "log_code": "311861waptablist_two_type1002039#t=product\u0026act=other\u0026page=tab\u0026page_id=1861\u0026bid=3200199.2\u0026pid=7688"
+                },
+                "product_id": "7688",
+                "product_name": "90分全天候机能背包",
+                "product_brief": "颜值担当，减震背板",
+                "product_price": "199",
+                "product_org_price": "199",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "list_two_type1",
+          "body": {
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/9c8b385a9cca7cc3297f8429c5ab86ba.jpg?w=1080\u0026h=1080",
+                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/9c8b385a9cca7cc3297f8429c5ab86ba.jpg?w=1080\u0026h=1080",
+                "img_url_color": "#FFFFFF",
+                "action": {
+                  "type": "product",
+                  "path": "5422",
+                  "log_code": "311861waptablist_two_type1001040#t=product\u0026act=other\u0026page=tab\u0026page_id=1861\u0026bid=3200200.1\u0026pid=5422"
+                },
+                "product_id": "5422",
+                "product_name": "小米商旅双肩包",
+                "product_brief": "简洁设计，商旅两用",
+                "product_price": "199",
+                "product_org_price": "199",
+                "margin_left": 0,
+                "margin_right": 0
+              },
+              {
+                "img_url": "//i8.mifile.cn/v1/a1/23a31439-7de5-20d3-868c-1ac61bdafe93.webp?w=1080\u0026h=1080",
+                "img_url_webp": "//i8.mifile.cn/v1/a1/23a31439-7de5-20d3-868c-1ac61bdafe93.webp?w=1080\u0026h=1080",
+                "img_url_color": "#CF908A",
+                "action": {
+                  "type": "product",
+                  "path": "3938",
+                  "log_code": "311861waptablist_two_type1002040#t=product\u0026act=other\u0026page=tab\u0026page_id=1861\u0026bid=3200200.2\u0026pid=3938"
+                },
+                "product_id": "3938",
+                "product_name": "90分轻户外旅行洗漱包",
+                "product_brief": "轻质透气，内外双层防水",
+                "product_price": "39",
+                "product_org_price": "39",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "list_two_type1",
+          "body": {
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "img_url": "//i8.mifile.cn/v1/a1/c3bd4c73-e339-3bf0-e28b-fe6f1c67d425.webp?w=1080\u0026h=1080",
+                "img_url_webp": "//i8.mifile.cn/v1/a1/c3bd4c73-e339-3bf0-e28b-fe6f1c67d425.webp?w=1080\u0026h=1080",
+                "img_url_color": "#B9BAB9",
+                "action": {
+                  "type": "product",
+                  "path": "7132",
+                  "log_code": "311861waptablist_two_type1001041#t=product\u0026act=other\u0026page=tab\u0026page_id=1861\u0026bid=3200201.1\u0026pid=7132"
+                },
+                "product_id": "7132",
+                "product_name": "90分户外休闲双肩包",
+                "product_brief": "不趋同，塑型格",
+                "product_price": "249",
+                "product_org_price": "249",
+                "margin_left": 0,
+                "margin_right": 0
+              },
+              {
+                "img_url": "//i8.mifile.cn/v1/a1/012eba95-9e16-9827-4974-3dda22fedd9a.webp?w=1080\u0026h=1080",
+                "img_url_webp": "//i8.mifile.cn/v1/a1/012eba95-9e16-9827-4974-3dda22fedd9a.webp?w=1080\u0026h=1080",
+                "img_url_color": "#A0A3A7",
+                "action": {
+                  "type": "product",
+                  "path": "2659",
+                  "log_code": "311861waptablist_two_type1002041#t=product\u0026act=other\u0026page=tab\u0026page_id=1861\u0026bid=3200201.2\u0026pid=2659"
+                },
+                "product_id": "2659",
+                "product_name": "90分便携收纳袋",
+                "product_brief": "专用防水面料，轻薄便携",
+                "product_price": "29",
+                "product_org_price": "29",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "divider_line",
+          "body": {
+            "line_color": "#f5f5f5",
+            "line_height": "24",
+            "height": "0",
+            "width": "0",
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "cells_auto_fill",
+          "block_id": "3173033",
+          "body": {
+            "bg_color": "#ffffff",
+            "w": 720,
+            "h": 80,
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "w": 720,
+                "h": 80,
+                "img_url": "//i8.mifile.cn/v1/a1/330bd578-068c-0ede-886f-e6bf04f3a64e.webp",
+                "img_url_webp": "//i8.mifile.cn/v1/a1/330bd578-068c-0ede-886f-e6bf04f3a64e.webp",
+                "img_url_color": "#FAFAFA",
+                "action": {
+                  "type": "none",
+                  "log_code": "311861waptabcells_auto_fill001043#t=normal\u0026act=other\u0026page=tab\u0026page_id=1861\u0026bid=3173033.1"
+                },
+                "path_type": "image",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "recommend_flag": "0",
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "list_two_type1",
+          "body": {
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "img_url": "//i8.mifile.cn/v1/a1/c43bc800-1046-4e75-ce46-162302eea40a.webp?w=1080\u0026h=1080",
+                "img_url_webp": "//i8.mifile.cn/v1/a1/c43bc800-1046-4e75-ce46-162302eea40a.webp?w=1080\u0026h=1080",
+                "img_url_color": "#EBDDCD",
+                "action": {
+                  "type": "product",
+                  "path": "4374",
+                  "log_code": "311861waptablist_two_type1001044#t=product\u0026act=other\u0026page=tab\u0026page_id=1861\u0026bid=3200203.1\u0026pid=4374"
+                },
+                "product_id": "4374",
+                "product_name": "8H标准乳胶枕 Z1",
+                "product_brief": "天然好枕头  一晚好睡眠",
+                "product_price": "159",
+                "product_org_price": "159",
+                "margin_left": 0,
+                "margin_right": 0
+              },
+              {
+                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/49e48ad67aba41cf14e32d9ca86cbf85.jpg?w=1080\u0026h=1080",
+                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/49e48ad67aba41cf14e32d9ca86cbf85.jpg?w=1080\u0026h=1080",
+                "img_url_color": "#FFFFFF",
+                "action": {
+                  "type": "product",
+                  "path": "7753",
+                  "log_code": "311861waptablist_two_type1002044#t=product\u0026act=other\u0026page=tab\u0026page_id=1861\u0026bid=3200203.2\u0026pid=7753"
+                },
+                "product_id": "7753",
+                "product_name": "8H记忆绵护椎腰靠",
+                "product_brief": "处处体贴，为你撑腰",
+                "product_price": "89",
+                "product_org_price": "89",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "list_two_type1",
+          "body": {
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "img_url": "//i8.mifile.cn/v1/a1/a34907df-51ef-414f-a6f7-02f61bfefc42.webp?w=1080\u0026h=1080",
+                "img_url_webp": "//i8.mifile.cn/v1/a1/a34907df-51ef-414f-a6f7-02f61bfefc42.webp?w=1080\u0026h=1080",
+                "img_url_color": "#E6E9EF",
+                "action": {
+                  "type": "product",
+                  "path": "7115",
+                  "log_code": "311861waptablist_two_type1001045#t=product\u0026act=other\u0026page=tab\u0026page_id=1861\u0026bid=3200204.1\u0026pid=7115"
+                },
+                "show_price_qi": true,
+                "product_id": "7115",
+                "product_name": "8H多功能青春床垫X1",
+                "product_brief": "除螨，抑菌，更透气",
+                "product_price": "399",
+                "product_org_price": "399",
+                "margin_left": 0,
+                "margin_right": 0
+              },
+              {
+                "img_url": "//i8.mifile.cn/v1/a1/e8a01285-3a0d-4644-3ec6-f5a7cd3b44bb.webp?w=1080\u0026h=1080",
+                "img_url_webp": "//i8.mifile.cn/v1/a1/e8a01285-3a0d-4644-3ec6-f5a7cd3b44bb.webp?w=1080\u0026h=1080",
+                "img_url_color": "#F4F2E8",
+                "action": {
+                  "type": "product",
+                  "path": "7242",
+                  "log_code": "311861waptablist_two_type1002045#t=product\u0026act=other\u0026page=tab\u0026page_id=1861\u0026bid=3200204.2\u0026pid=7242"
+                },
+                "product_id": "7242",
+                "product_name": "三曲线护颈记忆绵枕",
+                "product_brief": "告诉你，整夜好眠的秘密",
+                "product_price": "99",
+                "product_org_price": "99",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "list_two_type1",
+          "body": {
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "img_url": "//i8.mifile.cn/v1/a1/a5760b05-e748-e66d-bc7f-5a5f6531b3d8.webp?w=1080\u0026h=1080",
+                "img_url_webp": "//i8.mifile.cn/v1/a1/a5760b05-e748-e66d-bc7f-5a5f6531b3d8.webp?w=1080\u0026h=1080",
+                "img_url_color": "#C6C6C7",
+                "action": {
+                  "type": "product",
+                  "path": "7237",
+                  "log_code": "311861waptablist_two_type1001046#t=product\u0026act=other\u0026page=tab\u0026page_id=1861\u0026bid=3200205.1\u0026pid=7237"
+                },
+                "show_price_qi": true,
+                "product_id": "7237",
+                "product_name": "独立弹簧布艺沙发",
+                "product_brief": "0螺丝组装 优雅设计",
+                "product_price": "1199",
+                "product_org_price": "1199",
+                "margin_left": 0,
+                "margin_right": 0
+              },
+              {
+                "img_url": "//i8.mifile.cn/v1/a1/4cc85474-83f8-30c4-08b4-9f317198d2b2.webp?w=1080\u0026h=1080",
+                "img_url_webp": "//i8.mifile.cn/v1/a1/4cc85474-83f8-30c4-08b4-9f317198d2b2.webp?w=1080\u0026h=1080",
+                "img_url_color": "#E9D9CE",
+                "action": {
+                  "type": "product",
+                  "path": "4943",
+                  "log_code": "311861waptablist_two_type1002046#t=product\u0026act=other\u0026page=tab\u0026page_id=1861\u0026bid=3200205.2\u0026pid=4943"
+                },
+                "product_id": "4943",
+                "product_name": "8H护颈枕U1",
+                "product_brief": "乳胶颗粒填充 ，舒适入睡",
+                "product_price": "79",
+                "product_org_price": "79",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "list_two_type1",
+          "body": {
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/5f27af22f82f8af9c8ea489dbc21af65.jpg?w=1080\u0026h=1080",
+                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/5f27af22f82f8af9c8ea489dbc21af65.jpg?w=1080\u0026h=1080",
+                "img_url_color": "#FFFFFF",
+                "action": {
+                  "type": "product",
+                  "path": "7721",
+                  "log_code": "311861waptablist_two_type1001047#t=product\u0026act=other\u0026page=tab\u0026page_id=1861\u0026bid=3200206.1\u0026pid=7721"
+                },
+                "show_price_qi": true,
+                "product_id": "7721",
+                "product_name": "8H天竺棉针织件套",
+                "product_brief": "0甲醛婴儿级",
+                "product_price": "239",
+                "product_org_price": "239",
+                "margin_left": 0,
+                "margin_right": 0
+              },
+              {
+                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/0c507037a262db7aedc07ea99ccc3b20.jpg?w=1080\u0026h=1080",
+                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/0c507037a262db7aedc07ea99ccc3b20.jpg?w=1080\u0026h=1080",
+                "img_url_color": "#FFFFFF",
+                "action": {
+                  "type": "product",
+                  "path": "7754",
+                  "log_code": "311861waptablist_two_type1002047#t=product\u0026act=other\u0026page=tab\u0026page_id=1861\u0026bid=3200206.2\u0026pid=7754"
+                },
+                "product_id": "7754",
+                "product_name": "8H记忆绵多功能午睡枕",
+                "product_brief": "一枕多用，午休神器",
+                "product_price": "79",
+                "product_org_price": "79",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "list_two_type1",
+          "body": {
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/c5dc5c98db2a9e63c46a64e3444e7512.jpg?w=1080\u0026h=1080",
+                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/c5dc5c98db2a9e63c46a64e3444e7512.jpg?w=1080\u0026h=1080",
+                "img_url_color": "#FFFFFF",
+                "action": {
+                  "type": "product",
+                  "path": "7243",
+                  "log_code": "311861waptablist_two_type1001048#t=product\u0026act=other\u0026page=tab\u0026page_id=1861\u0026bid=3200207.1\u0026pid=7243"
+                },
+                "product_id": "7243",
+                "product_name": "8H蝶形护颈记忆绵枕",
+                "product_brief": "好材料，带来好睡眠",
+                "product_price": "129",
+                "product_org_price": "129",
+                "margin_left": 0,
+                "margin_right": 0
+              },
+              {
+                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/aafc9629a43e816ec46182ccb501bab1.jpg?w=1080\u0026h=1080",
+                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/aafc9629a43e816ec46182ccb501bab1.jpg?w=1080\u0026h=1080",
+                "img_url_color": "#FFFFFF",
+                "action": {
+                  "type": "product",
+                  "path": "7755",
+                  "log_code": "311861waptablist_two_type1002048#t=product\u0026act=other\u0026page=tab\u0026page_id=1861\u0026bid=3200207.2\u0026pid=7755"
+                },
+                "product_id": "7755",
+                "product_name": "8H记忆绵U形护颈枕",
+                "product_brief": "时刻护颈，伴你左右",
+                "product_price": "49",
+                "product_org_price": "49",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "list_two_type1",
+          "body": {
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "img_url": "//i8.mifile.cn/v1/a1/397deefe-d13f-c07e-d1ca-533003b679c6.webp?w=1080\u0026h=1080",
+                "img_url_webp": "//i8.mifile.cn/v1/a1/397deefe-d13f-c07e-d1ca-533003b679c6.webp?w=1080\u0026h=1080",
+                "img_url_color": "#E7E5DC",
+                "action": {
+                  "type": "product",
+                  "path": "7464",
+                  "log_code": "311861waptablist_two_type1001049#t=product\u0026act=other\u0026page=tab\u0026page_id=1861\u0026bid=3200208.1\u0026pid=7464"
+                },
+                "product_id": "7464",
+                "product_name": "8H凉感眼罩",
+                "product_brief": "随时随地，做个梦想家",
+                "product_price": "23.9",
+                "product_org_price": "23.9",
+                "margin_left": 0,
+                "margin_right": 0
+              },
+              {
+                "img_url": "//i8.mifile.cn/v1/a1/5fab1836-3eb3-edcb-6eb7-f0bbb7659de2.webp?w=1080\u0026h=1080",
+                "img_url_webp": "//i8.mifile.cn/v1/a1/5fab1836-3eb3-edcb-6eb7-f0bbb7659de2.webp?w=1080\u0026h=1080",
+                "img_url_color": "#B1A298",
+                "action": {
+                  "type": "product",
+                  "path": "6376",
+                  "log_code": "311861waptablist_two_type1002049#t=product\u0026act=other\u0026page=tab\u0026page_id=1861\u0026bid=3200208.2\u0026pid=6376"
+                },
+                "product_id": "6376",
+                "product_name": "8H 懒人舒适沙发",
+                "product_brief": "阳光正好 安然酣睡",
+                "product_price": "599",
+                "product_org_price": "649",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "divider_line",
+          "body": {
+            "line_color": "#f5f5f5",
+            "line_height": "24",
+            "height": "0",
+            "width": "0",
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "cells_auto_fill",
+          "block_id": "3200210",
+          "body": {
+            "bg_color": "#ffffff",
+            "w": 720,
+            "h": 80,
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "w": 720,
+                "h": 80,
+                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/182e7b3eca8509de2c7390d34dea1960.png",
+                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/182e7b3eca8509de2c7390d34dea1960.png",
+                "img_url_color": "#FFFFFF",
+                "action": {
+                  "type": "none",
+                  "log_code": "311861waptabcells_auto_fill001051#t=normal\u0026act=other\u0026page=tab\u0026page_id=1861\u0026bid=3200210.1"
+                },
+                "path_type": "image",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "recommend_flag": "0",
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "list_two_type1",
+          "body": {
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/1f6d20f44a7502cde1b71ead01abd8c7.jpg?w=1080\u0026h=1080",
+                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/1f6d20f44a7502cde1b71ead01abd8c7.jpg?w=1080\u0026h=1080",
+                "img_url_color": "#FFFFFF",
+                "action": {
+                  "type": "product",
+                  "path": "7713",
+                  "log_code": "311861waptablist_two_type1001052#t=product\u0026act=other\u0026page=tab\u0026page_id=1861\u0026bid=3200211.1\u0026pid=7713"
+                },
+                "product_id": "7713",
+                "product_name": "小米USB充电器60W快充版（6口）",
+                "product_brief": "6口输出，USB-C输出接口",
+                "product_price": "129",
+                "product_org_price": "129",
+                "margin_left": 0,
+                "margin_right": 0
+              },
+              {
+                "img_url": "//i8.mifile.cn/v1/a1/2f258afa-bf3c-e02f-54ce-e490a922ffae.webp?w=1080\u0026h=1080",
+                "img_url_webp": "//i8.mifile.cn/v1/a1/2f258afa-bf3c-e02f-54ce-e490a922ffae.webp?w=1080\u0026h=1080",
+                "img_url_color": "#C3CFDB",
+                "action": {
+                  "type": "product",
+                  "path": "7092",
+                  "log_code": "311861waptablist_two_type1002052#t=product\u0026act=other\u0026page=tab\u0026page_id=1861\u0026bid=3200211.2\u0026pid=7092"
+                },
+                "product_id": "7092",
+                "product_name": "小米USB充电器快充版",
+                "product_brief": "安卓、苹果设备均可使用",
+                "product_price": "29.9",
+                "product_org_price": "29.9",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "list_two_type1",
+          "body": {
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/90920c654bdbe2e47ed5ed01634c2c77.jpg?w=1080\u0026h=1080",
+                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/90920c654bdbe2e47ed5ed01634c2c77.jpg?w=1080\u0026h=1080",
+                "img_url_color": "#FFFFFF",
+                "action": {
+                  "type": "product",
+                  "path": "5942",
+                  "log_code": "311861waptablist_two_type1001053#t=product\u0026act=other\u0026page=tab\u0026page_id=1861\u0026bid=3200212.1\u0026pid=5942"
+                },
+                "product_id": "5942",
+                "product_name": "小米车载充电器快充版",
+                "product_brief": "让爱车成为移动充电站",
+                "product_price": "69",
+                "product_org_price": "69",
+                "margin_left": 0,
+                "margin_right": 0
+              },
+              {
+                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/ead828c6fe4487f2f2926ed5b3f8c644.jpg?w=1080\u0026h=1080",
+                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/ead828c6fe4487f2f2926ed5b3f8c644.jpg?w=1080\u0026h=1080",
+                "img_url_color": "#FFFFFF",
+                "action": {
+                  "type": "product",
+                  "path": "7714",
+                  "log_code": "311861waptablist_two_type1002053#t=product\u0026act=other\u0026page=tab\u0026page_id=1861\u0026bid=3200212.2\u0026pid=7714"
+                },
+                "product_id": "7714",
+                "product_name": "小米USB-C数据线 编织线版 100cm",
+                "product_brief": "高强度纤维编织线体",
+                "product_price": "19.9",
+                "product_org_price": "19.9",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "list_two_type1",
+          "body": {
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "img_url": "//i8.mifile.cn/v1/a1/de51d28e-45db-bb4a-bf6c-58e9ee46585f.webp?w=1080\u0026h=1080",
+                "img_url_webp": "//i8.mifile.cn/v1/a1/de51d28e-45db-bb4a-bf6c-58e9ee46585f.webp?w=1080\u0026h=1080",
+                "img_url_color": "#F1F1F1",
+                "action": {
+                  "type": "product",
+                  "path": "4944",
+                  "log_code": "311861waptablist_two_type1001054#t=product\u0026act=other\u0026page=tab\u0026page_id=1861\u0026bid=3200213.1\u0026pid=4944"
+                },
+                "product_id": "4944",
+                "product_name": "二合一数据线100cm",
+                "product_brief": "支持快充，安全保护",
+                "product_price": "24.9",
+                "product_org_price": "24.9",
+                "margin_left": 0,
+                "margin_right": 0
+              },
+              {
+                "img_url": "//i8.mifile.cn/v1/a1/b9964239-82d5-7564-7a73-a117008157fb.webp?w=1080\u0026h=1080",
+                "img_url_webp": "//i8.mifile.cn/v1/a1/b9964239-82d5-7564-7a73-a117008157fb.webp?w=1080\u0026h=1080",
+                "img_url_color": "#EBEBE8",
+                "action": {
+                  "type": "product",
+                  "path": "6825",
+                  "log_code": "311861waptablist_two_type1002054#t=product\u0026act=other\u0026page=tab\u0026page_id=1861\u0026bid=3200213.2\u0026pid=6825"
+                },
+                "product_id": "6825",
+                "product_name": "USB Type C数据线",
+                "product_brief": "快速充电，稳定传输",
+                "product_price": "16.9",
+                "product_org_price": "16.9",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "divider_line",
+          "body": {
+            "line_color": "#f5f5f5",
+            "line_height": "24",
+            "height": "0",
+            "width": "0",
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "cells_auto_fill",
+          "block_id": "3200215",
+          "body": {
+            "bg_color": "#ffffff",
+            "w": 720,
+            "h": 80,
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "w": 720,
+                "h": 80,
+                "img_url": "//i8.mifile.cn/v1/a1/c2d0c303-2774-b47c-8e57-f412b822c1e4.webp",
+                "img_url_webp": "//i8.mifile.cn/v1/a1/c2d0c303-2774-b47c-8e57-f412b822c1e4.webp",
+                "img_url_color": "#FAFAFA",
+                "action": {
+                  "type": "none",
+                  "log_code": "311861waptabcells_auto_fill001056#t=normal\u0026act=other\u0026page=tab\u0026page_id=1861\u0026bid=3200215.1"
+                },
+                "path_type": "image",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "recommend_flag": "0",
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "list_one_type12",
+          "body": {
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "img_url": "//i8.mifile.cn/v1/a1/7088419a-29c9-5637-5840-5271ee905d6c.webp?w=1080\u0026h=540",
+                "img_url_webp": "//i8.mifile.cn/v1/a1/7088419a-29c9-5637-5840-5271ee905d6c.webp?w=1080\u0026h=540",
+                "img_url_color": "#BCBCC0",
+                "action": {
+                  "type": "product",
+                  "path": "6305",
+                  "log_code": "311861waptablist_one_type12001057#t=product\u0026act=other\u0026page=tab\u0026page_id=1861\u0026bid=3173016.1\u0026pid=6305"
+                },
+                "product_id": "6305",
+                "product_name": "TS偏光太阳镜米家定制版",
+                "product_brief": "时尚随行，自修复涂层，镜片光亮如新",
+                "product_price": "99",
+                "product_org_price": "99",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "list_two_type1",
+          "body": {
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "img_url": "//i8.mifile.cn/v1/a1/79804032-d04f-0807-5dd8-779857be93bc.webp?w=1080\u0026h=1080",
+                "img_url_webp": "//i8.mifile.cn/v1/a1/79804032-d04f-0807-5dd8-779857be93bc.webp?w=1080\u0026h=1080",
+                "img_url_color": "#ECEEF2",
+                "action": {
+                  "type": "product",
+                  "path": "6312",
+                  "log_code": "311861waptablist_two_type1001058#t=product\u0026act=other\u0026page=tab\u0026page_id=1861\u0026bid=3200216.1\u0026pid=6312"
+                },
+                "product_id": "6312",
+                "product_name": " TS 防蓝光护目镜",
+                "product_brief": "新“视”界，有目共睹",
+                "product_price": "99",
+                "product_org_price": "99",
+                "margin_left": 0,
+                "margin_right": 0
+              },
+              {
+                "img_url": "//i8.mifile.cn/v1/a1/e8a01285-3a0d-4644-3ec6-f5a7cd3b44bb.webp?w=1080\u0026h=1080",
+                "img_url_webp": "//i8.mifile.cn/v1/a1/e8a01285-3a0d-4644-3ec6-f5a7cd3b44bb.webp?w=1080\u0026h=1080",
+                "img_url_color": "#F4F2E8",
+                "action": {
+                  "type": "product",
+                  "path": "7242",
+                  "log_code": "311861waptablist_two_type1002058#t=product\u0026act=other\u0026page=tab\u0026page_id=1861\u0026bid=3200216.2\u0026pid=7242"
+                },
+                "product_id": "7242",
+                "product_name": "三曲线护颈记忆绵枕",
+                "product_brief": "告诉你，整夜好眠的秘密",
+                "product_price": "99",
+                "product_org_price": "99",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "list_two_type1",
+          "body": {
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "img_url": "//i8.mifile.cn/v1/a1/07d8908a-7819-c734-0652-eb0f8e202333.webp?w=1080\u0026h=1080",
+                "img_url_webp": "//i8.mifile.cn/v1/a1/07d8908a-7819-c734-0652-eb0f8e202333.webp?w=1080\u0026h=1080",
+                "img_url_color": "#DAEAF0",
+                "action": {
+                  "type": "product",
+                  "path": "7403",
+                  "log_code": "311861waptablist_two_type1001059#t=product\u0026act=other\u0026page=tab\u0026page_id=1861\u0026bid=3173018.1\u0026pid=7403"
+                },
+                "product_id": "7403",
+                "product_name": "保温杯",
+                "product_brief": "12小时保温保冷",
+                "product_price": "99",
+                "product_org_price": "99",
+                "margin_left": 0,
+                "margin_right": 0
+              },
+              {
+                "img_url": "//i8.mifile.cn/v1/a1/4fa5c0ad-2d52-2ac4-0095-05108a580310.webp?w=1080\u0026h=1080",
+                "img_url_webp": "//i8.mifile.cn/v1/a1/4fa5c0ad-2d52-2ac4-0095-05108a580310.webp?w=1080\u0026h=1080",
+                "img_url_color": "#878B8F",
+                "action": {
+                  "type": "product",
+                  "path": "6125",
+                  "log_code": "311861waptablist_two_type1002059#t=product\u0026act=other\u0026page=tab\u0026page_id=1861\u0026bid=3173018.2\u0026pid=6125"
+                },
+                "product_id": "6125",
+                "product_name": "米家wiha螺丝刀套装",
+                "product_brief": "满足大多数日常所需",
+                "product_price": "99",
+                "product_org_price": "99",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "list_two_type1",
+          "body": {
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "img_url": "//i8.mifile.cn/v1/a1/ba867a66-0670-f246-5b63-1b05bf9d4d66.webp?w=1080\u0026h=1080",
+                "img_url_webp": "//i8.mifile.cn/v1/a1/ba867a66-0670-f246-5b63-1b05bf9d4d66.webp?w=1080\u0026h=1080",
+                "img_url_color": "#E1E1E1",
+                "action": {
+                  "type": "product",
+                  "path": "7530",
+                  "log_code": "311861waptablist_two_type1001060#t=product\u0026act=other\u0026page=tab\u0026page_id=1861\u0026bid=3173019.1\u0026pid=7530"
+                },
+                "product_id": "7530",
+                "product_name": "知吾煮汤锅 米家定制",
+                "product_brief": "聚热快，受热匀，适用多种炉具",
+                "product_price": "99",
+                "product_org_price": "99",
+                "margin_left": 0,
+                "margin_right": 0
+              },
+              {
+                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/b4c258ac196ca45294d5b7a1647f677d.jpg?w=1080\u0026h=1080",
+                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/b4c258ac196ca45294d5b7a1647f677d.jpg?w=1080\u0026h=1080",
+                "img_url_color": "#FFFFFF",
+                "action": {
+                  "type": "product",
+                  "path": "4918",
+                  "log_code": "311861waptablist_two_type1002060#t=product\u0026act=other\u0026page=tab\u0026page_id=1861\u0026bid=3173019.2\u0026pid=4918"
+                },
+                "product_id": "4918",
+                "product_name": "最生活浴巾 青春系列",
+                "product_brief": "抗菌科技，为颜值保驾护航",
+                "product_price": "99",
+                "product_org_price": "99",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "divider_line",
+          "body": {
+            "line_color": "#f5f5f5",
+            "line_height": "24",
+            "height": "0",
+            "width": "0",
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "cells_auto_fill",
+          "block_id": "3173021",
+          "body": {
+            "bg_color": "#ffffff",
+            "w": 720,
+            "h": 80,
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "w": 720,
+                "h": 80,
+                "img_url": "//i8.mifile.cn/v1/a1/68003b35-25c5-55db-d457-e65e1c0f6b2c.webp",
+                "img_url_webp": "//i8.mifile.cn/v1/a1/68003b35-25c5-55db-d457-e65e1c0f6b2c.webp",
+                "img_url_color": "#F9F9F9",
+                "action": {
+                  "type": "none",
+                  "log_code": "311861waptabcells_auto_fill001062#t=normal\u0026act=other\u0026page=tab\u0026page_id=1861\u0026bid=3173021.1"
+                },
+                "path_type": "image",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "recommend_flag": "0",
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "list_one_type12",
+          "body": {
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/9f608369007c335627a9d6593fe0ab26.jpg?w=1080\u0026h=540",
+                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/9f608369007c335627a9d6593fe0ab26.jpg?w=1080\u0026h=540",
+                "img_url_color": "#FFFFFF",
+                "action": {
+                  "type": "product",
+                  "path": "10000102",
+                  "log_code": "311861waptablist_one_type12001063#t=product\u0026act=other\u0026page=tab\u0026page_id=1861\u0026bid=3245477.1\u0026pid=10000102"
+                },
+                "product_id": "10000102",
+                "product_name": "米家运动鞋2",
+                "product_brief": "轻盈灵巧 动静皆宜 黑科技加持 设计再度升级",
+                "product_price": "199",
+                "product_org_price": "199",
+                "product_tag": "//i8.mifile.cn/v1/a1/289039eb-c3ed-7c26-69c3-5b07b72a797d.webp?w=120\u0026h=48",
+                "product_tag_webp": "//i8.mifile.cn/v1/a1/289039eb-c3ed-7c26-69c3-5b07b72a797d.webp?w=120\u0026h=48",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "list_two_type1",
+          "body": {
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "img_url": "//i8.mifile.cn/v1/a1/d5899104-e7a8-6d82-0cc5-11c1dd6a7f19.webp?w=1080\u0026h=1080",
+                "img_url_webp": "//i8.mifile.cn/v1/a1/d5899104-e7a8-6d82-0cc5-11c1dd6a7f19.webp?w=1080\u0026h=1080",
+                "img_url_color": "#7D7A78",
+                "action": {
+                  "type": "product",
+                  "path": "2839",
+                  "log_code": "311861waptablist_two_type1001064#t=product\u0026act=other\u0026page=tab\u0026page_id=1861\u0026bid=3173023.1\u0026pid=2839"
+                },
+                "product_id": "2839",
+                "product_name": "极简都市双肩包",
+                "product_brief": "方形立体设计",
+                "product_price": "149",
+                "product_org_price": "149",
+                "margin_left": 0,
+                "margin_right": 0
+              },
+              {
+                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/0e886cafcd669915f9cf6bc1480d4254.jpg?w=1080\u0026h=1080\u0026bg=FFFFFF",
+                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/0e886cafcd669915f9cf6bc1480d4254.jpg?w=1080\u0026h=1080\u0026bg=FFFFFF",
+                "img_url_color": "#FFFFFF",
+                "action": {
+                  "type": "product",
+                  "path": "10000067",
+                  "log_code": "311861waptablist_two_type1002064#t=product\u0026act=other\u0026page=tab\u0026page_id=1861\u0026bid=3173023.2\u0026pid=10000067"
+                },
+                "product_id": "10000067",
+                "product_name": "Free Tie 真皮板鞋",
+                "product_brief": "做一双简单的板鞋",
+                "product_price": "199",
+                "product_org_price": "199",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "list_two_type1",
+          "body": {
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "img_url": "//i8.mifile.cn/v1/a1/c23d89d0-a3f3-48fa-d196-32067cf3c60a.webp?w=1080\u0026h=1080\u0026bg=8DADC6",
+                "img_url_webp": "//i8.mifile.cn/v1/a1/c23d89d0-a3f3-48fa-d196-32067cf3c60a.webp?w=1080\u0026h=1080\u0026bg=8DADC6",
+                "img_url_color": "#8DADC6",
+                "action": {
+                  "type": "product",
+                  "path": "4230",
+                  "log_code": "311861waptablist_two_type1001065#t=product\u0026act=other\u0026page=tab\u0026page_id=1861\u0026bid=3173024.1\u0026pid=4230"
+                },
+                "product_id": "4230",
+                "product_name": "AirPOP 防雾霾口罩",
+                "product_brief": "过滤PM2.5颗粒物，健康防护",
+                "product_price": "69",
+                "product_org_price": "69",
+                "margin_left": 0,
+                "margin_right": 0
+              },
+              {
+                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/97bdebaac4f524b9dfdfe6981815ead4.jpg?w=1080\u0026h=1080\u0026bg=FFFFFF",
+                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/97bdebaac4f524b9dfdfe6981815ead4.jpg?w=1080\u0026h=1080\u0026bg=FFFFFF",
+                "img_url_color": "#FFFFFF",
+                "action": {
+                  "type": "product",
+                  "path": "5673",
+                  "log_code": "311861waptablist_two_type1002065#t=product\u0026act=other\u0026page=tab\u0026page_id=1861\u0026bid=3173024.2\u0026pid=5673"
+                },
+                "show_price_qi": true,
+                "product_id": "5673",
+                "product_name": "尼龙偏光太阳镜",
+                "product_brief": "重塑专业，打造时尚",
+                "product_price": "199",
+                "product_org_price": "199",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "divider_line",
+          "body": {
+            "line_color": "#f5f5f5",
+            "line_height": "24",
+            "height": "0",
+            "width": "0",
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "cells_auto_fill",
+          "block_id": "3173026",
+          "body": {
+            "bg_color": "#ffffff",
+            "w": 720,
+            "h": 80,
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "w": 720,
+                "h": 80,
+                "img_url": "//i8.mifile.cn/v1/a1/d5c31ece-6a10-b11d-2011-dc174ed32d0d.webp",
+                "img_url_webp": "//i8.mifile.cn/v1/a1/d5c31ece-6a10-b11d-2011-dc174ed32d0d.webp",
+                "img_url_color": "#F2F2F2",
+                "action": {
+                  "type": "none",
+                  "log_code": "311861waptabcells_auto_fill001067#t=normal\u0026act=other\u0026page=tab\u0026page_id=1861\u0026bid=3173026.1"
+                },
+                "path_type": "image",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "recommend_flag": "0",
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "list_one_type12",
+          "body": {
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/e6ed063abfaa6c2b460525ed512e0dab.jpg?w=1080\u0026h=540",
+                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/e6ed063abfaa6c2b460525ed512e0dab.jpg?w=1080\u0026h=540",
+                "img_url_color": "#FFFFFF",
+                "action": {
+                  "type": "product",
+                  "path": "7755",
+                  "log_code": "311861waptablist_one_type12001068#t=product\u0026act=other\u0026page=tab\u0026page_id=1861\u0026bid=3173009.1\u0026pid=7755"
+                },
+                "product_id": "7755",
+                "product_name": "8H记忆绵U形护颈枕",
+                "product_brief": "时刻护颈，伴你左右",
+                "product_price": "49",
+                "product_org_price": "49",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "list_two_type1",
+          "body": {
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/0c507037a262db7aedc07ea99ccc3b20.jpg?w=1080\u0026h=1080",
+                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/0c507037a262db7aedc07ea99ccc3b20.jpg?w=1080\u0026h=1080",
+                "img_url_color": "#FFFFFF",
+                "action": {
+                  "type": "product",
+                  "path": "7754",
+                  "log_code": "311861waptablist_two_type1001069#t=product\u0026act=other\u0026page=tab\u0026page_id=1861\u0026bid=3191216.1\u0026pid=7754"
+                },
+                "product_id": "7754",
+                "product_name": "8H记忆绵多功能午睡枕",
+                "product_brief": "一枕多用，午休神器",
+                "product_price": "79",
+                "product_org_price": "79",
+                "margin_left": 0,
+                "margin_right": 0
+              },
+              {
+                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/49e48ad67aba41cf14e32d9ca86cbf85.jpg?w=1080\u0026h=1080",
+                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/49e48ad67aba41cf14e32d9ca86cbf85.jpg?w=1080\u0026h=1080",
+                "img_url_color": "#FFFFFF",
+                "action": {
+                  "type": "product",
+                  "path": "7753",
+                  "log_code": "311861waptablist_two_type1002069#t=product\u0026act=other\u0026page=tab\u0026page_id=1861\u0026bid=3191216.2\u0026pid=7753"
+                },
+                "product_id": "7753",
+                "product_name": "8H记忆绵护椎腰靠",
+                "product_brief": "处处体贴，为你撑腰",
+                "product_price": "89",
+                "product_org_price": "89",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "list_two_type1",
+          "body": {
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/dd2e96bce0955ffa8eb1eb2e07d4466a.jpg?w=1080\u0026h=1080",
+                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/dd2e96bce0955ffa8eb1eb2e07d4466a.jpg?w=1080\u0026h=1080",
+                "img_url_color": "#FFFFFF",
+                "action": {
+                  "type": "product",
+                  "path": "6512",
+                  "log_code": "311861waptablist_two_type1001070#t=product\u0026act=other\u0026page=tab\u0026page_id=1861\u0026bid=3173027.1\u0026pid=6512"
+                },
+                "show_price_qi": true,
+                "product_id": "6512",
+                "product_name": "8H 乳胶弹簧静音床垫",
+                "product_brief": "健康每一处  床垫会呼吸",
+                "product_price": "1599",
+                "product_org_price": "1599",
+                "margin_left": 0,
+                "margin_right": 0
+              },
+              {
+                "img_url": "//i8.mifile.cn/v1/a1/5f1187ee-7c15-4f53-1ab0-d537ad42f514.webp?w=1080\u0026h=1080",
+                "img_url_webp": "//i8.mifile.cn/v1/a1/5f1187ee-7c15-4f53-1ab0-d537ad42f514.webp?w=1080\u0026h=1080",
+                "img_url_color": "#F2EFE6",
+                "action": {
+                  "type": "product",
+                  "path": "7578",
+                  "log_code": "311861waptablist_two_type1002070#t=product\u0026act=other\u0026page=tab\u0026page_id=1861\u0026bid=3173027.2\u0026pid=7578"
+                },
+                "show_price_qi": true,
+                "product_id": "7578",
+                "product_name": "8H 3D七孔保暖被",
+                "product_brief": "更轻更暖不压身",
+                "product_price": "339",
+                "product_org_price": "339",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "list_two_type1",
+          "body": {
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "img_url": "//i8.mifile.cn/v1/a1/c43bc800-1046-4e75-ce46-162302eea40a.webp?w=1080\u0026h=1080\u0026bg=EBDDCD",
+                "img_url_webp": "//i8.mifile.cn/v1/a1/c43bc800-1046-4e75-ce46-162302eea40a.webp?w=1080\u0026h=1080\u0026bg=EBDDCD",
+                "img_url_color": "#EBDDCD",
+                "action": {
+                  "type": "product",
+                  "path": "4374",
+                  "log_code": "311861waptablist_two_type1001071#t=product\u0026act=other\u0026page=tab\u0026page_id=1861\u0026bid=3173028.1\u0026pid=4374"
+                },
+                "product_id": "4374",
+                "product_name": "8H标准乳胶枕 Z1",
+                "product_brief": "天然好枕头  一晚好睡眠",
+                "product_price": "159",
+                "product_org_price": "159",
+                "margin_left": 0,
+                "margin_right": 0
+              },
+              {
+                "img_url": "//i8.mifile.cn/v1/a1/792f0c6a-1647-025c-cf03-8ee75801b873.webp?w=1080\u0026h=1080\u0026bg=DECFBA",
+                "img_url_webp": "//i8.mifile.cn/v1/a1/792f0c6a-1647-025c-cf03-8ee75801b873.webp?w=1080\u0026h=1080\u0026bg=DECFBA",
+                "img_url_color": "#DECFBA",
+                "action": {
+                  "type": "product",
+                  "path": "4375",
+                  "log_code": "311861waptablist_two_type1002071#t=product\u0026act=other\u0026page=tab\u0026page_id=1861\u0026bid=3173028.2\u0026pid=4375"
+                },
+                "product_id": "4375",
+                "product_name": "8H护颈乳胶枕 Z2",
+                "product_brief": "多重新科技  升级好睡眠",
+                "product_price": "239",
+                "product_org_price": "239",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "list_two_type1",
+          "body": {
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/c5dc5c98db2a9e63c46a64e3444e7512.jpg?w=1080\u0026h=1080\u0026bg=FFFFFF",
+                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/c5dc5c98db2a9e63c46a64e3444e7512.jpg?w=1080\u0026h=1080\u0026bg=FFFFFF",
+                "img_url_color": "#FFFFFF",
+                "action": {
+                  "type": "product",
+                  "path": "7243",
+                  "log_code": "311861waptablist_two_type1001072#t=product\u0026act=other\u0026page=tab\u0026page_id=1861\u0026bid=3173029.1\u0026pid=7243"
+                },
+                "product_id": "7243",
+                "product_name": "8H蝶形护颈记忆绵枕",
+                "product_brief": "好材料，带来好睡眠",
+                "product_price": "129",
+                "product_org_price": "129",
+                "margin_left": 0,
+                "margin_right": 0
+              },
+              {
+                "img_url": "//i8.mifile.cn/v1/a1/e8a01285-3a0d-4644-3ec6-f5a7cd3b44bb.webp?w=1080\u0026h=1080\u0026bg=F4F2E8",
+                "img_url_webp": "//i8.mifile.cn/v1/a1/e8a01285-3a0d-4644-3ec6-f5a7cd3b44bb.webp?w=1080\u0026h=1080\u0026bg=F4F2E8",
+                "img_url_color": "#F4F2E8",
+                "action": {
+                  "type": "product",
+                  "path": "7242",
+                  "log_code": "311861waptablist_two_type1002072#t=product\u0026act=other\u0026page=tab\u0026page_id=1861\u0026bid=3173029.2\u0026pid=7242"
+                },
+                "product_id": "7242",
+                "product_name": "三曲线护颈记忆绵枕",
+                "product_brief": "告诉你，整夜好眠的秘密",
+                "product_price": "99",
+                "product_org_price": "99",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "list_two_type1",
+          "body": {
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "img_url": "//i8.mifile.cn/v1/a1/a34907df-51ef-414f-a6f7-02f61bfefc42.webp?w=1080\u0026h=1080\u0026bg=E6E9EF",
+                "img_url_webp": "//i8.mifile.cn/v1/a1/a34907df-51ef-414f-a6f7-02f61bfefc42.webp?w=1080\u0026h=1080\u0026bg=E6E9EF",
+                "img_url_color": "#E6E9EF",
+                "action": {
+                  "type": "product",
+                  "path": "7115",
+                  "log_code": "311861waptablist_two_type1001073#t=product\u0026act=other\u0026page=tab\u0026page_id=1861\u0026bid=3173030.1\u0026pid=7115"
+                },
+                "show_price_qi": true,
+                "product_id": "7115",
+                "product_name": "8H多功能青春床垫X1",
+                "product_brief": "除螨，抑菌，更透气",
+                "product_price": "399",
+                "product_org_price": "399",
+                "margin_left": 0,
+                "margin_right": 0
+              },
+              {
+                "img_url": "//i8.mifile.cn/v1/a1/6926c28d-3cb8-056a-cfe4-65afd2afb605.webp?w=1080\u0026h=1080\u0026bg=F4F0EC",
+                "img_url_webp": "//i8.mifile.cn/v1/a1/6926c28d-3cb8-056a-cfe4-65afd2afb605.webp?w=1080\u0026h=1080\u0026bg=F4F0EC",
+                "img_url_color": "#F4F0EC",
+                "action": {
+                  "type": "product",
+                  "path": "7118",
+                  "log_code": "311861waptablist_two_type1002073#t=product\u0026act=other\u0026page=tab\u0026page_id=1861\u0026bid=3173030.2\u0026pid=7118"
+                },
+                "show_price_qi": true,
+                "product_id": "7118",
+                "product_name": "8H鹅绒被",
+                "product_brief": "95%大朵白鹅绒秋冬被",
+                "product_price": "1399",
+                "product_org_price": "1699",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "list_two_type1",
+          "body": {
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "img_url": "//i8.mifile.cn/v1/a1/265d40e8-8afc-d31d-ccfd-761f5e515542.webp?w=1080\u0026h=1080\u0026bg=DEDADA",
+                "img_url_webp": "//i8.mifile.cn/v1/a1/265d40e8-8afc-d31d-ccfd-761f5e515542.webp?w=1080\u0026h=1080\u0026bg=DEDADA",
+                "img_url_color": "#DEDADA",
+                "action": {
+                  "type": "product",
+                  "path": "5729",
+                  "log_code": "311861waptablist_two_type1001074#t=product\u0026act=other\u0026page=tab\u0026page_id=1861\u0026bid=3173031.1\u0026pid=5729"
+                },
+                "show_price_qi": true,
+                "product_id": "5729",
+                "product_name": "乳胶床垫·青春版",
+                "product_brief": "真心品质帮助睡眠",
+                "product_price": "599",
+                "product_org_price": "599",
+                "margin_left": 0,
+                "margin_right": 0
+              },
+              {
+                "img_url": "//i8.mifile.cn/v1/a1/4cc85474-83f8-30c4-08b4-9f317198d2b2.webp?w=1080\u0026h=1080\u0026bg=E9D9CE",
+                "img_url_webp": "//i8.mifile.cn/v1/a1/4cc85474-83f8-30c4-08b4-9f317198d2b2.webp?w=1080\u0026h=1080\u0026bg=E9D9CE",
+                "img_url_color": "#E9D9CE",
+                "action": {
+                  "type": "product",
+                  "path": "4943",
+                  "log_code": "311861waptablist_two_type1002074#t=product\u0026act=other\u0026page=tab\u0026page_id=1861\u0026bid=3173031.2\u0026pid=4943"
+                },
+                "product_id": "4943",
+                "product_name": "8H护颈枕U1",
+                "product_brief": "乳胶颗粒填充 ，舒适入睡",
+                "product_price": "79",
+                "product_org_price": "79",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "cells_auto_fill",
+          "block_id": "3200217",
+          "body": {
+            "bg_color": "#ffffff",
+            "w": 720,
+            "h": 80,
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "w": 720,
+                "h": 80,
+                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/a1846dce15f9f6b3553134f9e2e99b9f.png",
+                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/a1846dce15f9f6b3553134f9e2e99b9f.png",
+                "img_url_color": "#FFFFFF",
+                "action": {
+                  "type": "none",
+                  "log_code": "311861waptabcells_auto_fill001075#t=normal\u0026act=other\u0026page=tab\u0026page_id=1861\u0026bid=3200217.1"
+                },
+                "path_type": "image",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "recommend_flag": "0",
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "divider_line",
+          "body": {
+            "line_color": "#f5f5f5",
+            "line_height": "24",
+            "height": "0",
+            "width": "0",
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "list_one_type12",
+          "body": {
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/0de89fbe4513be7625f9a67d89a5f1c7.jpg?w=1080\u0026h=540\u0026bg=FFFFFF",
+                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/0de89fbe4513be7625f9a67d89a5f1c7.jpg?w=1080\u0026h=540\u0026bg=FFFFFF",
+                "img_url_color": "#FFFFFF",
+                "action": {
+                  "type": "product",
+                  "path": "6312",
+                  "log_code": "311861waptablist_one_type12001077#t=product\u0026act=other\u0026page=tab\u0026page_id=1861\u0026bid=3173051.1\u0026pid=6312"
+                },
+                "product_id": "6312",
+                "product_name": "TS 基础级防蓝光护目镜",
+                "product_brief": "35%蓝光阻隔率，超轻材质",
+                "product_price": "99",
+                "product_org_price": "99",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "list_two_type1",
+          "body": {
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "img_url": "//i8.mifile.cn/v1/a1/4fa5c0ad-2d52-2ac4-0095-05108a580310.webp?w=1080\u0026h=1080\u0026bg=878B8F",
+                "img_url_webp": "//i8.mifile.cn/v1/a1/4fa5c0ad-2d52-2ac4-0095-05108a580310.webp?w=1080\u0026h=1080\u0026bg=878B8F",
+                "img_url_color": "#878B8F",
+                "action": {
+                  "type": "product",
+                  "path": "6125",
+                  "log_code": "311861waptablist_two_type1001078#t=product\u0026act=other\u0026page=tab\u0026page_id=1861\u0026bid=3173052.1\u0026pid=6125"
+                },
+                "product_id": "6125",
+                "product_name": "米家wiha螺丝刀套装",
+                "product_brief": "满足大多数日常所需",
+                "product_price": "99",
+                "product_org_price": "99",
+                "margin_left": 0,
+                "margin_right": 0
+              },
+              {
+                "img_url": "//i8.mifile.cn/v1/a1/f9fc5c06-e57f-c77d-17cd-3bcd73a8abe8.webp?w=1080\u0026h=1080\u0026bg=E2E8E6",
+                "img_url_webp": "//i8.mifile.cn/v1/a1/f9fc5c06-e57f-c77d-17cd-3bcd73a8abe8.webp?w=1080\u0026h=1080\u0026bg=E2E8E6",
+                "img_url_color": "#E2E8E6",
+                "action": {
+                  "type": "product",
+                  "path": "5483",
+                  "log_code": "311861waptablist_two_type1002078#t=product\u0026act=other\u0026page=tab\u0026page_id=1861\u0026bid=3173052.2\u0026pid=5483"
+                },
+                "product_id": "5483",
+                "product_name": "米家金属签字笔",
+                "product_brief": "恰当好处的舒适握感",
+                "product_price": "24.9",
+                "product_org_price": "24.9",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "list_two_type1",
+          "body": {
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "img_url": "//i8.mifile.cn/v1/a1/42398315-0632-5cb9-0c8b-72f985ffa645.webp?w=1080\u0026h=1080\u0026bg=D5D3D4",
+                "img_url_webp": "//i8.mifile.cn/v1/a1/42398315-0632-5cb9-0c8b-72f985ffa645.webp?w=1080\u0026h=1080\u0026bg=D5D3D4",
+                "img_url_color": "#D5D3D4",
+                "action": {
+                  "type": "product",
+                  "path": "4224",
+                  "log_code": "311861waptablist_two_type1001079#t=product\u0026act=other\u0026page=tab\u0026page_id=1861\u0026bid=3173053.1\u0026pid=4224"
+                },
+                "product_id": "4224",
+                "product_name": "60cm柔软米兔抱枕",
+                "product_brief": "大尺寸趴姿米兔",
+                "product_price": "129",
+                "product_org_price": "129",
+                "margin_left": 0,
+                "margin_right": 0
+              },
+              {
+                "img_url": "//i8.mifile.cn/v1/a1/0a5b3926-bf9c-6eb1-b8d0-e950ff5bb47b.webp?w=1080\u0026h=1080\u0026bg=E8E9EE",
+                "img_url_webp": "//i8.mifile.cn/v1/a1/0a5b3926-bf9c-6eb1-b8d0-e950ff5bb47b.webp?w=1080\u0026h=1080\u0026bg=E8E9EE",
+                "img_url_color": "#E8E9EE",
+                "action": {
+                  "type": "product",
+                  "path": "7163",
+                  "log_code": "311861waptablist_two_type1002079#t=product\u0026act=other\u0026page=tab\u0026page_id=1861\u0026bid=3173053.2\u0026pid=7163"
+                },
+                "product_id": "7163",
+                "product_name": "TS儿童防蓝光护目镜",
+                "product_brief": "关爱孩子成长每一刻",
+                "product_price": "199",
+                "product_org_price": "199",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "list_two_type1",
+          "body": {
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "img_url": "//i8.mifile.cn/v1/a1/57397725-7ed4-265e-79c1-493e2ca0ce9c.webp?w=1080\u0026h=1080\u0026bg=F0CD71",
+                "img_url_webp": "//i8.mifile.cn/v1/a1/57397725-7ed4-265e-79c1-493e2ca0ce9c.webp?w=1080\u0026h=1080\u0026bg=F0CD71",
+                "img_url_color": "#F0CD71",
+                "action": {
+                  "type": "product",
+                  "path": "7157",
+                  "log_code": "311861waptablist_two_type1001080#t=product\u0026act=other\u0026page=tab\u0026page_id=1861\u0026bid=3173054.1\u0026pid=7157"
+                },
+                "product_id": "7157",
+                "product_name": "TS眼镜架 米家定制",
+                "product_brief": "打造品质，拒绝沉重",
+                "product_price": "249",
+                "product_org_price": "249",
+                "margin_left": 0,
+                "margin_right": 0
+              },
+              {
+                "img_url": "//i8.mifile.cn/v1/a1/c23d89d0-a3f3-48fa-d196-32067cf3c60a.webp?w=1080\u0026h=1080\u0026bg=8DADC6",
+                "img_url_webp": "//i8.mifile.cn/v1/a1/c23d89d0-a3f3-48fa-d196-32067cf3c60a.webp?w=1080\u0026h=1080\u0026bg=8DADC6",
+                "img_url_color": "#8DADC6",
+                "action": {
+                  "type": "product",
+                  "path": "4230",
+                  "log_code": "311861waptablist_two_type1002080#t=product\u0026act=other\u0026page=tab\u0026page_id=1861\u0026bid=3173054.2\u0026pid=4230"
+                },
+                "product_id": "4230",
+                "product_name": "AirPOP 防雾霾口罩",
+                "product_brief": "过滤PM2.5颗粒物，健康防护",
+                "product_price": "69",
+                "product_org_price": "69",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "list_two_type1",
+          "body": {
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/00db10bf30e2328c8024be9be48b692f.jpg?w=1080\u0026h=1080\u0026bg=FFFFFF",
+                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/00db10bf30e2328c8024be9be48b692f.jpg?w=1080\u0026h=1080\u0026bg=FFFFFF",
+                "img_url_color": "#FFFFFF",
+                "action": {
+                  "type": "product",
+                  "path": "6124",
+                  "log_code": "311861waptablist_two_type1001081#t=product\u0026act=other\u0026page=tab\u0026page_id=1861\u0026bid=3173055.1\u0026pid=6124"
+                },
+                "product_id": "6124",
+                "product_name": "自动折叠伞",
+                "product_brief": "防泼水伞布，轻盈拒水",
+                "product_price": "99",
+                "product_org_price": "99",
+                "margin_left": 0,
+                "margin_right": 0
+              },
+              {
+                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/97bdebaac4f524b9dfdfe6981815ead4.jpg?w=1080\u0026h=1080\u0026bg=FFFFFF",
+                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/97bdebaac4f524b9dfdfe6981815ead4.jpg?w=1080\u0026h=1080\u0026bg=FFFFFF",
+                "img_url_color": "#FFFFFF",
+                "action": {
+                  "type": "product",
+                  "path": "5673",
+                  "log_code": "311861waptablist_two_type1002081#t=product\u0026act=other\u0026page=tab\u0026page_id=1861\u0026bid=3173055.2\u0026pid=5673"
+                },
+                "show_price_qi": true,
+                "product_id": "5673",
+                "product_name": "尼龙偏光太阳镜",
+                "product_brief": "重塑专业，打造时尚",
+                "product_price": "199",
+                "product_org_price": "199",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "cells_auto_fill",
+          "is_show": "Y",
+          "body": {
+            "w": 720,
+            "h": 280,
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "w": 720,
+                "h": 280,
+                "material_id": 8007,
+                "ad_position_id": 2340,
+                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/6ef0c74a1f10f6e78e92c62245d26c7a.jpg?bg=FFFFFF",
+                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/6ef0c74a1f10f6e78e92c62245d26c7a.jpg?bg=FFFFFF",
+                "img_url_color": "#FFFFFF",
+                "action": {
+                  "type": "activity",
+                  "path": "https://s1.mi.com/pages/3bd8fdb090f1f5eb66a00c84dbc5ad51/index.html",
+                  "log_code": "311861waptabcells_auto_fill001082#t=ad\u0026act=other\u0026page=tab\u0026page_id=1861\u0026bid=3221893.1\u0026adp=2340\u0026adm=8007"
+                },
+                "path_type": "image",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        }
+      ]
+    },
+    "default_type": "tab",
+    "default_id": 1861
+  },
+  "result": "ok"
+}

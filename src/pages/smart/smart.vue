@@ -13,8 +13,8 @@
       </div>
       <div class="cells_auto_fill" v-if="item.view_type === 'cells_auto_fill'">
         <div v-for="(innerItem,innerIndex) of item.body.items" :key="innerIndex" class="cells-box">
-          <img v-lazy="innerItem.img_url" class="cell-img"
-               :style="{width:(innerItem.w/100 + 'rem'),height:innerItem.h/100 + 'rem'}">
+        <img v-lazy="innerItem.img_url" class="cell-img"
+             :style="{width:(innerItem.w/100 + 'rem'),height:innerItem.h/100 + 'rem'}">
         </div>
       </div>
 
@@ -23,8 +23,8 @@
           <div class="list-item">
             <div class="img">
               <img class="big"
-                    v-lazy="innerItem.img_url"
-                   >
+                   v-lazy="innerItem.img_url"
+              >
             </div>
             <div class="info">
               <h3 class="name">{{innerItem.product_name}}</h3>
@@ -42,21 +42,21 @@
 import axios from 'axios'
 
 export default {
-  name: 'phone',
+  name: 'smart',
   data () {
     return {
       list: []
     }
   },
   mounted () {
-    this.getPhoneInfo()
+    this.getSmartInfo()
   },
   methods: {
-    getPhoneInfo () {
-      axios.get('/api/phone.json')
-        .then(this.handleGetPhoneInfoSucc)
+    getSmartInfo () {
+      axios.get('/api/smart.json')
+        .then(this.handleGetSmartInfoSucc)
     },
-    handleGetPhoneInfoSucc (res) {
+    handleGetSmartInfoSucc (res) {
       res = res.data
       if (res.code === 0 && res.data) {
         const data = res.data.data.sections
@@ -137,6 +137,8 @@ export default {
             width 100%
             height:100%
         .info
+          width 3.6rem
+          box-sizing border-box
           padding: .2rem .27rem;
           text-align: left;
           .name

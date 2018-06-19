@@ -1,0 +1,471 @@
+{
+  "code": 0,
+  "data": {
+    "tabs": [
+      {
+        "name": "推荐",
+        "page_type": "home",
+        "page_id": 0,
+        "is_default": false,
+        "word_selected_color": "#ed5b00",
+        "word_unselected_color": "#747474",
+        "bg_img": "",
+        "bg_img_webp": ""
+      },
+      {
+        "name": "618返场",
+        "page_type": "tab",
+        "page_id": 6057,
+        "is_default": false,
+        "word_selected_color": "#ed5b00",
+        "word_unselected_color": "#747474",
+        "bg_img": "",
+        "bg_img_webp": ""
+      },
+      {
+        "name": "智能",
+        "page_type": "tab",
+        "page_id": 1860,
+        "is_default": false,
+        "word_selected_color": "#ed5b00",
+        "word_unselected_color": "#747474",
+        "bg_img": "",
+        "bg_img_webp": ""
+      },
+      {
+        "name": "电视",
+        "page_type": "tab",
+        "page_id": 6026,
+        "is_default": false,
+        "word_selected_color": "#ed5b00",
+        "word_unselected_color": "#747474",
+        "bg_img": "",
+        "bg_img_webp": ""
+      },
+      {
+        "name": "电脑",
+        "page_type": "tab",
+        "page_id": 1865,
+        "is_default": false,
+        "word_selected_color": "#ed5b00",
+        "word_unselected_color": "#747474",
+        "bg_img": "",
+        "bg_img_webp": ""
+      },
+      {
+        "name": "手机",
+        "page_type": "tab",
+        "page_id": 1864,
+        "is_default": false,
+        "word_selected_color": "#ed5b00",
+        "word_unselected_color": "#747474",
+        "bg_img": "",
+        "bg_img_webp": ""
+      },
+      {
+        "name": "游戏控",
+        "page_type": "tab",
+        "page_id": 6111,
+        "is_default": false,
+        "word_selected_color": "#ed5b00",
+        "word_unselected_color": "#747474",
+        "bg_img": "",
+        "bg_img_webp": ""
+      },
+      {
+        "name": "双摄",
+        "page_type": "tab",
+        "page_id": 5711,
+        "is_default": false,
+        "word_selected_color": "#ed5b00",
+        "word_unselected_color": "#747474",
+        "bg_img": "",
+        "bg_img_webp": ""
+      },
+      {
+        "name": "全面屏",
+        "page_type": "tab",
+        "page_id": 3257,
+        "is_default": false,
+        "word_selected_color": "#ed5b00",
+        "word_unselected_color": "#747474",
+        "bg_img": "",
+        "bg_img_webp": ""
+      },
+      {
+        "name": "生活周边",
+        "page_type": "tab",
+        "page_id": 1861,
+        "is_default": false,
+        "word_selected_color": "#ed5b00",
+        "word_unselected_color": "#747474",
+        "bg_img": "",
+        "bg_img_webp": ""
+      },
+      {
+        "name": "盒子",
+        "page_type": "tab",
+        "page_id": 2567,
+        "is_default": false,
+        "word_selected_color": "#ed5b00",
+        "word_unselected_color": "#747474",
+        "bg_img": "",
+        "bg_img_webp": ""
+      }
+    ],
+    "data": {
+      "header": {},
+      "sections": [
+        {
+          "view_type": "gallery",
+          "body": {
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "w": 720,
+                "h": 360,
+                "material_id": 7567,
+                "ad_position_id": 1930,
+                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/a3d9dcb34f2d1162acf2901587f311d8.jpg?bg=FFFFFF",
+                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/a3d9dcb34f2d1162acf2901587f311d8.jpg?bg=FFFFFF",
+                "img_url_color": "#FFFFFF",
+                "action": {
+                  "type": "product",
+                  "path": "7598",
+                  "log_code": "312567waptabgallery001001#t=ad\u0026act=product\u0026page=tab\u0026pid=7598\u0026page_id=2567\u0026bid=3115503.1\u0026adp=1930\u0026adm=7567"
+                },
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "cells_auto_fill",
+          "block_id": "3029175",
+          "body": {
+            "bg_color": "#ffffff",
+            "w": 720,
+            "h": 80,
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "w": 720,
+                "h": 80,
+                "img_url": "//i8.mifile.cn/v1/a1/fff08346-3b05-7127-8f5e-2f633ae8f0d9.webp",
+                "img_url_webp": "//i8.mifile.cn/v1/a1/fff08346-3b05-7127-8f5e-2f633ae8f0d9.webp",
+                "img_url_color": "#F4F4F4",
+                "action": {
+                  "type": "none",
+                  "log_code": "312567waptabcells_auto_fill001002#t=normal\u0026act=other\u0026page=tab\u0026page_id=2567\u0026bid=3029175.1"
+                },
+                "path_type": "image",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "recommend_flag": "0",
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "list_one_type12",
+          "body": {
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/1ce99162221eee85496d9eaba20effb9.jpg?w=1080\u0026h=540",
+                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/1ce99162221eee85496d9eaba20effb9.jpg?w=1080\u0026h=540",
+                "img_url_color": "#FFFFFF",
+                "action": {
+                  "type": "product",
+                  "path": "7599",
+                  "log_code": "312567waptablist_one_type12001003#t=product\u0026act=other\u0026page=tab\u0026page_id=2567\u0026bid=3029176.1\u0026pid=7599"
+                },
+                "product_id": "7599",
+                "product_name": "小米盒子4",
+                "product_brief": "人工智能语音机顶盒，海量片源",
+                "product_price": "299",
+                "product_org_price": "299",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "list_one_type12",
+          "body": {
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/5ebd798d6870d96c777a3defbfb1c66b.jpg?w=1080\u0026h=540",
+                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/5ebd798d6870d96c777a3defbfb1c66b.jpg?w=1080\u0026h=540",
+                "img_url_color": "#FFFFFF",
+                "action": {
+                  "type": "product",
+                  "path": "7598",
+                  "log_code": "312567waptablist_one_type12001004#t=product\u0026act=other\u0026page=tab\u0026page_id=2567\u0026bid=3165187.1\u0026pid=7598"
+                },
+                "product_id": "7598",
+                "product_name": "小米盒子4c",
+                "product_brief": "第4代小米盒子储存，体验双升级",
+                "product_price": "199",
+                "product_org_price": "199",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "list_one_type12",
+          "body": {
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "img_url": "//i8.mifile.cn/v1/a1/85622792-8558-e997-fa04-b37b7274b111.webp?w=1080\u0026h=540",
+                "img_url_webp": "//i8.mifile.cn/v1/a1/85622792-8558-e997-fa04-b37b7274b111.webp?w=1080\u0026h=540",
+                "img_url_color": "#ECD3BF",
+                "action": {
+                  "type": "product",
+                  "path": "5990",
+                  "log_code": "312567waptablist_one_type12001005#t=product\u0026act=other\u0026page=tab\u0026page_id=2567\u0026bid=3165188.1\u0026pid=5990"
+                },
+                "product_id": "5990",
+                "product_name": "小米盒子3 增强版 ",
+                "product_brief": "高端 4K 网络机顶盒，标配智能遥控器",
+                "product_price": "399",
+                "product_org_price": "449",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "list_one_type12",
+          "body": {
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "img_url": "//i8.mifile.cn/v1/a1/721d3f0c-6b8d-b7d7-68c6-44ec96a88c2c.webp?w=1080\u0026h=540",
+                "img_url_webp": "//i8.mifile.cn/v1/a1/721d3f0c-6b8d-b7d7-68c6-44ec96a88c2c.webp?w=1080\u0026h=540",
+                "img_url_color": "#1D1F21",
+                "action": {
+                  "type": "product",
+                  "path": "4892",
+                  "log_code": "312567waptablist_one_type12001006#t=product\u0026act=other\u0026page=tab\u0026page_id=2567\u0026bid=3029177.1\u0026pid=4892"
+                },
+                "product_id": "4892",
+                "product_name": "小米盒子3c",
+                "product_brief": "64 位处理器，PatchWall 人工智能系统",
+                "product_price": "199",
+                "product_org_price": "249",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "list_one_type12",
+          "body": {
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "img_url": "//i8.mifile.cn/v1/a1/1cbb2f87-1aaa-c4e0-273c-7ab571cc82bd.webp?w=1080\u0026h=540",
+                "img_url_webp": "//i8.mifile.cn/v1/a1/1cbb2f87-1aaa-c4e0-273c-7ab571cc82bd.webp?w=1080\u0026h=540",
+                "img_url_color": "#9F9FA3",
+                "action": {
+                  "type": "product",
+                  "path": "4893",
+                  "log_code": "312567waptablist_one_type12001007#t=product\u0026act=other\u0026page=tab\u0026page_id=2567\u0026bid=3029178.1\u0026pid=4893"
+                },
+                "btn_txt": "立即购买",
+                "product_id": "4893",
+                "product_name": "小米盒子3s",
+                "product_brief": "4K 超高清机顶盒，64 位处理器支持 HDR",
+                "product_price": "299",
+                "product_org_price": "349",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "divider_line",
+          "body": {
+            "line_color": "#f5f5f5",
+            "line_height": "24",
+            "height": "0",
+            "width": "0",
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "cells_auto_fill",
+          "is_show": "Y",
+          "body": {
+            "w": 720,
+            "h": 280,
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "w": 720,
+                "h": 280,
+                "material_id": 7067,
+                "ad_position_id": 1290,
+                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/cf717954aef0a8b0de3c32daa1100825.jpg?bg=FFFFFF",
+                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/cf717954aef0a8b0de3c32daa1100825.jpg?bg=FFFFFF",
+                "img_url_color": "#FFFFFF",
+                "action": {
+                  "type": "channel",
+                  "path": "3093",
+                  "log_code": "312567waptabcells_auto_fill001010#t=ad\u0026act=other\u0026page=tab\u0026page_id=2567\u0026bid=3033227.1\u0026adp=1290\u0026adm=7067"
+                },
+                "path_type": "image",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "divider_line",
+          "body": {
+            "line_color": "#f5f5f5",
+            "line_height": "24",
+            "height": "0",
+            "width": "0",
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "cells_auto_fill",
+          "block_id": "3029180",
+          "body": {
+            "bg_color": "#ffffff",
+            "w": 720,
+            "h": 80,
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "w": 720,
+                "h": 80,
+                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/182e7b3eca8509de2c7390d34dea1960.png",
+                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/182e7b3eca8509de2c7390d34dea1960.png",
+                "img_url_color": "#FFFFFF",
+                "action": {
+                  "type": "none",
+                  "log_code": "312567waptabcells_auto_fill001012#t=normal\u0026act=other\u0026page=tab\u0026page_id=2567\u0026bid=3029180.1"
+                },
+                "path_type": "image",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "recommend_flag": "0",
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "list_one_type12",
+          "body": {
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "img_url": "//i8.mifile.cn/v1/a1/907c2af8-e7e8-58c8-e420-c6654e8861cc.webp?w=1080\u0026h=540\u0026bg=FFFFFF",
+                "img_url_webp": "//i8.mifile.cn/v1/a1/907c2af8-e7e8-58c8-e420-c6654e8861cc.webp?w=1080\u0026h=540\u0026bg=FFFFFF",
+                "img_url_color": "#FFFFFF",
+                "action": {
+                  "type": "product",
+                  "path": "4910",
+                  "log_code": "312567waptablist_one_type12001014#t=product\u0026act=other\u0026page=tab\u0026page_id=2567\u0026bid=3029182.1\u0026pid=4910"
+                },
+                "product_id": "4910",
+                "product_name": "小米人工智能家庭影院",
+                "product_brief": "环绕立体声人工智能家庭影院",
+                "product_price": "2099",
+                "product_org_price": "2099",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "divider_line",
+          "body": {
+            "line_color": "#f5f5f5",
+            "line_height": "24",
+            "height": "0",
+            "width": "0",
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        }
+      ]
+    },
+    "default_type": "tab",
+    "default_id": 2567
+  },
+  "result": "ok"
+}

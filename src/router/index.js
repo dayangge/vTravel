@@ -23,6 +23,36 @@ export default new Router({
           path: '/phone',
           name: 'Phone',
           component: () => import('@/pages/phone/phone')
+        },
+        {
+          path: '/smart',
+          name: 'Smart',
+          component: () => import('@/pages/smart/smart')
+        },
+        {
+          path: '/tv',
+          name: 'tv',
+          component: () => import('@/pages/tv/tv')
+        },
+        {
+          path: '/pc',
+          name: 'pc',
+          component: () => import('@/pages/pc/pc')
+        },
+        {
+          path: '/full',
+          name: 'full',
+          component: () => import('@/pages/full/full')
+        },
+        {
+          path: '/life',
+          name: 'life',
+          component: () => import('@/pages/life/life')
+        },
+        {
+          path: '/box',
+          name: 'box',
+          component: () => import('@/pages/box/box')
         }
       ]
     },

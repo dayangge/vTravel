@@ -1,0 +1,1705 @@
+{
+  "code": 0,
+  "data": {
+    "tabs": [
+      {
+        "name": "推荐",
+        "page_type": "home",
+        "page_id": 0,
+        "is_default": false,
+        "word_selected_color": "#ed5b00",
+        "word_unselected_color": "#747474",
+        "bg_img": "",
+        "bg_img_webp": ""
+      },
+      {
+        "name": "618返场",
+        "page_type": "tab",
+        "page_id": 6057,
+        "is_default": false,
+        "word_selected_color": "#ed5b00",
+        "word_unselected_color": "#747474",
+        "bg_img": "",
+        "bg_img_webp": ""
+      },
+      {
+        "name": "智能",
+        "page_type": "tab",
+        "page_id": 1860,
+        "is_default": false,
+        "word_selected_color": "#ed5b00",
+        "word_unselected_color": "#747474",
+        "bg_img": "",
+        "bg_img_webp": ""
+      },
+      {
+        "name": "电视",
+        "page_type": "tab",
+        "page_id": 6026,
+        "is_default": false,
+        "word_selected_color": "#ed5b00",
+        "word_unselected_color": "#747474",
+        "bg_img": "",
+        "bg_img_webp": ""
+      },
+      {
+        "name": "电脑",
+        "page_type": "tab",
+        "page_id": 1865,
+        "is_default": false,
+        "word_selected_color": "#ed5b00",
+        "word_unselected_color": "#747474",
+        "bg_img": "",
+        "bg_img_webp": ""
+      },
+      {
+        "name": "手机",
+        "page_type": "tab",
+        "page_id": 1864,
+        "is_default": false,
+        "word_selected_color": "#ed5b00",
+        "word_unselected_color": "#747474",
+        "bg_img": "",
+        "bg_img_webp": ""
+      },
+      {
+        "name": "游戏控",
+        "page_type": "tab",
+        "page_id": 6111,
+        "is_default": false,
+        "word_selected_color": "#ed5b00",
+        "word_unselected_color": "#747474",
+        "bg_img": "",
+        "bg_img_webp": ""
+      },
+      {
+        "name": "双摄",
+        "page_type": "tab",
+        "page_id": 5711,
+        "is_default": false,
+        "word_selected_color": "#ed5b00",
+        "word_unselected_color": "#747474",
+        "bg_img": "",
+        "bg_img_webp": ""
+      },
+      {
+        "name": "全面屏",
+        "page_type": "tab",
+        "page_id": 3257,
+        "is_default": false,
+        "word_selected_color": "#ed5b00",
+        "word_unselected_color": "#747474",
+        "bg_img": "",
+        "bg_img_webp": ""
+      },
+      {
+        "name": "生活周边",
+        "page_type": "tab",
+        "page_id": 1861,
+        "is_default": false,
+        "word_selected_color": "#ed5b00",
+        "word_unselected_color": "#747474",
+        "bg_img": "",
+        "bg_img_webp": ""
+      },
+      {
+        "name": "盒子",
+        "page_type": "tab",
+        "page_id": 2567,
+        "is_default": false,
+        "word_selected_color": "#ed5b00",
+        "word_unselected_color": "#747474",
+        "bg_img": "",
+        "bg_img_webp": ""
+      }
+    ],
+    "data": {
+      "header": {},
+      "sections": [
+        {
+          "view_type": "gallery",
+          "body": {
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "w": 720,
+                "h": 360,
+                "material_id": 7923,
+                "ad_position_id": 1898,
+                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/5ad314eb80b11dfa9fd26f4c9bbbeb57.jpg?bg=FFFFFF",
+                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/5ad314eb80b11dfa9fd26f4c9bbbeb57.jpg?bg=FFFFFF",
+                "img_url_color": "#FFFFFF",
+                "action": {
+                  "type": "product",
+                  "path": "7849",
+                  "log_code": "311865waptabgallery001001#t=ad\u0026act=product\u0026page=tab\u0026pid=7849\u0026page_id=1865\u0026bid=3098659.1\u0026adp=1898\u0026adm=7923"
+                },
+                "margin_left": 0,
+                "margin_right": 0
+              },
+              {
+                "w": 720,
+                "h": 360,
+                "material_id": 7232,
+                "ad_position_id": 1743,
+                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/df21989fb80b637db4387434c57112df.jpg?bg=FFFFFF",
+                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/df21989fb80b637db4387434c57112df.jpg?bg=FFFFFF",
+                "img_url_color": "#FFFFFF",
+                "action": {
+                  "type": "product",
+                  "path": "7866",
+                  "log_code": "311865waptabgallery002001#t=ad\u0026act=product\u0026page=tab\u0026pid=7866\u0026page_id=1865\u0026bid=3098659.2\u0026adp=1743\u0026adm=7232"
+                },
+                "margin_left": 0,
+                "margin_right": 0
+              },
+              {
+                "w": 720,
+                "h": 360,
+                "material_id": 8005,
+                "ad_position_id": 1967,
+                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/0538bc1b935adc3de88cef1d27618aa7.jpg?bg=FFFFFF",
+                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/0538bc1b935adc3de88cef1d27618aa7.jpg?bg=FFFFFF",
+                "img_url_color": "#FFFFFF",
+                "action": {
+                  "type": "product",
+                  "path": "7565",
+                  "log_code": "311865waptabgallery003001#t=ad\u0026act=product\u0026page=tab\u0026pid=7565\u0026page_id=1865\u0026bid=3098659.3\u0026adp=1967\u0026adm=8005"
+                },
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "cells_auto_fill",
+          "is_show": "Y",
+          "body": {
+            "w": 720,
+            "h": 152,
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "w": 144,
+                "h": 152,
+                "material_id": 7445,
+                "ad_position_id": 2305,
+                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/cda1d74232fe3394972dbc5d622992d3.jpg?bg=FFFFFF",
+                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/cda1d74232fe3394972dbc5d622992d3.jpg?bg=FFFFFF",
+                "img_url_color": "#FFFFFF",
+                "action": {
+                  "type": "channel",
+                  "path": "5794",
+                  "log_code": "311865waptabcells_auto_fill001002#t=ad\u0026act=other\u0026page=tab\u0026page_id=1865\u0026bid=3219398.1\u0026adp=2305\u0026adm=7445"
+                },
+                "path_type": "image",
+                "margin_left": 0,
+                "margin_right": 0
+              },
+              {
+                "x": 144,
+                "w": 144,
+                "h": 152,
+                "material_id": 7343,
+                "ad_position_id": 2306,
+                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/d37d720580ad937841ba28717ea60942.jpg?bg=FFFFFF",
+                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/d37d720580ad937841ba28717ea60942.jpg?bg=FFFFFF",
+                "img_url_color": "#FFFFFF",
+                "action": {
+                  "type": "channel",
+                  "path": "5743",
+                  "log_code": "311865waptabcells_auto_fill002002#t=ad\u0026act=other\u0026page=tab\u0026page_id=1865\u0026bid=3219398.2\u0026adp=2306\u0026adm=7343"
+                },
+                "path_type": "image",
+                "margin_left": 0,
+                "margin_right": 0
+              },
+              {
+                "x": 288,
+                "w": 144,
+                "h": 152,
+                "material_id": 7340,
+                "ad_position_id": 2307,
+                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/2065d4d890ae9edf8c8a434aab70c994.jpg?bg=FFFFFF",
+                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/2065d4d890ae9edf8c8a434aab70c994.jpg?bg=FFFFFF",
+                "img_url_color": "#FFFFFF",
+                "action": {
+                  "type": "channel",
+                  "path": "5740",
+                  "log_code": "311865waptabcells_auto_fill003002#t=ad\u0026act=other\u0026page=tab\u0026page_id=1865\u0026bid=3219398.3\u0026adp=2307\u0026adm=7340"
+                },
+                "path_type": "image",
+                "margin_left": 0,
+                "margin_right": 0
+              },
+              {
+                "x": 432,
+                "w": 144,
+                "h": 152,
+                "material_id": 7341,
+                "ad_position_id": 2308,
+                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/8f3c717d19045bb746e5d1fcc27034d3.jpg?bg=FFFFFF",
+                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/8f3c717d19045bb746e5d1fcc27034d3.jpg?bg=FFFFFF",
+                "img_url_color": "#FFFFFF",
+                "action": {
+                  "type": "channel",
+                  "path": "5741",
+                  "log_code": "311865waptabcells_auto_fill004002#t=ad\u0026act=other\u0026page=tab\u0026page_id=1865\u0026bid=3219398.4\u0026adp=2308\u0026adm=7341"
+                },
+                "path_type": "image",
+                "margin_left": 0,
+                "margin_right": 0
+              },
+              {
+                "x": 576,
+                "w": 144,
+                "h": 152,
+                "material_id": 7342,
+                "ad_position_id": 2309,
+                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/cc0e8249a73434fc02e4062a5e238379.jpg?bg=FFFFFF",
+                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/cc0e8249a73434fc02e4062a5e238379.jpg?bg=FFFFFF",
+                "img_url_color": "#FFFFFF",
+                "action": {
+                  "type": "channel",
+                  "path": "5742",
+                  "log_code": "311865waptabcells_auto_fill005002#t=ad\u0026act=other\u0026page=tab\u0026page_id=1865\u0026bid=3219398.5\u0026adp=2309\u0026adm=7342"
+                },
+                "path_type": "image",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "divider_line",
+          "body": {
+            "line_color": "#f5f5f5",
+            "line_height": "24",
+            "height": "0",
+            "width": "0",
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "cells_auto_fill",
+          "block_id": "3153103",
+          "body": {
+            "bg_color": "#ffffff",
+            "w": 720,
+            "h": 80,
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "w": 720,
+                "h": 80,
+                "img_url": "//i8.mifile.cn/v1/a1/94f27f95-5aef-0d25-e9ca-b9c6777dd9c8.webp",
+                "img_url_webp": "//i8.mifile.cn/v1/a1/94f27f95-5aef-0d25-e9ca-b9c6777dd9c8.webp",
+                "img_url_color": "#F8F8F8",
+                "action": {
+                  "type": "none",
+                  "log_code": "311865waptabcells_auto_fill001006#t=normal\u0026act=other\u0026page=tab\u0026page_id=1865\u0026bid=3153103.1"
+                },
+                "path_type": "image",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "recommend_flag": "0",
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "list_one_type12",
+          "body": {
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "img_url": "//i8.mifile.cn/v1/a1/21647f78-b335-55c1-2a1d-83c273624436.webp?w=1080\u0026h=540",
+                "img_url_webp": "//i8.mifile.cn/v1/a1/21647f78-b335-55c1-2a1d-83c273624436.webp?w=1080\u0026h=540",
+                "img_url_color": "#B7B4BB",
+                "action": {
+                  "type": "product",
+                  "path": "6783",
+                  "log_code": "311865waptablist_one_type12001007#t=product\u0026act=other\u0026page=tab\u0026page_id=1865\u0026bid=3130961.1\u0026pid=6783"
+                },
+                "product_id": "6783",
+                "product_name": "15.6\"笔记本Pro i5 8GB",
+                "product_brief": "更强悍的专业笔记本，全金属强化机身",
+                "product_price": "5599",
+                "product_org_price": "5599",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "list_one_type12",
+          "body": {
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "img_url": "//i8.mifile.cn/v1/a1/1801a3e1-5cd7-3018-add6-f5e90e9afd5a.webp?w=1080\u0026h=540",
+                "img_url_webp": "//i8.mifile.cn/v1/a1/1801a3e1-5cd7-3018-add6-f5e90e9afd5a.webp?w=1080\u0026h=540",
+                "img_url_color": "#929CAC",
+                "action": {
+                  "type": "product",
+                  "path": "7440",
+                  "log_code": "311865waptablist_one_type12001008#t=product\u0026act=other\u0026page=tab\u0026page_id=1865\u0026bid=3260716.1\u0026pid=7440"
+                },
+                "product_id": "7440",
+                "product_name": "13.3\"笔记本四核增强i5 8G ",
+                "product_brief": "四核增强版，带独立显卡的轻薄笔记本",
+                "product_price": "5399",
+                "product_org_price": "5399",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "list_one_type12",
+          "body": {
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/5d450464436b6babcb374e62d2659b8b.jpg",
+                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/5d450464436b6babcb374e62d2659b8b.jpg",
+                "img_url_color": "#FFFFFF",
+                "action": {
+                  "type": "product",
+                  "path": "7565",
+                  "log_code": "311865waptablist_one_type12001009#t=product\u0026act=other\u0026page=tab\u0026page_id=1865\u0026bid=3223005.1\u0026pid=7565"
+                },
+                "product_id": "7565",
+                "product_name": "12.5\"笔记本Air 128GB 银色",
+                "product_brief": "轻薄全金属机身，超长续航，超窄边框",
+                "product_price": "3599",
+                "product_org_price": "3599",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "list_one_type12",
+          "body": {
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/65291dcf4ea0b29ad25fa721899963af.jpg",
+                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/65291dcf4ea0b29ad25fa721899963af.jpg",
+                "img_url_color": "#FFFFFF",
+                "action": {
+                  "type": "product",
+                  "path": "7848",
+                  "log_code": "311865waptablist_one_type12001010#t=product\u0026act=other\u0026page=tab\u0026page_id=1865\u0026bid=3215733.1\u0026pid=7848"
+                },
+                "product_id": "7848",
+                "product_name": "游戏本15.6\" i7 GTX 1060 8GB",
+                "product_brief": "电竞级性能怪兽，冷酷到底的散热系统",
+                "product_price": "7999",
+                "product_org_price": "7999",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "list_two_type1",
+          "body": {
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "img_url": "//i8.mifile.cn/v1/a1/09532c59-01e8-e1d8-97df-eda8245d9788.webp?w=1080\u0026h=1080",
+                "img_url_webp": "//i8.mifile.cn/v1/a1/09532c59-01e8-e1d8-97df-eda8245d9788.webp?w=1080\u0026h=1080",
+                "img_url_color": "#86949E",
+                "action": {
+                  "type": "product",
+                  "path": "6203",
+                  "log_code": "311865waptablist_two_type1001011#t=product\u0026act=other\u0026page=tab\u0026page_id=1865\u0026bid=3130962.1\u0026pid=6203"
+                },
+                "product_id": "6203",
+                "product_name": "13.3\"笔记本i7 独显",
+                "product_brief": "轻薄全金属，超长续航",
+                "product_price": "5599",
+                "product_org_price": "5999",
+                "margin_left": 0,
+                "margin_right": 0
+              },
+              {
+                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/cf0b9ede4dbbc115f3d2d1b032e97d21.jpg?w=1080\u0026h=1080",
+                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/cf0b9ede4dbbc115f3d2d1b032e97d21.jpg?w=1080\u0026h=1080",
+                "img_url_color": "#FFFFFF",
+                "action": {
+                  "type": "product",
+                  "path": "6020",
+                  "log_code": "311865waptablist_two_type1002011#t=product\u0026act=other\u0026page=tab\u0026page_id=1865\u0026bid=3130962.2\u0026pid=6020"
+                },
+                "product_id": "6020",
+                "product_name": "13.3\"笔记本i5 独显",
+                "product_brief": "指纹解锁，全金属机身",
+                "product_price": "5199",
+                "product_org_price": "5199",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "list_two_type1",
+          "body": {
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "img_url": "//i8.mifile.cn/v1/a1/82488d9e-b7ec-c845-e9d7-4e03f5c5e272.webp?w=1080\u0026h=1080",
+                "img_url_webp": "//i8.mifile.cn/v1/a1/82488d9e-b7ec-c845-e9d7-4e03f5c5e272.webp?w=1080\u0026h=1080",
+                "img_url_color": "#BFBEC4",
+                "action": {
+                  "type": "product",
+                  "path": "6782",
+                  "log_code": "311865waptablist_two_type1001012#t=product\u0026act=other\u0026page=tab\u0026page_id=1865\u0026bid=3098662.1\u0026pid=6782"
+                },
+                "product_id": "6782",
+                "product_name": "15.6\"笔记本i7 8GB",
+                "product_brief": "全新高性能独显",
+                "product_price": "6399",
+                "product_org_price": "6399",
+                "margin_left": 0,
+                "margin_right": 0
+              },
+              {
+                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/4e4caac1086f650b2abdd3d70ec24216.jpg?w=1080\u0026h=1080",
+                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/4e4caac1086f650b2abdd3d70ec24216.jpg?w=1080\u0026h=1080",
+                "img_url_color": "#FFFFFF",
+                "action": {
+                  "type": "product",
+                  "path": "8125",
+                  "log_code": "311865waptablist_two_type1002012#t=product\u0026act=other\u0026page=tab\u0026page_id=1865\u0026bid=3098662.2\u0026pid=8125"
+                },
+                "product_id": "8125",
+                "product_name": "小米游戏鼠标",
+                "product_brief": "掌中游戏利器，为真玩家而生",
+                "product_price": "249",
+                "product_org_price": "249",
+                "product_tag": "//i8.mifile.cn/v1/a1/289039eb-c3ed-7c26-69c3-5b07b72a797d.webp?w=120\u0026h=48",
+                "product_tag_webp": "//i8.mifile.cn/v1/a1/289039eb-c3ed-7c26-69c3-5b07b72a797d.webp?w=120\u0026h=48",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "divider_line",
+          "body": {
+            "line_color": "#f5f5f5",
+            "line_height": "24",
+            "height": "0",
+            "width": "0",
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "lucky_lottery_img",
+          "stat": "lucky_lottery_img",
+          "block_id": "3230814",
+          "body": {
+            "height": "280",
+            "width": "720",
+            "action": {
+              "extra": [],
+              "log_code": "311865waptablucky_lottery_img000000#t=normal\u0026act=other\u0026page=tab\u0026page_id=1865\u0026bid=3230814.1"
+            },
+            "activity_code": "dileb1wc",
+            "remain_num": "1",
+            "img_url_start": "//i8.mifile.cn/b2c-mimall-media/59e358a79dade09febbd60e300625c7d.jpg",
+            "start_time": 1527681184,
+            "end_time": 1530374340,
+            "popup_bg_color": "#ffffff",
+            "popup_text_color": "#FF6704",
+            "win_prize_text": "去使用",
+            "win_prize_action": {
+              "type": "none",
+              "log_code": "311865waptablucky_lottery_img000000#t=normal\u0026act=other\u0026page=tab\u0026page_id=1865\u0026bid=3230814.2"
+            },
+            "not_win_prize_text": "再试试手气",
+            "not_win_prize_action": {
+              "type": "none",
+              "log_code": "311865waptablucky_lottery_img000000#t=normal\u0026act=other\u0026page=tab\u0026page_id=1865\u0026bid=3230814.3"
+            },
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "divider_line",
+          "body": {
+            "line_color": "#f5f5f5",
+            "line_height": "24",
+            "height": "0",
+            "width": "0",
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "cells_auto_fill",
+          "block_id": "3153105",
+          "body": {
+            "bg_color": "#ffffff",
+            "w": 720,
+            "h": 80,
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "w": 720,
+                "h": 80,
+                "img_url": "//i8.mifile.cn/v1/a1/77812e55-c125-d282-15e2-652f1ca10f17.webp",
+                "img_url_webp": "//i8.mifile.cn/v1/a1/77812e55-c125-d282-15e2-652f1ca10f17.webp",
+                "img_url_color": "#F9F9F9",
+                "action": {
+                  "type": "none",
+                  "log_code": "311865waptabcells_auto_fill001016#t=normal\u0026act=other\u0026page=tab\u0026page_id=1865\u0026bid=3153105.1"
+                },
+                "path_type": "image",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "recommend_flag": "0",
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "list_one_type12",
+          "body": {
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/3bf3eaae2e188422e76a20ac28bb5476.jpg?w=1080\u0026h=540",
+                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/3bf3eaae2e188422e76a20ac28bb5476.jpg?w=1080\u0026h=540",
+                "img_url_color": "#FFFFFF",
+                "action": {
+                  "type": "product",
+                  "path": "7846",
+                  "log_code": "311865waptablist_one_type12001017#t=product\u0026act=other\u0026page=tab\u0026page_id=1865\u0026bid=3185213.1\u0026pid=7846"
+                },
+                "product_id": "7846",
+                "product_name": "游戏本 15.6\"  i5 8GB GTX 1050Ti ",
+                "product_brief": "电竞级性能怪兽，冷酷到底的散热系统",
+                "product_price": "5999",
+                "product_org_price": "5999",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "list_two_type1",
+          "body": {
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "img_url": "//i8.mifile.cn/v1/a1/28bf863f-1c2d-52b8-a2e5-186dfcbaad1e.webp?w=1080\u0026h=1080",
+                "img_url_webp": "//i8.mifile.cn/v1/a1/28bf863f-1c2d-52b8-a2e5-186dfcbaad1e.webp?w=1080\u0026h=1080",
+                "img_url_color": "#9396B6",
+                "action": {
+                  "type": "product",
+                  "path": "7567",
+                  "log_code": "311865waptablist_two_type1001018#t=product\u0026act=other\u0026page=tab\u0026page_id=1865\u0026bid=3215734.1\u0026pid=7567"
+                },
+                "product_id": "7567",
+                "product_name": "12.5\"笔记本Air 256GB",
+                "product_brief": "轻薄长续航，金属机身",
+                "product_price": "3999",
+                "product_org_price": "3999",
+                "margin_left": 0,
+                "margin_right": 0
+              },
+              {
+                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/a08206511288288a084b0461fc3aa4e0.jpg?w=1080\u0026h=1080",
+                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/a08206511288288a084b0461fc3aa4e0.jpg?w=1080\u0026h=1080",
+                "img_url_color": "#FFFFFF",
+                "action": {
+                  "type": "product",
+                  "path": "7866",
+                  "log_code": "311865waptablist_two_type1002018#t=product\u0026act=other\u0026page=tab\u0026page_id=1865\u0026bid=3215734.2\u0026pid=7866"
+                },
+                "product_id": "7866",
+                "product_name": "13.3\"笔记本四核i7 独显",
+                "product_brief": "带独立显卡的轻薄笔记本",
+                "product_price": "5999",
+                "product_org_price": "5999",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "divider_line",
+          "body": {
+            "line_color": "#f5f5f5",
+            "line_height": "24",
+            "height": "0",
+            "width": "0",
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "cells_auto_fill",
+          "block_id": "3153107",
+          "body": {
+            "bg_color": "#ffffff",
+            "w": 720,
+            "h": 80,
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "w": 720,
+                "h": 80,
+                "img_url": "//i8.mifile.cn/v1/a1/c8828431-1a1b-138e-6c05-c1f5ca32c59b.webp",
+                "img_url_webp": "//i8.mifile.cn/v1/a1/c8828431-1a1b-138e-6c05-c1f5ca32c59b.webp",
+                "img_url_color": "#E9E9E9",
+                "action": {
+                  "type": "none",
+                  "log_code": "311865waptabcells_auto_fill001025#t=normal\u0026act=other\u0026page=tab\u0026page_id=1865\u0026bid=3153107.1"
+                },
+                "path_type": "image",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "recommend_flag": "0",
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "list_one_type12",
+          "body": {
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "img_url": "//i8.mifile.cn/v1/a1/cc524815-7c92-e5e4-f152-daf9124a10d3.webp?w=1080\u0026h=540",
+                "img_url_webp": "//i8.mifile.cn/v1/a1/cc524815-7c92-e5e4-f152-daf9124a10d3.webp?w=1080\u0026h=540",
+                "img_url_color": "#B0C1D0",
+                "action": {
+                  "type": "product",
+                  "path": "7567",
+                  "log_code": "311865waptablist_one_type12001026#t=product\u0026act=other\u0026page=tab\u0026page_id=1865\u0026bid=3098676.1\u0026pid=7567"
+                },
+                "product_id": "7567",
+                "product_name": "12.5\"笔记本Air  256GB 银色",
+                "product_brief": "轻薄全金属机身，超长续航，全贴合屏幕 ",
+                "product_price": "3999",
+                "product_org_price": "3999",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "list_two_type1",
+          "body": {
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "img_url": "//i8.mifile.cn/v1/a1/28bf863f-1c2d-52b8-a2e5-186dfcbaad1e.webp?w=1080\u0026h=1080",
+                "img_url_webp": "//i8.mifile.cn/v1/a1/28bf863f-1c2d-52b8-a2e5-186dfcbaad1e.webp?w=1080\u0026h=1080",
+                "img_url_color": "#9396B6",
+                "action": {
+                  "type": "product",
+                  "path": "7565",
+                  "log_code": "311865waptablist_two_type1001027#t=product\u0026act=other\u0026page=tab\u0026page_id=1865\u0026bid=3098673.1\u0026pid=7565"
+                },
+                "product_id": "7565",
+                "product_name": "12.5\"笔记本Air 128GB",
+                "product_brief": "轻薄长续航，超窄边框",
+                "product_price": "3599",
+                "product_org_price": "3599",
+                "margin_left": 0,
+                "margin_right": 0
+              },
+              {
+                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/d5d9f9a97adcfdbe427a9a062446ff1a.jpg",
+                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/d5d9f9a97adcfdbe427a9a062446ff1a.jpg",
+                "img_url_color": "#FFFFFF",
+                "action": {
+                  "type": "product",
+                  "path": "7566",
+                  "log_code": "311865waptablist_two_type1002027#t=product\u0026act=other\u0026page=tab\u0026page_id=1865\u0026bid=3098673.2\u0026pid=7566"
+                },
+                "product_id": "7566",
+                "product_name": "12.5\"笔记本Air 128GB",
+                "product_brief": "长续航全金属，超窄边框",
+                "product_price": "3599",
+                "product_org_price": "3599",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "divider_line",
+          "body": {
+            "line_color": "#f5f5f5",
+            "line_height": "24",
+            "height": "0",
+            "width": "0",
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "cells_auto_fill",
+          "block_id": "3153108",
+          "body": {
+            "bg_color": "#ffffff",
+            "w": 720,
+            "h": 80,
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "w": 720,
+                "h": 80,
+                "img_url": "//i8.mifile.cn/v1/a1/baabe719-e754-de16-ee59-736f36840b00.webp",
+                "img_url_webp": "//i8.mifile.cn/v1/a1/baabe719-e754-de16-ee59-736f36840b00.webp",
+                "img_url_color": "#E9E9E9",
+                "action": {
+                  "type": "none",
+                  "log_code": "311865waptabcells_auto_fill001029#t=normal\u0026act=other\u0026page=tab\u0026page_id=1865\u0026bid=3153108.1"
+                },
+                "path_type": "image",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "recommend_flag": "0",
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "list_one_type12",
+          "body": {
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/f68685201bbaebc03a16ea5bfa308eb2.jpg?w=1080\u0026h=540",
+                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/f68685201bbaebc03a16ea5bfa308eb2.jpg?w=1080\u0026h=540",
+                "img_url_color": "#FFFFFF",
+                "action": {
+                  "type": "product",
+                  "path": "7866",
+                  "log_code": "311865waptablist_one_type12001030#t=product\u0026act=other\u0026page=tab\u0026page_id=1865\u0026bid=3223006.1\u0026pid=7866"
+                },
+                "product_id": "7866",
+                "product_name": "13.3\"笔记本 四核i7 2G独显 银色",
+                "product_brief": "四核增强版，带独立显卡的轻薄笔记本",
+                "product_price": "5999",
+                "product_org_price": "5999",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "list_two_type1",
+          "body": {
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "img_url": "//i8.mifile.cn/v1/a1/ce985ac0-8fb7-1472-ccd9-f937b4ea43c7.webp?w=1080\u0026h=1080",
+                "img_url_webp": "//i8.mifile.cn/v1/a1/ce985ac0-8fb7-1472-ccd9-f937b4ea43c7.webp?w=1080\u0026h=1080",
+                "img_url_color": "#A9BACC",
+                "action": {
+                  "type": "product",
+                  "path": "7440",
+                  "log_code": "311865waptablist_two_type1001031#t=product\u0026act=other\u0026page=tab\u0026page_id=1865\u0026bid=3198383.1\u0026pid=7440"
+                },
+                "product_id": "7440",
+                "product_name": "13.3\"笔记本 四核i5",
+                "product_brief": "四核增强版，独立显卡",
+                "product_price": "5399",
+                "product_org_price": "5399",
+                "margin_left": 0,
+                "margin_right": 0
+              },
+              {
+                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/a114635f9596f33b74632bb1ac3c12ac.jpg?w=1080\u0026h=1080",
+                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/a114635f9596f33b74632bb1ac3c12ac.jpg?w=1080\u0026h=1080",
+                "img_url_color": "#FFFFFF",
+                "action": {
+                  "type": "product",
+                  "path": "7868",
+                  "log_code": "311865waptablist_two_type1002031#t=product\u0026act=other\u0026page=tab\u0026page_id=1865\u0026bid=3198383.2\u0026pid=7868"
+                },
+                "product_id": "7868",
+                "product_name": "13.3\"笔记本 四核i5",
+                "product_brief": "轻薄全金属机身，256GB SSD",
+                "product_price": "4999",
+                "product_org_price": "4999",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "divider_line",
+          "body": {
+            "line_color": "#f5f5f5",
+            "line_height": "24",
+            "height": "0",
+            "width": "0",
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "cells_auto_fill",
+          "block_id": "3153106",
+          "body": {
+            "bg_color": "#ffffff",
+            "w": 720,
+            "h": 80,
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "w": 720,
+                "h": 80,
+                "img_url": "//i8.mifile.cn/v1/a1/507f65da-8716-3b6f-6dc9-1febd74ffc06.webp",
+                "img_url_webp": "//i8.mifile.cn/v1/a1/507f65da-8716-3b6f-6dc9-1febd74ffc06.webp",
+                "img_url_color": "#E9E9E9",
+                "action": {
+                  "type": "none",
+                  "log_code": "311865waptabcells_auto_fill001033#t=normal\u0026act=other\u0026page=tab\u0026page_id=1865\u0026bid=3153106.1"
+                },
+                "path_type": "image",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "recommend_flag": "0",
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "list_one_type12",
+          "body": {
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "img_url": "//i8.mifile.cn/v1/a1/21647f78-b335-55c1-2a1d-83c273624436.webp?w=1080\u0026h=540",
+                "img_url_webp": "//i8.mifile.cn/v1/a1/21647f78-b335-55c1-2a1d-83c273624436.webp?w=1080\u0026h=540",
+                "img_url_color": "#B7B4BB",
+                "action": {
+                  "type": "product",
+                  "path": "6783",
+                  "log_code": "311865waptablist_one_type12001034#t=product\u0026act=other\u0026page=tab\u0026page_id=1865\u0026bid=3153534.1\u0026pid=6783"
+                },
+                "product_id": "6783",
+                "product_name": "15.6\"笔记本Pro i5 8GB",
+                "product_brief": "更强悍的专业笔记本，全金属强化机身",
+                "product_price": "5599",
+                "product_org_price": "5599",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "list_two_type1",
+          "body": {
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "img_url": "//i8.mifile.cn/v1/a1/82488d9e-b7ec-c845-e9d7-4e03f5c5e272.webp?w=1080\u0026h=1080",
+                "img_url_webp": "//i8.mifile.cn/v1/a1/82488d9e-b7ec-c845-e9d7-4e03f5c5e272.webp?w=1080\u0026h=1080",
+                "img_url_color": "#BFBEC4",
+                "action": {
+                  "type": "product",
+                  "path": "6782",
+                  "log_code": "311865waptablist_two_type1001035#t=product\u0026act=other\u0026page=tab\u0026page_id=1865\u0026bid=3098669.1\u0026pid=6782"
+                },
+                "product_id": "6782",
+                "product_name": "15.6\"笔记本i7 8GB",
+                "product_brief": "全新高性能独显",
+                "product_price": "6399",
+                "product_org_price": "6399",
+                "margin_left": 0,
+                "margin_right": 0
+              },
+              {
+                "img_url": "//i8.mifile.cn/v1/a1/71a40922-389b-70fd-375c-2e409df60338.webp?w=1080\u0026h=1080",
+                "img_url_webp": "//i8.mifile.cn/v1/a1/71a40922-389b-70fd-375c-2e409df60338.webp?w=1080\u0026h=1080",
+                "img_url_color": "#8F8E96",
+                "action": {
+                  "type": "product",
+                  "path": "6781",
+                  "log_code": "311865waptablist_two_type1002035#t=product\u0026act=other\u0026page=tab\u0026page_id=1865\u0026bid=3098669.2\u0026pid=6781"
+                },
+                "product_id": "6781",
+                "product_name": "15.6\"笔记本i7 16GB",
+                "product_brief": "全新第八代处理器",
+                "product_price": "6999",
+                "product_org_price": "6999",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "divider_line",
+          "body": {
+            "line_color": "#f5f5f5",
+            "line_height": "24",
+            "height": "0",
+            "width": "0",
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "cells_auto_fill",
+          "block_id": "3098682",
+          "body": {
+            "bg_color": "#ffffff",
+            "w": 720,
+            "h": 80,
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "w": 720,
+                "h": 80,
+                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/7bef0c2d6b68b618bc7c80ecbab24a06.png",
+                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/7bef0c2d6b68b618bc7c80ecbab24a06.png",
+                "img_url_color": "#FFFFFF",
+                "action": {
+                  "type": "none",
+                  "log_code": "311865waptabcells_auto_fill001037#t=normal\u0026act=other\u0026page=tab\u0026page_id=1865\u0026bid=3098682.1"
+                },
+                "path_type": "image",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "recommend_flag": "0",
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "list_one_type12",
+          "body": {
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/5e2b058695f8405c9ce6bd5ab1be828f.jpg?w=1080\u0026h=540",
+                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/5e2b058695f8405c9ce6bd5ab1be828f.jpg?w=1080\u0026h=540",
+                "img_url_color": "#FFFFFF",
+                "action": {
+                  "type": "product",
+                  "path": "7849",
+                  "log_code": "311865waptablist_one_type12001038#t=product\u0026act=other\u0026page=tab\u0026page_id=1865\u0026bid=3223007.1\u0026pid=7849"
+                },
+                "product_id": "7849",
+                "product_name": "游戏本15.6\" i7 GTX 1060 16GB",
+                "product_brief": "电竞级性能怪兽，冷酷到底的散热系统",
+                "product_price": "8999",
+                "product_org_price": "8999",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "list_two_type1",
+          "body": {
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/3b06702e8e7421404c8c6b0446bfbf3d.jpg?w=1080\u0026h=1080",
+                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/3b06702e8e7421404c8c6b0446bfbf3d.jpg?w=1080\u0026h=1080",
+                "img_url_color": "#FFFFFF",
+                "action": {
+                  "type": "product",
+                  "path": "7846",
+                  "log_code": "311865waptablist_two_type1001039#t=product\u0026act=other\u0026page=tab\u0026page_id=1865\u0026bid=3198384.1\u0026pid=7846"
+                },
+                "product_id": "7846",
+                "product_name": "游戏本 15.6\"  i5 GTX 1050Ti ",
+                "product_brief": "电竞级性能怪兽",
+                "product_price": "5999",
+                "product_org_price": "5999",
+                "margin_left": 0,
+                "margin_right": 0
+              },
+              {
+                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/3b06702e8e7421404c8c6b0446bfbf3d.jpg?w=1080\u0026h=1080",
+                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/3b06702e8e7421404c8c6b0446bfbf3d.jpg?w=1080\u0026h=1080",
+                "img_url_color": "#FFFFFF",
+                "action": {
+                  "type": "product",
+                  "path": "7848",
+                  "log_code": "311865waptablist_two_type1002039#t=product\u0026act=other\u0026page=tab\u0026page_id=1865\u0026bid=3198384.2\u0026pid=7848"
+                },
+                "product_id": "7848",
+                "product_name": "游戏本15.6\" i7 8GB",
+                "product_brief": "i7标压处理器",
+                "product_price": "7999",
+                "product_org_price": "7999",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "divider_line",
+          "body": {
+            "line_color": "#f5f5f5",
+            "line_height": "24",
+            "height": "0",
+            "width": "0",
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "cells_auto_fill",
+          "block_id": "3198387",
+          "body": {
+            "bg_color": "#ffffff",
+            "w": 720,
+            "h": 80,
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "w": 720,
+                "h": 80,
+                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/5e6a876bae0ce1729aa8ee902b0f20fb.png",
+                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/5e6a876bae0ce1729aa8ee902b0f20fb.png",
+                "img_url_color": "#FFFFFF",
+                "action": {
+                  "type": "none",
+                  "log_code": "311865waptabcells_auto_fill001041#t=normal\u0026act=other\u0026page=tab\u0026page_id=1865\u0026bid=3198387.1"
+                },
+                "path_type": "image",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "recommend_flag": "0",
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "list_one_type12",
+          "body": {
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/cfafeb88c52f8b011f72d4c7eca908c4.jpg?w=1080\u0026h=540",
+                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/cfafeb88c52f8b011f72d4c7eca908c4.jpg?w=1080\u0026h=540",
+                "img_url_color": "#FFFFFF",
+                "action": {
+                  "type": "product",
+                  "path": "8125",
+                  "log_code": "311865waptablist_one_type12001042#t=product\u0026act=other\u0026page=tab\u0026page_id=1865\u0026bid=3131538.1\u0026pid=8125"
+                },
+                "product_id": "8125",
+                "product_name": "小米游戏鼠标",
+                "product_brief": "掌中游戏利器，为真玩家而生",
+                "product_price": "249",
+                "product_org_price": "249",
+                "product_tag": "//i8.mifile.cn/v1/a1/289039eb-c3ed-7c26-69c3-5b07b72a797d.webp?w=120\u0026h=48",
+                "product_tag_webp": "//i8.mifile.cn/v1/a1/289039eb-c3ed-7c26-69c3-5b07b72a797d.webp?w=120\u0026h=48",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "list_one_type12",
+          "body": {
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "img_url": "//i8.mifile.cn/v1/a1/9655eb21-fb5e-9bf5-d765-1d4f202018b3.webp?w=1080\u0026h=540",
+                "img_url_webp": "//i8.mifile.cn/v1/a1/9655eb21-fb5e-9bf5-d765-1d4f202018b3.webp?w=1080\u0026h=540",
+                "img_url_color": "#CFD0CF",
+                "action": {
+                  "type": "product",
+                  "path": "6815",
+                  "log_code": "311865waptablist_one_type12001043#t=product\u0026act=other\u0026page=tab\u0026page_id=1865\u0026bid=3244624.1\u0026pid=6815"
+                },
+                "product_id": "6815",
+                "product_name": "VGA网口多功能转接器",
+                "product_brief": "高清显示输出，多任务分屏操作",
+                "product_price": "199",
+                "product_org_price": "199",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "list_two_type1",
+          "body": {
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/744f6ac43135ec89fbe493491f79394b.jpg?w=1080\u0026h=1080",
+                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/744f6ac43135ec89fbe493491f79394b.jpg?w=1080\u0026h=1080",
+                "img_url_color": "#FFFFFF",
+                "action": {
+                  "type": "product",
+                  "path": "7919",
+                  "log_code": "311865waptablist_two_type1001044#t=product\u0026act=other\u0026page=tab\u0026page_id=1865\u0026bid=3215784.1\u0026pid=7919"
+                },
+                "product_id": "7919",
+                "product_name": "小米游戏耳机",
+                "product_brief": "7.1 虚拟环绕立体声引擎",
+                "product_price": "349",
+                "product_org_price": "349",
+                "product_tag": "//i8.mifile.cn/v1/a1/289039eb-c3ed-7c26-69c3-5b07b72a797d.webp?w=120\u0026h=48",
+                "product_tag_webp": "//i8.mifile.cn/v1/a1/289039eb-c3ed-7c26-69c3-5b07b72a797d.webp?w=120\u0026h=48",
+                "margin_left": 0,
+                "margin_right": 0
+              },
+              {
+                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/d67b10a1ab4a6a3d4bdc7c32d5493954.jpg?w=1080\u0026h=1080",
+                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/d67b10a1ab4a6a3d4bdc7c32d5493954.jpg?w=1080\u0026h=1080",
+                "img_url_color": "#FFFFFF",
+                "action": {
+                  "type": "product",
+                  "path": "7865",
+                  "log_code": "311865waptablist_two_type1002044#t=product\u0026act=other\u0026page=tab\u0026page_id=1865\u0026bid=3215784.2\u0026pid=7865"
+                },
+                "product_id": "7865",
+                "product_name": "悦米机械键盘Pro静音版",
+                "product_brief": "天生极简 精致由内到外",
+                "product_price": "599",
+                "product_org_price": "599",
+                "product_tag": "//i8.mifile.cn/v1/a1/289039eb-c3ed-7c26-69c3-5b07b72a797d.webp?w=120\u0026h=48",
+                "product_tag_webp": "//i8.mifile.cn/v1/a1/289039eb-c3ed-7c26-69c3-5b07b72a797d.webp?w=120\u0026h=48",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "list_two_type1",
+          "body": {
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "img_url": "//i8.mifile.cn/v1/a1/c18422cd-49dc-5a99-1797-5bf805b2dae3.webp?w=1080\u0026h=1080",
+                "img_url_webp": "//i8.mifile.cn/v1/a1/c18422cd-49dc-5a99-1797-5bf805b2dae3.webp?w=1080\u0026h=1080",
+                "img_url_color": "#CDE7E0",
+                "action": {
+                  "type": "product",
+                  "path": "6838",
+                  "log_code": "311865waptablist_two_type1001045#t=product\u0026act=other\u0026page=tab\u0026page_id=1865\u0026bid=3131539.1\u0026pid=6838"
+                },
+                "product_id": "6838",
+                "product_name": "USB3.0至千兆网口多功能转接器",
+                "product_brief": "以一敌四，高效办公好搭档",
+                "product_price": "129",
+                "product_org_price": "129",
+                "margin_left": 0,
+                "margin_right": 0
+              },
+              {
+                "img_url": "//i8.mifile.cn/v1/a1/3220f7f0-fa4b-8227-1aaa-db66d5bbab43.webp?w=1080\u0026h=1080\u0026bg=9EB2EB",
+                "img_url_webp": "//i8.mifile.cn/v1/a1/3220f7f0-fa4b-8227-1aaa-db66d5bbab43.webp?w=1080\u0026h=1080\u0026bg=9EB2EB",
+                "img_url_color": "#9EB2EB",
+                "action": {
+                  "type": "product",
+                  "path": "5287",
+                  "log_code": "311865waptablist_two_type1002045#t=product\u0026act=other\u0026page=tab\u0026page_id=1865\u0026bid=3131539.2\u0026pid=5287"
+                },
+                "product_id": "5287",
+                "product_name": "USB-C 电源适配器",
+                "product_brief": "小米笔记本的终身伴侣",
+                "product_price": "99",
+                "product_org_price": "99",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "list_two_type1",
+          "body": {
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "img_url": "//i8.mifile.cn/v1/a1/beb1f30e-7a73-2598-f750-2d7a987ef446.webp?w=1080\u0026h=1080\u0026bg=BAC6A4",
+                "img_url_webp": "//i8.mifile.cn/v1/a1/beb1f30e-7a73-2598-f750-2d7a987ef446.webp?w=1080\u0026h=1080\u0026bg=BAC6A4",
+                "img_url_color": "#BAC6A4",
+                "action": {
+                  "type": "product",
+                  "path": "5434",
+                  "log_code": "311865waptablist_two_type1001046#t=product\u0026act=other\u0026page=tab\u0026page_id=1865\u0026bid=3098684.1\u0026pid=5434"
+                },
+                "product_id": "5434",
+                "product_name": "小米无线鼠标",
+                "product_brief": "把舒服握在手里",
+                "product_price": "69",
+                "product_org_price": "69",
+                "margin_left": 0,
+                "margin_right": 0
+              },
+              {
+                "img_url": "//i8.mifile.cn/v1/a1/0774806c-54ca-92fc-38bf-f15864945ae6.webp?w=1080\u0026h=1080\u0026bg=DFDEDF",
+                "img_url_webp": "//i8.mifile.cn/v1/a1/0774806c-54ca-92fc-38bf-f15864945ae6.webp?w=1080\u0026h=1080\u0026bg=DFDEDF",
+                "img_url_color": "#DFDEDF",
+                "action": {
+                  "type": "product",
+                  "path": "4679",
+                  "log_code": "311865waptablist_two_type1002046#t=product\u0026act=other\u0026page=tab\u0026page_id=1865\u0026bid=3098684.2\u0026pid=4679"
+                },
+                "product_id": "4679",
+                "product_name": "小米便携鼠标",
+                "product_brief": "轻薄便携，含电池仅重77.5g\r\n",
+                "product_price": "99",
+                "product_org_price": "99",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "list_two_type1",
+          "body": {
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/dd4e70d66276839ed73d9a9b897d4859.jpg?w=1080\u0026h=1080\u0026bg=FFFFFF",
+                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/dd4e70d66276839ed73d9a9b897d4859.jpg?w=1080\u0026h=1080\u0026bg=FFFFFF",
+                "img_url_color": "#FFFFFF",
+                "action": {
+                  "type": "product",
+                  "path": "5499",
+                  "log_code": "311865waptablist_two_type1001047#t=product\u0026act=other\u0026page=tab\u0026page_id=1865\u0026bid=3098685.1\u0026pid=5499"
+                },
+                "product_id": "5499",
+                "product_name": "悦米机械键盘",
+                "product_brief": "轻松输入，手感出众",
+                "product_price": "289",
+                "product_org_price": "289",
+                "margin_left": 0,
+                "margin_right": 0
+              },
+              {
+                "img_url": "//i8.mifile.cn/v1/a1/e4eac17b-479c-3a27-310d-140f119534e2.webp?w=1080\u0026h=1080\u0026bg=E6DDE1",
+                "img_url_webp": "//i8.mifile.cn/v1/a1/e4eac17b-479c-3a27-310d-140f119534e2.webp?w=1080\u0026h=1080\u0026bg=E6DDE1",
+                "img_url_color": "#E6DDE1",
+                "action": {
+                  "type": "product",
+                  "path": "4681",
+                  "log_code": "311865waptablist_two_type1002047#t=product\u0026act=other\u0026page=tab\u0026page_id=1865\u0026bid=3098685.2\u0026pid=4681"
+                },
+                "product_id": "4681",
+                "product_name": "12.5英寸 笔记本贴纸",
+                "product_brief": "色彩细腻，防水耐磨",
+                "product_price": "64.9",
+                "product_org_price": "64.9",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "list_two_type1",
+          "body": {
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "img_url": "//i8.mifile.cn/v1/a1/909aafaa-cba9-e2ad-4ce2-ff9466724a37.webp?w=1080\u0026h=1080\u0026bg=D3E2B9",
+                "img_url_webp": "//i8.mifile.cn/v1/a1/909aafaa-cba9-e2ad-4ce2-ff9466724a37.webp?w=1080\u0026h=1080\u0026bg=D3E2B9",
+                "img_url_color": "#D3E2B9",
+                "action": {
+                  "type": "product",
+                  "path": "5770",
+                  "log_code": "311865waptablist_two_type1001048#t=product\u0026act=other\u0026page=tab\u0026page_id=1865\u0026bid=3098686.1\u0026pid=5770"
+                },
+                "product_id": "5770",
+                "product_name": "多功能转接器 ",
+                "product_brief": "高性能转接器",
+                "product_price": "149",
+                "product_org_price": "149",
+                "margin_left": 0,
+                "margin_right": 0
+              },
+              {
+                "img_url": "//i8.mifile.cn/v1/a1/0a3dd887-a1ff-a6f1-9943-105d873a6fef.webp?w=1080\u0026h=1080\u0026bg=D6E7F1",
+                "img_url_webp": "//i8.mifile.cn/v1/a1/0a3dd887-a1ff-a6f1-9943-105d873a6fef.webp?w=1080\u0026h=1080\u0026bg=D6E7F1",
+                "img_url_color": "#D6E7F1",
+                "action": {
+                  "type": "product",
+                  "path": "4117",
+                  "log_code": "311865waptablist_two_type1002048#t=product\u0026act=other\u0026page=tab\u0026page_id=1865\u0026bid=3098686.2\u0026pid=4117"
+                },
+                "product_id": "4117",
+                "product_name": "笔记本转接器",
+                "product_brief": "让笔记本更强大的转接器",
+                "product_price": "149",
+                "product_org_price": "149",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "list_two_type1",
+          "body": {
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "img_url": "//i8.mifile.cn/v1/a1/2bb34be1-a0a5-7f1f-e563-574badfd4db6.webp?w=1080\u0026h=1080\u0026bg=C4C1C0",
+                "img_url_webp": "//i8.mifile.cn/v1/a1/2bb34be1-a0a5-7f1f-e563-574badfd4db6.webp?w=1080\u0026h=1080\u0026bg=C4C1C0",
+                "img_url_color": "#C4C1C0",
+                "action": {
+                  "type": "product",
+                  "path": "701",
+                  "log_code": "311865waptablist_two_type1001049#t=product\u0026act=other\u0026page=tab\u0026page_id=1865\u0026bid=3098687.1\u0026pid=701"
+                },
+                "product_id": "701",
+                "product_name": "小米随身WiFi",
+                "product_brief": "便捷的随身上网神器",
+                "product_price": "19.9",
+                "product_org_price": "19.9",
+                "margin_left": 0,
+                "margin_right": 0
+              },
+              {
+                "img_url": "//i8.mifile.cn/v1/a1/16867c76-4b13-9fe8-d2f3-f431b896fd6a.webp?w=1080\u0026h=1080\u0026bg=BABBC8",
+                "img_url_webp": "//i8.mifile.cn/v1/a1/16867c76-4b13-9fe8-d2f3-f431b896fd6a.webp?w=1080\u0026h=1080\u0026bg=BABBC8",
+                "img_url_color": "#BABBC8",
+                "action": {
+                  "type": "product",
+                  "path": "4256",
+                  "log_code": "311865waptablist_two_type1002049#t=product\u0026act=other\u0026page=tab\u0026page_id=1865\u0026bid=3098687.2\u0026pid=4256"
+                },
+                "product_id": "4256",
+                "product_name": "笔记本内胆包 13.3\"",
+                "product_brief": "至简纤薄 轻松随行无压力",
+                "product_price": "49",
+                "product_org_price": "49",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "divider_line",
+          "body": {
+            "line_color": "#f5f5f5",
+            "line_height": "24",
+            "height": "0",
+            "width": "0",
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "cells_auto_fill",
+          "is_show": "Y",
+          "body": {
+            "w": 720,
+            "h": 280,
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "w": 720,
+                "h": 280,
+                "material_id": 8007,
+                "ad_position_id": 2341,
+                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/6ef0c74a1f10f6e78e92c62245d26c7a.jpg?bg=FFFFFF",
+                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/6ef0c74a1f10f6e78e92c62245d26c7a.jpg?bg=FFFFFF",
+                "img_url_color": "#FFFFFF",
+                "action": {
+                  "type": "activity",
+                  "path": "https://s1.mi.com/pages/3bd8fdb090f1f5eb66a00c84dbc5ad51/index.html",
+                  "log_code": "311865waptabcells_auto_fill001052#t=ad\u0026act=other\u0026page=tab\u0026page_id=1865\u0026bid=3222218.1\u0026adp=2341\u0026adm=8007"
+                },
+                "path_type": "image",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "divider_line",
+          "body": {
+            "line_color": "#f5f5f5",
+            "line_height": "24",
+            "height": "0",
+            "width": "0",
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "cells_auto_fill",
+          "is_show": "Y",
+          "body": {
+            "w": 720,
+            "h": 280,
+            "height": "0",
+            "width": "0",
+            "items": [
+              {
+                "w": 720,
+                "h": 280,
+                "material_id": 7465,
+                "ad_position_id": 2346,
+                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/748896049c435610feab9a1cf9a8038b.jpg?bg=FFFFFF",
+                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/748896049c435610feab9a1cf9a8038b.jpg?bg=FFFFFF",
+                "img_url_color": "#FFFFFF",
+                "action": {
+                  "type": "channel",
+                  "path": "1415",
+                  "log_code": "311865waptabcells_auto_fill001054#t=ad\u0026act=other\u0026page=tab\u0026page_id=1865\u0026bid=3222678.1\u0026adp=2346\u0026adm=7465"
+                },
+                "path_type": "image",
+                "margin_left": 0,
+                "margin_right": 0
+              }
+            ],
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        },
+        {
+          "view_type": "divider_line",
+          "body": {
+            "line_color": "#f5f5f5",
+            "line_height": "24",
+            "height": "0",
+            "width": "0",
+            "win_prize_action": null,
+            "not_win_prize_action": null,
+            "margin_left": 0,
+            "margin_right": 0
+          }
+        }
+      ]
+    },
+    "default_type": "tab",
+    "default_id": 1865
+  },
+  "result": "ok"
+}

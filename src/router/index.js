@@ -12,12 +12,19 @@ export default new Router({
     {
       path: '/',
       name: '',
-      component: () => import('@/pages/home/home')
-    },
-    {
-      path: '/recommend',
-      name: 'Recommend',
-      component: () => import('@/pages/home/home')
+      component: () => import('@/pages/home/home'),
+      children: [
+        {
+          path: '/recommend',
+          name: 'Recommend',
+          component: () => import('@/pages/recommend/recommend')
+        },
+        {
+          path: '/phone',
+          name: 'Phone',
+          component: () => import('@/pages/phone/phone')
+        }
+      ]
     },
     {
       path: '/cart',

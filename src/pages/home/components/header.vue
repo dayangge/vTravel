@@ -1,5 +1,6 @@
 <template>
-  <div class="header border-bottom">
+  <div class="box">
+    <div class="header border-bottom">
     <div class="header-left">
       <span class="iconfont back-icon">&#xe624;</span>
     </div>
@@ -12,6 +13,47 @@
         <span class="iconfont arrow-icon">&#xe64a;</span>
         </div>
     </router-link>
+   </div>
+    <div  class="nav" >
+      <router-link tag="div"  class="nav-item" to="/recommend">
+      <span>
+        推荐</span>
+      </router-link>
+      <router-link tag="div"  class="nav-item" to="/phone">
+      <span >
+        手机</span>
+      </router-link>
+      <router-link tag="div"  class="nav-item" to="/smart">
+      <span >
+        智能
+      </span>
+      </router-link >
+      <router-link tag="div"  class="nav-item" to="/tv">
+      <span >
+        电视
+      </span>
+      </router-link>
+      <router-link tag="div"  class="nav-item" to="/pc">
+      <span >
+        电脑
+      </span>
+      </router-link>
+      <router-link tag="div"  class="nav-item" to="/full">
+      <span >
+        全面屏
+      </span>
+      </router-link >
+      <router-link  tag="div" class="nav-item" to="/life">
+      <span >
+        生活周边
+      </span>
+      </router-link >
+      <router-link tag="div" class="nav-item" to="/box">
+    <span >
+      盒子
+    </span>
+      </router-link>
+    </div>
   </div>
 </template>
 
@@ -28,10 +70,18 @@ export default {
 
 <style lang="stylus" scoped>
   @import '~@/assets/styles/varibles.styl'
+.box
+  position fixed
+  top:-1
+  left:0
+  right: 0
+  z-index 99
+  box-shadow $boxShadow
+  min-height 1.48rem
+  background: $bgColor;
   .header
     display: flex
     line-height $headerHeight;
-    background: $bgColor;
     .header-left
       width .64rem;
       float left;
@@ -63,5 +113,23 @@ export default {
       .arrow-icon
         padding-left: .06rem;
         font-size: .24rem
-
+  .nav
+    overflow-x: auto;
+    background: #f2f2f2;
+    font-size: .26rem;
+    white-space: nowrap;
+    z-index: 2;
+    &:-webkit-scrollbar
+      display: none
+    .nav-item
+      display: inline-block;
+      padding: 0 .25rem;
+      &.router-link-active
+        span
+          color: rgb(237, 91, 0);
+          border-color: rgb(237, 91, 0);
+      span
+        display: inline-block;
+        line-height: 32px;
+        border-bottom: 2px solid rgba(237,91,0,0);
 </style>

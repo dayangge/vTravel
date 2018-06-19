@@ -39,4 +39,14 @@ body.dialog-open {
   position: fixed;
   width: 100%;
 }
+@media (max-width: 340px) {
+  html {
+    font-size: 40px !important;
+  }
+}
+@media (min-width: 390px) and (max-width: 420px){
+  html {
+    font-size: 54px !important;
+  }
+}
 </style>

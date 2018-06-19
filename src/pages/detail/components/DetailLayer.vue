@@ -116,11 +116,11 @@ export default {
     background rgba(0, 0, 0, 0.75)
     top 0
     bottom 0
-    z-index 1
+    z-index 109
 
   .layer
     width 100%
-    height 9rem
+    max-height 6rem
     background white
     position fixed
     bottom 0

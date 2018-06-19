@@ -7,7 +7,7 @@
       <a class="footer-btn">
         <i class="icon-cart"></i>
         <span >购物车</span></a>
-      <div class="action-box" @click="add(goodDetail)">
+      <div class="action-box" @click="add">
         <a class="buy">加入购物车</a>
       </div>
     </div>

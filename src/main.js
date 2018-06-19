@@ -11,11 +11,13 @@ import store from './store/index'
 import './assets/styles/iconfont.css'
 import 'swiper/dist/css/swiper.css'
 import 'babel-polyfill'
-import Mint from 'mint-ui'
-import 'mint-ui/lib/style.css'
+import VueLazyLoad from 'vue-lazyload'
+
 Vue.config.productionTip = false
 fastclick.attach(document.body)
-Vue.use(Mint)
+Vue.use(VueLazyLoad, {
+  loading: '../static/img/load-img/Dual Ring-1s-200px.svg'
+})
 Vue.use(VueAwesomeSwiper)
 
 /* eslint-disable no-new */

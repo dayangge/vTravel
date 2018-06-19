@@ -21,7 +21,7 @@
         <div class="list-item" v-for="(item,index) of rightList" :key="index" ref="listItem">
           <div v-for="(innerItem,innerIndex) of item.category_list" :key="innerIndex">
             <div class="cells_auto_fill" v-if="innerItem.view_type === 'cells_auto_fill'">
-              <img :src="innerItem.body.items[0].img_url" class="cell-img"
+              <img v-lazy="innerItem.body.items[0].img_url" class="cell-img"
                    :style="{width:(innerItem.body.w/100 + 'rem'),height:innerItem.body.h/100 + 'rem'}">
             </div>
           <div class="category_title" v-if="innerItem.view_type === 'category_title'">
@@ -34,7 +34,7 @@
                 <a  class="exposure" >
                   <div  class="img">
                     <img  class="big"
-                          :src="proItem.img_url"
+                          v-lazy="proItem.img_url"
                           >
                     </div>
                   <div  class="name">{{proItem.product_name}}</div>

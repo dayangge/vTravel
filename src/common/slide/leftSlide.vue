@@ -1,18 +1,18 @@
 <template>
-  <transition name="slide">
+  <transition name="leftslide">
     <slot></slot>
   </transition>
 </template>
 
 <script>
 export default {
-  name: 'slide'
+  name: 'leftSlide'
 }
 </script>
 
 <style lang="stylus" scoped>
-.slide-enter-active, .slide-leave-active
+.leftslide-enter-active, .leftslide-leave-active
   transition: all 0.3s
-.slide-enter, .slide-leave-to
+.leftslide-enter, .leftslide-leave-to
   transform: translate3d(100%, 0, 0)
 </style>

@@ -14,7 +14,7 @@ import CityHeader from './components/header'
 import CitySearch from './components/search'
 import CityList from './components/list'
 import CityAlphabet from './components/alphabet'
-import slide from '../../common/slide/slide'
+import slide from '../../common/slide/leftSlide'
 import axios from 'axios'
 export default {
   name: 'City',

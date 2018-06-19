@@ -1,8 +1,7 @@
 <template>
-<div>
+<div class="shell">
   <HomeHeader></HomeHeader>
-  <home-nav-list></home-nav-list>
-  <recommend></recommend>
+  <router-view></router-view>
   <footer-bottom></footer-bottom>
   <div></div>
 </div>
@@ -11,7 +10,6 @@
 <script>
 import HomeHeader from './components/header'
 import axios from 'axios'
-import HomeNavList from './components/home-nav'
 import Recommend from '../recommend/recommend'
 import Footer from '../footer-bar/footer'
 import { mapState } from 'vuex'
@@ -25,7 +23,6 @@ export default {
   },
   components: {
     HomeHeader,
-    HomeNavList,
     Recommend,
     FooterBottom: Footer
   },
@@ -51,6 +48,14 @@ export default {
 }
 </script>
 
-<style scoped>
-
+<style lang="stylus" scoped>
+.shell
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 1;
 </style>

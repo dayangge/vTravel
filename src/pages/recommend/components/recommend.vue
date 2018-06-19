@@ -5,7 +5,7 @@
       <router-link class="item border-bottom" v-for="item of list" :key="item.id" tag="li" :to="'/detail/' + item.id">
         <div  class="item-link">
           <div class="item-img-wrapper">
-            <img class="item-img" :src="item.imgUrl" alt="">
+            <img class="item-img" v-lazy="item.imgUrl" alt="">
           </div>
           <div class="item-info">
             <p class="item-title">{{item.title}}</p>

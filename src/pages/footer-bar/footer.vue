@@ -4,28 +4,28 @@
       <router-link  to="/recommend" tag="li" class="bottom-li">
         <div class="index">
           <i class="icon" :class="['recommend' === active ? 'index-icon-active' : 'index-icon']"></i>
-          <span class="image-span">首页</span>
+          <span class="image-span" :class="{ 'on' : 'recommend' === active }">首页</span>
         </div>
       </router-link>
 
       <router-link to="/classify" tag="li"  class="bottom-li">
         <div class="index">
           <i class="icon" :class="['classify' === active ? 'classify-icon-active' : 'classify-icon']"></i>
-          <span class=" image-span">分类</span>
+          <span class=" image-span" :class="{ 'on' : 'classify' === active }">分类</span>
         </div>
       </router-link>
 
       <router-link to="/cart" tag="li"  class="bottom-li">
         <div class="index">
           <i class="icon" :class="['cart' === active ? 'cart-icon-active' : 'cart-icon']"></i>
-          <span class="image-span">购物车</span>
+          <span class="image-span" :class="{ 'on' : 'cart' === active }">购物车</span>
         </div>
       </router-link>
 
        <router-link to="/me" tag="li"  class="bottom-li">
          <div class="index">
            <i class="icon" :class="['me' === active ? 'me-icon-active' : 'me-icon']"></i>
-           <span class="image-span">我</span>
+           <span class="image-span" :class="{ 'on' : 'me' === active }">我</span>
          </div>
       </router-link>
     </ul>
@@ -41,10 +41,29 @@ export default {
   },
   mounted () {
     console.log(this.$route)
-    this.active = this.$route.path.slice(1)
+    this.determineRoute()
   },
   activated () {
-    this.active = this.$route.path.slice(1)
+    this.determineRoute()
+  },
+  methods: {
+    determineRoute () {
+      let seleRoute = this.$route.path.slice(1)
+      switch (seleRoute) {
+        case 'recommend':
+          this.active = 'recommend'
+          break
+        case 'classify':
+          this.active = 'classify'
+          break
+        case 'cart':
+          this.active = 'cart'
+          break
+        case 'me':
+          this.active = 'me'
+          break
+      }
+    }
   }
 }
 </script>
@@ -99,6 +118,7 @@ export default {
           background-image: url("../../../static/img/me-active.png")
         .image-span
           font-size: .22rem;
-      .router-link,.router-link-active
-        color:  #ff6700
+          &.on
+           color  #ff6700;
+
 </style>

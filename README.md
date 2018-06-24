@@ -22,9 +22,9 @@
 
 ### VUE
 
-[VUE文档](https://cn.vuejs.org/v2/api/)
-[VUE-Router](https://router.vuejs.org/zh/guide/)
-[VUEX](https://vuex.vuejs.org/zh/)
+[VUE文档](https://cn.vuejs.org/v2/api/)</br>
+[VUE-Router](https://router.vuejs.org/zh/guide/)</br>
+[VUEX](https://vuex.vuejs.org/zh/)</br>
 
 ### 布局
 [flex布局](http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html)

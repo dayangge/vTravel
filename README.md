@@ -14,18 +14,18 @@
 
 
 
-##参考文章
+## 参考文章
 
-###滚动
+### 滚动
 
 [滑向未来（现代 JavaScript 与 CSS 滚动实现指南）](https://www.zcfy.cc/article/scroll-to-the-future)
 
-###VUE
+### VUE
 [VUE文档](https://cn.vuejs.org/v2/api/)
 [VUE-Router](https://router.vuejs.org/zh/guide/)
 [VUEX](https://vuex.vuejs.org/zh/)
 
-###布局
+### 布局
 [flex布局](http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html)
 
 

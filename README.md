@@ -22,7 +22,9 @@
 
 ### VUE
 [VUE文档](https://cn.vuejs.org/v2/api/)
+
 [VUE-Router](https://router.vuejs.org/zh/guide/)
+
 [VUEX](https://vuex.vuejs.org/zh/)
 
 ### 布局

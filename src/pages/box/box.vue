@@ -100,13 +100,7 @@ export default {
 <style lang="stylus" scoped>
   @import '~@/assets/styles/mixins.styl'
   .bodys
-    position: absolute;
-    top: 82px;
-    left: 0;
-    right: 0;
-    background: #fff;
-    transition: transform .4s cubic-bezier(.55, 0, .1, 1);
-    padding-bottom 51px
+    bodystyle()
     .cells_auto_fill
       height: auto !important;
       width 100%

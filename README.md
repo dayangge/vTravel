@@ -18,7 +18,8 @@
 
 ### 滚动
 
-[滑向未来（现代 JavaScript 与 CSS 滚动实现指南）](https://www.zcfy.cc/article/scroll-to-the-future)
+[滑向未来（现代 JavaScript 与 CSS 滚动实现指南）](https://www.zcfy.cc/article/scroll-to-the-future)</br>
+[better-scroll移动端滚动插件](https://ustbhuangyi.github.io/better-scroll/doc/zh-hans/)
 
 ### VUE
 

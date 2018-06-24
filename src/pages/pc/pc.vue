@@ -61,7 +61,6 @@ export default {
       if (res.code === 0 && res.data) {
         const data = res.data.data.sections
         this.list = data
-        console.log(data)
       }
     }
   }

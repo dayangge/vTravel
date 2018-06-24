@@ -73,10 +73,11 @@ export default {
   },
   mounted () {
     this.getClassifyInfo()
-    setTimeout(() => {
+    this.$nextTick(() => {
       this._calcHeight()
       this._initScroll()
-    }, 20)
+    }
+    )
   },
   methods: {
     getClassifyInfo () {

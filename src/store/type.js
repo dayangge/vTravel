@@ -7,4 +7,6 @@ export const SET_GOODS = 'SET_GOODS'
 export const SET_ORDERS = 'SET_ORDERS'
 // 订单
 export const SET_ADDRESS = 'SET_ADDRESS'
+
+export const SET_PAGEINDEX = 'SET_PAGEINDEX'
 // 地址

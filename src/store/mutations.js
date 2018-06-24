@@ -8,6 +8,9 @@ const matutaions = {
       localStorage.city = city
     } catch (e) {}
   },
+  [type.SET_PAGEINDEX] (state, index) {
+    state.currentPageIndex = index
+  },
   //  购物车
   [type.SET_CARTS] (state, data) {
     state.carts.push(data)

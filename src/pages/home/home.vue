@@ -1,7 +1,9 @@
 <template>
 <div class="shell">
   <HomeHeader></HomeHeader>
-  <router-view></router-view>
+  <keep-alive>
+    <router-view></router-view>
+  </keep-alive>
   <footer-bottom></footer-bottom>
   <div></div>
 </div>

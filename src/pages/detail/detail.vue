@@ -34,7 +34,8 @@ export default {
       gallaryImgs: [],
       promotion: [],
       preventBodyScroll: false,
-      maskShow: false
+      maskShow: false,
+      oldId: ''
     }
   },
   components: {
@@ -75,6 +76,14 @@ export default {
   },
   mounted () {
     this.getDetailInfo()
+    this.oldId = this.$route.params.id
+  },
+  activated () {
+    if (this.$route.params.id !== this.oldId) {
+      this.oldId = this.$route.params.id
+      this.getDetailInfo()
+    }
+    console.log(111)
   }
 }
 </script>

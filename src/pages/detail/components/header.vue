@@ -1,12 +1,12 @@
 <template>
   <div>
-    <router-link tag="div" to="/" class="header-ads" v-show="showAbs">
+    <div @click="$router.go(-1)"  class="header-ads" v-show="showAbs">
       <span class="iconfont header-ads-back">&#xe624;</span>
-    </router-link>
+    </div>
     <div class="header-fixed" v-show="!showAbs" :style="opacityStyle">
-      <router-link  to="/" >
+      <div @click="$router.go(-1)" >
         <span class="iconfont header-fixed-back">&#xe624;</span>
-      </router-link>
+      </div>
       商品详情
     </div>
   </div>

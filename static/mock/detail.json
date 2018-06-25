@@ -1,36 +1,24 @@
 {
   "ret": true,
   "data": {
-    "id":"10000080",
-    "goodsDetail":
-      {"name": "红米5 Plus",
+    "id": "10000080",
+    "goodsDetail": {
+      "name": "红米5 Plus",
       "brief": "全面屏 / 4000mAh大电量 / 前置柔光自拍 / 14nm骁龙八核处理器",
-      "price":"999"},
-    "gallaryImgs": ["//i8.mifile.cn/v1/a1/d108bc58-3f1f-3a13-9213-ba2627e00a14!720x792.webp",
+      "price": "999"
+    },
+    "gallaryImgs": [
+      "//i8.mifile.cn/v1/a1/d108bc58-3f1f-3a13-9213-ba2627e00a14!720x792.webp",
       "//i8.mifile.cn/v1/a1/c66b6801-f13a-07c7-97b6-361ade5f4a32!720x792.webp",
       "//i8.mifile.cn/v1/a1/e4be781a-ced3-3b5c-ba53-6e24d060205d!720x792.webp",
       "//i8.mifile.cn/v1/a1/7a31a09f-2796-7c5d-dd1e-50b3fa01e57c!720x792.webp",
-      "//i8.mifile.cn/v1/a1/dbed9798-2cab-1e5c-d28d-f83468567cec.webp"],
-    "promotion": [
-      {"desc":"2",
-      "title":"赠米粉卡"}
+      "//i8.mifile.cn/v1/a1/dbed9798-2cab-1e5c-d28d-f83468567cec.webp"
     ],
-    "categoryList": [{
-        "title": "成人票",
-        "children": [{
-          "title": "成人三馆联票",
-          "children": [{
-            "title": "成人三馆联票 - 某一连锁店销售"
-          }]
-        },{
-          "title": "成人五馆联票"
-        }]
-      }, {
-        "title": "学生票"
-      }, {
-        "title": "儿童票"
-      }, {
-        "title": "特惠票"
-      }]
+    "promotion": [
+      {
+        "desc": "2",
+        "title": "赠米粉卡"
+      }
+    ]
   }
 }

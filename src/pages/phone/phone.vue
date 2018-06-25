@@ -4,7 +4,9 @@
       <div class="banner" v-if="item.view_type === 'gallery'">
         <div class="swiper"
              :style="{width:(item.body.items[0].w/100 + 'rem'),height:item.body.items[0].h/100 + 'rem'}">
-          <img :src="item.body.items[0].img_url" alt="">
+          <router-link :to="'/detail/' + item.body.items[0].action">
+            <img :src="item.body.items[0].img_url" alt="">
+          </router-link>
         </div>
       </div>
       <div class="divider_line" v-if="item.view_type === 'divider_line'"
@@ -20,18 +22,20 @@
 
       <div class="list_two_type1" v-if="item.view_type === 'list_two_type1'">
         <div v-for="(innerItem,innerIndex) of item.body.items" :key="innerIndex">
-          <div class="list-item">
-            <div class="img">
-              <img class="big"
-                    v-lazy="innerItem.img_url"
-                   >
+          <router-link :to="'/detail/' + innerItem.action.path">
+            <div class="list-item">
+              <div class="img">
+                <img class="big"
+                     v-lazy="innerItem.img_url"
+                >
+              </div>
+              <div class="info">
+                <h3 class="name">{{innerItem.product_name}}</h3>
+                <p class="brief">{{innerItem.product_brief}}</p>
+                <div class="price">{{innerItem.product_price}}<span>起</span><!----></div>
+              </div>
             </div>
-            <div class="info">
-              <h3 class="name">{{innerItem.product_name}}</h3>
-              <p class="brief">{{innerItem.product_brief}}</p>
-              <div class="price">{{innerItem.product_price}}<span>起</span><!----></div>
-            </div>
-          </div>
+          </router-link>
         </div>
       </div>
     </div>
@@ -128,7 +132,7 @@ export default {
             display: block
             animation: opacity01 .3s;
             width 100%
-            height:100%
+            height: 100%
         .info
           padding: .2rem .27rem;
           text-align: left;
@@ -137,12 +141,12 @@ export default {
             overflow: hidden;
             text-overflow: ellipsis;
             font-size: .28rem;
-            color: rgba(0,0,0,.87);
+            color: rgba(0, 0, 0, .87);
           .brief
             margin-top: .06rem;
             font-size: .22rem;
             line-height: .3rem;
-            color: rgba(0,0,0,.54);
+            color: rgba(0, 0, 0, .54);
             ellipsis()
           .price
             font-size: .28rem;

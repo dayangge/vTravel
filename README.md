@@ -30,6 +30,9 @@
 ### 布局
 [flex布局](http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html)
 
+### 算法
+[Sku 多维属性状态判断算法](https://juejin.im/entry/5868655861ff4b0057774be7)
+
 
 ## Build Setup
 

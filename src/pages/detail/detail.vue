@@ -83,7 +83,7 @@ export default {
       this.oldId = this.$route.params.id
       this.getDetailInfo()
     }
-    console.log(111)
+    // console.log(111)
   }
 }
 </script>

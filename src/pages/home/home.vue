@@ -48,7 +48,7 @@ export default {
       const pathArr = ['recommend', 'phone', 'smart', 'tv', 'pc', 'full', 'life', 'box']
       const toDepth = pathArr.indexOf(to.path.split('/')[1])
       const fromDepth = pathArr.indexOf(from.path.split('/')[1])
-      console.log(toDepth, fromDepth)
+      // console.log(toDepth, fromDepth)
       this.transitionName = toDepth < fromDepth ? 'rightslide' : 'leftslide'
     }
   },

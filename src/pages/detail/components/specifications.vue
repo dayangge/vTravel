@@ -4,7 +4,7 @@
       <div class="sectionMore more border-bottom" @click.stop="maskShow">
         <div class="title">规格</div>
         <div class="flex">
-          <div class="icon-title">{{content}}</div>
+          <div class="icon-title">{{currentGoods.name}}</div>
         </div>
       </div>
     </div>
@@ -15,13 +15,14 @@
           <i class="close-icon"></i>
         </div>
         <div class="pro-info ">
-          <div class="pro-img"><img src="//i8.mifile.cn/a1/pms_1524621089.05828574!720x7200.jpg">
+          <div class="pro-img">
+            <img :src="currentGoods.img_url">
           </div>
           <div class="pro-desc">
             <div class="cur-price">
-              <div class="price">1599</div>
+              <div class="price">{{currentGoods.price}}</div>
             </div>
-            <div class="name">小米5X 4GB+64GB 曜石黑</div>
+            <div class="name">{{currentGoods.name}}</div>
           </div>
         </div>
         <div class="max5">
@@ -29,32 +30,28 @@
             <div class="option-title ">版本</div>
             <div class="options-group">
               <div
+                v-for="item of goodsBuyOption1"
+                :key="item.prop_value_id"
+                @click="selectSKUModel(item)"
+                :class = "{'active':prop_value_id1 === item.prop_value_id}"
                 class="option-item ">
-                <p>4GB+64GB</p>
-                <p>1599元</p></div>
-              <div
-                class="option-item active ">
-                <p>4GB+32GB</p>
-                <p>1399元</p></div>
-              <div
-                class="option-item">
-                <p>6GB+128GB</p>
-                <p>1799元</p></div>
-              <div
-                class="option-item">
-                <p>6GB+64GB</p>
-                <p>1999元</p></div>
+                <p>{{item.name}}</p>
+                <p>{{item.price}}</p>
+              </div>
             </div>
           </div>
           <div class="border-top max-info">
             <div class="option-title border-bottom ">颜色</div>
             <div class="options-group ">
-              <div class="option-muen">
-                <p>流沙金</p></div>
-              <div class="option-muen active">
-                <p>曜石黑</p></div>
-              <div class="option-muen">
-                <p>赤焰红</p></div>
+              <div class="option-muen"
+                   v-for="item of goodsBuyOption2"
+                   :key="item.prop_value_id"
+                   :class = "{'active':prop_value_id2 === item.prop_value_id,
+                    }"
+                   @click = selectSKUColor(item)
+              >
+                <p>{{item.name}}</p>
+              </div>
             </div>
           </div>
           <div class="calc-info">
@@ -82,6 +79,7 @@
 <script>
 import upSlide from '../../../common/upSlide/upSlide'
 import {to, getScrollTop} from '../../../common/js/util'
+import axios from 'axios'
 
 let scrollTop = 0
 
@@ -93,9 +91,21 @@ export default {
   },
   data () {
     return {
-      content: '红米5 Plus 3GB+32GB 黑色 x1',
-      isShow: false
+      isShow: false,
+      goodsInfo: [],
+      goodsBuyOption1: [],
+      goodsBuyOption2: [],
+      originGoodsBuyOption2: [],
+      prop_value_id1: '',
+      prop_value_id2: '',
+      currentGoods: ''
     }
+  },
+  mounted () {
+    this.$nextTick(() => {
+      this.getProductInfo()
+      // console.log(this.goodsBuyOption)
+    })
   },
   methods: {
     maskShow () {
@@ -104,6 +114,51 @@ export default {
     maskHide () {
       this.isShow = false
       this.$emit('cartControlMaskShow', false)
+    },
+    getProductInfo () {
+      axios.get('api/product.json').then(this.handleGetProductSucc)
+    },
+    handleGetProductSucc (res) {
+      res = res.data
+      if (res.code === 0 && res.data) {
+        const data = res.data
+        this.goodsInfo = data.goods_info
+        this.goodsBuyOption1 = data.buy_option[0].list
+        this.goodsBuyOption2 = data.buy_option[1].list
+        this.originGoodsBuyOption2 = data.buy_option[1].list
+        // 最好直接将值赋给数据，不要从数据中，再用下标获取，因为，数据不一定存在，会报该属性不存在的错误错
+        this.currentGoods = data.goods_info[0]
+        this.prop_value_id1 = this.currentGoods.prop_list[0].prop_value_id
+        this.prop_value_id2 = this.currentGoods.prop_list[1].prop_value_id
+        //  console.log(this.selectGroup1, this.selectGroup2, this.prop_value_id1, this.prop_value_id2)
+      }
+    },
+    selectSKUModel (item) {
+      let _arr = []
+      this.prop_value_id1 = item.prop_value_id
+      this.modifyCurrentGoods()
+      // 双重遍历判断存在的路径，保村到_arr
+      for (let i = 0; i < this.originGoodsBuyOption2.length; i++) {
+        for (let j = 0; j < this.goodsInfo.length; j++) {
+          if (item.prop_value_id === this.goodsInfo[j].prop_list[0].prop_value_id &&
+            this.originGoodsBuyOption2[i].prop_value_id === this.goodsInfo[j].prop_list[1].prop_value_id) {
+            _arr.push(this.originGoodsBuyOption2[i])
+          }
+        }
+      }
+      this.goodsBuyOption2 = _arr
+    },
+    selectSKUColor (item) {
+      this.prop_value_id2 = item.prop_value_id
+      this.modifyCurrentGoods()
+    },
+    modifyCurrentGoods () {
+      for (let i = 0; i < this.goodsInfo.length; i++) {
+        if (this.prop_value_id1 === this.goodsInfo[i].prop_list[0].prop_value_id &&
+          this.prop_value_id2 === this.goodsInfo[i].prop_list[1].prop_value_id) {
+          this.currentGoods = this.goodsInfo[i]
+        }
+      }
     }
   },
   watch: {
@@ -294,6 +349,8 @@ export default {
             justify-content: center;
             align-items: center;
             display: flex;
+            &.active
+              color: #f56600;
       .calc-info
         padding-top .32rem
         display: flex;

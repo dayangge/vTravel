@@ -1,0 +1,2413 @@
+{
+  "code": 0,
+  "result": "ok",
+  "description": "success",
+  "data": {
+    "activies": [
+      {
+        "goods_id": 2174700044,
+        "canJoinActs": [
+          {
+            "type": "gift",
+            "type_desc": "赠品",
+            "title": "赠米粉卡",
+            "active_id": "10795",
+            "reduce": "0.000000"
+          }
+        ]
+      },
+      {
+        "goods_id": 2174700049,
+        "canJoinActs": [
+          {
+            "type": "gift",
+            "type_desc": "赠品",
+            "title": "赠米粉卡",
+            "active_id": "10795",
+            "reduce": "0.000000"
+          }
+        ]
+      },
+      {
+        "goods_id": 2174700051,
+        "canJoinActs": [
+          {
+            "type": "gift",
+            "type_desc": "赠品",
+            "title": "赠米粉卡",
+            "active_id": "10795",
+            "reduce": "0.000000"
+          }
+        ]
+      },
+      {
+        "goods_id": 2174700052,
+        "canJoinActs": [
+          {
+            "type": "gift",
+            "type_desc": "赠品",
+            "title": "赠米粉卡",
+            "active_id": "10795",
+            "reduce": "0.000000"
+          }
+        ]
+      },
+      {
+        "goods_id": 2174700043,
+        "canJoinActs": [
+          {
+            "type": "gift",
+            "type_desc": "赠品",
+            "title": "赠米粉卡",
+            "active_id": "10795",
+            "reduce": "0.000000"
+          }
+        ]
+      },
+      {
+        "goods_id": 2174700042,
+        "canJoinActs": [
+          {
+            "type": "gift",
+            "type_desc": "赠品",
+            "title": "赠米粉卡",
+            "active_id": "10795",
+            "reduce": "0.000000"
+          }
+        ]
+      },
+      {
+        "goods_id": 2174700050,
+        "canJoinActs": [
+          {
+            "type": "gift",
+            "type_desc": "赠品",
+            "title": "赠米粉卡",
+            "active_id": "10795",
+            "reduce": "0.000000"
+          }
+        ]
+      },
+      {
+        "goods_id": 2174700041,
+        "canJoinActs": [
+          {
+            "type": "gift",
+            "type_desc": "赠品",
+            "title": "赠米粉卡",
+            "active_id": "10795",
+            "reduce": "0.000000"
+          }
+        ]
+      }
+    ],
+    "buy_option": [
+      {
+        "list": [
+          {
+            "icon_color": "",
+            "icon_img": "",
+            "is_stock": true,
+            "name": "3GB+32GB",
+            "price": "899元",
+            "prop_desc": "",
+            "prop_value_id": 577
+          },
+          {
+            "icon_color": "",
+            "icon_img": "",
+            "is_stock": true,
+            "name": "4GB+64GB",
+            "price": "1199元",
+            "prop_desc": "",
+            "prop_value_id": 578
+          },
+          {
+            "icon_color": "",
+            "icon_img": "",
+            "is_stock": true,
+            "name": "4GB+64GB 移动4G+版",
+            "price": "1199元",
+            "prop_desc": "",
+            "prop_value_id": 643
+          }
+        ],
+        "name": "版本",
+        "prop_cfg_id": 164
+      },
+      {
+        "list": [
+          {
+            "icon_color": "",
+            "icon_img": "//i8.mifile.cn/b2c-mimall-media/1c84f395fb5da4bfbb1c01f860440a77.png",
+            "is_stock": false,
+            "name": "金色",
+            "price": "",
+            "prop_desc": "",
+            "prop_value_id": 580
+          },
+          {
+            "icon_color": "",
+            "icon_img": "//i8.mifile.cn/b2c-mimall-media/bc99af80103f531296be0be09811bd7f.png",
+            "is_stock": false,
+            "name": "黑色",
+            "price": "",
+            "prop_desc": "",
+            "prop_value_id": 579
+          },
+          {
+            "icon_color": "",
+            "icon_img": "//i8.mifile.cn/b2c-mimall-media/29745bdcdd4c342b1c761ba9dfdb9974.png",
+            "is_stock": false,
+            "name": "玫瑰金",
+            "price": "",
+            "prop_desc": "",
+            "prop_value_id": 581
+          },
+          {
+            "icon_color": "",
+            "icon_img": "//i8.mifile.cn/b2c-mimall-media/9ff9babe1eefaf562d04261f11c84861.png",
+            "is_stock": false,
+            "name": "浅蓝色",
+            "price": "",
+            "prop_desc": "",
+            "prop_value_id": 582
+          }
+        ],
+        "name": "颜色",
+        "prop_cfg_id": 165
+      }
+    ],
+    "coupon_info": {
+      "act_name": "优惠券"
+    },
+    "default_goods_id": "2174700049",
+    "goods_info": [
+      {
+        "action_button": {
+          "button_title": "加入购物车",
+          "is_bigtap": false,
+          "occ_timeout": 5000,
+          "sale_mode": "standard",
+          "use_occ": false
+        },
+        "address_type": "common",
+        "buy_limit": "2",
+        "commodity_id": 1174700099,
+        "goods_id": 2174700049,
+        "image_share": "http://i8.mifile.cn/b2c-mimall-media/655f7c29d046dee8970b8533ca83f951!144x1440.jpg",
+        "img_url": "//i8.mifile.cn/v1/a1/ddd6e728-83ad-6033-277f-212928ad116a!720x7200.webp",
+        "instalment": {
+          "default_instal": "mifinanceinstal_m",
+          "list": [
+            {
+              "bank": "mifinanceinstal_m",
+              "desc": "小米分期",
+              "detail": [
+                {
+                  "interest": "26.62",
+                  "rate": "2.22",
+                  "stage": 3,
+                  "stage_cost": "408.54",
+                  "stage_interest": "8.87",
+                  "total_cost": "1225.62"
+                },
+                {
+                  "interest": "46.76",
+                  "rate": "3.90",
+                  "stage": 6,
+                  "stage_cost": "207.62",
+                  "stage_interest": "7.79",
+                  "total_cost": "1245.76"
+                },
+                {
+                  "interest": "86.33",
+                  "rate": "7.20",
+                  "stage": 12,
+                  "stage_cost": "107.11",
+                  "stage_interest": "7.19",
+                  "total_cost": "1285.33"
+                }
+              ],
+              "title": "小米分期"
+            },
+            {
+              "bank": "antinstal_m",
+              "desc": "花呗分期",
+              "detail": [
+                {
+                  "interest": "27.58",
+                  "rate": "2.30",
+                  "stage": 3,
+                  "stage_cost": "408.85",
+                  "stage_interest": "9.19",
+                  "total_cost": "1226.58"
+                },
+                {
+                  "interest": "53.96",
+                  "rate": "4.50",
+                  "stage": 6,
+                  "stage_cost": "208.82",
+                  "stage_interest": "8.99",
+                  "total_cost": "1252.96"
+                },
+                {
+                  "interest": "89.92",
+                  "rate": "7.50",
+                  "stage": 12,
+                  "stage_cost": "107.40",
+                  "stage_interest": "7.49",
+                  "total_cost": "1288.92"
+                }
+              ],
+              "title": "花呗分期"
+            }
+          ]
+        },
+        "insurance": {
+          "list": [
+            {
+              "goods_id": "2174900021",
+              "image_url": "//i1.mifile.cn/a1/pms_1512813489.34425284.jpg",
+              "market_price": "59",
+              "name": "红米5 Plus  意外保障服务",
+              "price": "59",
+              "short_name": "红米5 Plus  意外保障服务",
+              "sku": "18076",
+              "type": "hm"
+            }
+          ]
+        },
+        "is_sale": true,
+        "is_show_reduce_price": false,
+        "is_stock": true,
+        "market_price": "1299",
+        "name": "红米5 Plus 4GB+64GB 黑色",
+        "price": "1199",
+        "prop_list": [
+          {
+            "prop_cfg_id": 164,
+            "prop_value_id": 578
+          },
+          {
+            "prop_cfg_id": 165,
+            "prop_value_id": 579
+          }
+        ],
+        "reduce_price": "直降100元",
+        "service_bargins": [
+          {
+            "can_multi": true,
+            "service_info": [
+              {
+                "act_diff": "",
+                "act_id": "",
+                "act_price": "",
+                "goods_id": 2174700049,
+                "goods_name": "红米5 Plus 4GB+64GB 黑色",
+                "item_id": "",
+                "phone_accidentIns": [
+                  {
+                    "desc": "保险条款",
+                    "url": "https://order.mi.com/static/jrUrl?url=https%3A%2F%2Fapi.jr.mi.com%2Finsurance%2Fdocument%2Fphone_accidentIns.html%3Ffrom%3Dins_phonedetail_bxtk%26insuranceSku%3D18076%26couponFrom%3Drule"
+                  },
+                  {
+                    "desc": "投保须知",
+                    "url": "https://order.mi.com/static/jrUrl?url=https%3A%2F%2Fapi.jr.mi.com%2Finsurance%2Fdocument%2Fphone_accidentIns.html%3Ffrom%3Dins_phonedetail_tbxz%26insuranceSku%3D18076%26couponFrom%3Dinstruction"
+                  },
+                  {
+                    "desc": "常见问题",
+                    "url": "https://order.mi.com/static/jrUrl?url=https%3A%2F%2Fapi.jr.mi.com%2Finsurance%2Fdocument%2Fphone_accidentIns.html%3Ffrom%3Dins_phonedetail_cjwt%26insuranceSku%3D18076%26couponFrom%3Dquestion"
+                  },
+                  {
+                    "desc": "客户告知",
+                    "url": "https://order.mi.com/static/jrUrl?url=https%3A%2F%2Fapi.jr.mi.com%2Finsurance%2Fdocument%2Fphone_accidentIns.html%3Ffrom%3Dlocal%26insuranceSku%3D18076%26couponFrom%3Dnotification"
+                  }
+                ],
+                "phone_accidentIns_sku": "18076",
+                "service_desc": "手机意外摔落/进水/碾压等损坏",
+                "service_goods_id": "2174900021",
+                "service_image_url": "//i1.mifile.cn/a1/pms_1512813489.34425284.jpg",
+                "service_name": "红米5 Plus 意外保障服务",
+                "service_price": "59",
+                "service_short_name": "意外保障服务",
+                "service_url": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-data-mishop/4a15d767c1fe.html",
+                "source": "common"
+              }
+            ],
+            "service_url": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-data-mishop/4a15d767c1fe.html",
+            "type_name": "保障服务"
+          }
+        ],
+        "service_refound_policy": {
+          "desc": "支持7天无理由退货",
+          "is_support": true
+        },
+        "service_refound_policy_list": {
+          "list": [
+            {
+              "goods_id": 2174700049,
+              "img_url": "http://i8.mifile.cn/b2c-mimall-media/a32fabc4c2cecf39e88b9b018fb8d6ec.png",
+              "is_support": true,
+              "item_content": "7日内，无人为损坏，包装配件齐全，可以无理由退货。",
+              "item_id": 1,
+              "item_name": "7天无理由退货",
+              "sku": 17196
+            },
+            {
+              "goods_id": 2174700049,
+              "img_url": "http://i8.mifile.cn/b2c-mimall-media/1769a228b31fb6b994a77c4c4ca16448.png",
+              "is_support": true,
+              "item_content": "15日内，如出现功能性故障或商品质量问题，经小米公司授权服务商检测，确认属于非人为商品质量问题，我们将会为您免费更换。",
+              "item_id": 2,
+              "item_name": "15天质量问题换货",
+              "sku": 17196
+            },
+            {
+              "goods_id": 2174700049,
+              "img_url": "http://i8.mifile.cn/b2c-mimall-media/de2196c347411bab09e7e46e0df5c547.png",
+              "is_support": true,
+              "item_content": "1年内，如出现功能性故障或商品质量问题，经小米公司授权服务商检测，确认属于非人为商品质量问题，我们将会为您免费维修。",
+              "item_id": 3,
+              "item_name": "365天保修",
+              "sku": 17196
+            }
+          ],
+          "url": ""
+        },
+        "show_price_type": [],
+        "stock_channel": "3"
+      },
+      {
+        "action_button": {
+          "button_title": "加入购物车",
+          "is_bigtap": false,
+          "occ_timeout": 5000,
+          "sale_mode": "standard",
+          "use_occ": false
+        },
+        "address_type": "common",
+        "buy_limit": "2",
+        "commodity_id": 1174700091,
+        "goods_id": 2174700041,
+        "image_share": "http://i8.mifile.cn/b2c-mimall-media/655f7c29d046dee8970b8533ca83f951!144x1440.jpg",
+        "img_url": "//i8.mifile.cn/v1/a1/ddd6e728-83ad-6033-277f-212928ad116a!720x7200.webp",
+        "instalment": {
+          "default_instal": "mifinanceinstal_m",
+          "list": [
+            {
+              "bank": "mifinanceinstal_m",
+              "desc": "小米分期",
+              "detail": [
+                {
+                  "interest": "19.96",
+                  "rate": "2.22",
+                  "stage": 3,
+                  "stage_cost": "306.32",
+                  "stage_interest": "6.65",
+                  "total_cost": "918.96"
+                },
+                {
+                  "interest": "35.06",
+                  "rate": "3.90",
+                  "stage": 6,
+                  "stage_cost": "155.67",
+                  "stage_interest": "5.84",
+                  "total_cost": "934.06"
+                },
+                {
+                  "interest": "64.73",
+                  "rate": "7.20",
+                  "stage": 12,
+                  "stage_cost": "80.31",
+                  "stage_interest": "5.39",
+                  "total_cost": "963.73"
+                }
+              ],
+              "title": "小米分期"
+            },
+            {
+              "bank": "antinstal_m",
+              "desc": "花呗分期",
+              "detail": [
+                {
+                  "interest": "20.68",
+                  "rate": "2.30",
+                  "stage": 3,
+                  "stage_cost": "306.55",
+                  "stage_interest": "6.89",
+                  "total_cost": "919.68"
+                },
+                {
+                  "interest": "40.46",
+                  "rate": "4.50",
+                  "stage": 6,
+                  "stage_cost": "156.57",
+                  "stage_interest": "6.74",
+                  "total_cost": "939.46"
+                },
+                {
+                  "interest": "67.42",
+                  "rate": "7.50",
+                  "stage": 12,
+                  "stage_cost": "80.52",
+                  "stage_interest": "5.61",
+                  "total_cost": "966.42"
+                }
+              ],
+              "title": "花呗分期"
+            }
+          ]
+        },
+        "insurance": {
+          "list": [
+            {
+              "goods_id": "2174900021",
+              "image_url": "//i1.mifile.cn/a1/pms_1512813489.34425284.jpg",
+              "market_price": "59",
+              "name": "红米5 Plus  意外保障服务",
+              "price": "59",
+              "short_name": "红米5 Plus  意外保障服务",
+              "sku": "18076",
+              "type": "hm"
+            }
+          ]
+        },
+        "is_sale": true,
+        "is_show_reduce_price": false,
+        "is_stock": true,
+        "market_price": "999",
+        "name": "红米5 Plus 3GB+32GB 黑色",
+        "price": "899",
+        "prop_list": [
+          {
+            "prop_cfg_id": 164,
+            "prop_value_id": 577
+          },
+          {
+            "prop_cfg_id": 165,
+            "prop_value_id": 579
+          }
+        ],
+        "reduce_price": "直降100元",
+        "service_bargins": [
+          {
+            "can_multi": true,
+            "service_info": [
+              {
+                "act_diff": "",
+                "act_id": "",
+                "act_price": "",
+                "goods_id": 2174700041,
+                "goods_name": "红米5 Plus 3GB+32GB 黑色",
+                "item_id": "",
+                "phone_accidentIns": [
+                  {
+                    "desc": "保险条款",
+                    "url": "https://order.mi.com/static/jrUrl?url=https%3A%2F%2Fapi.jr.mi.com%2Finsurance%2Fdocument%2Fphone_accidentIns.html%3Ffrom%3Dins_phonedetail_bxtk%26insuranceSku%3D18076%26couponFrom%3Drule"
+                  },
+                  {
+                    "desc": "投保须知",
+                    "url": "https://order.mi.com/static/jrUrl?url=https%3A%2F%2Fapi.jr.mi.com%2Finsurance%2Fdocument%2Fphone_accidentIns.html%3Ffrom%3Dins_phonedetail_tbxz%26insuranceSku%3D18076%26couponFrom%3Dinstruction"
+                  },
+                  {
+                    "desc": "常见问题",
+                    "url": "https://order.mi.com/static/jrUrl?url=https%3A%2F%2Fapi.jr.mi.com%2Finsurance%2Fdocument%2Fphone_accidentIns.html%3Ffrom%3Dins_phonedetail_cjwt%26insuranceSku%3D18076%26couponFrom%3Dquestion"
+                  },
+                  {
+                    "desc": "客户告知",
+                    "url": "https://order.mi.com/static/jrUrl?url=https%3A%2F%2Fapi.jr.mi.com%2Finsurance%2Fdocument%2Fphone_accidentIns.html%3Ffrom%3Dlocal%26insuranceSku%3D18076%26couponFrom%3Dnotification"
+                  }
+                ],
+                "phone_accidentIns_sku": "18076",
+                "service_desc": "手机意外摔落/进水/碾压等损坏",
+                "service_goods_id": "2174900021",
+                "service_image_url": "//i1.mifile.cn/a1/pms_1512813489.34425284.jpg",
+                "service_name": "红米5 Plus 意外保障服务",
+                "service_price": "59",
+                "service_short_name": "意外保障服务",
+                "service_url": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-data-mishop/4a15d767c1fe.html",
+                "source": "common"
+              }
+            ],
+            "service_url": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-data-mishop/4a15d767c1fe.html",
+            "type_name": "保障服务"
+          }
+        ],
+        "service_refound_policy": {
+          "desc": "支持7天无理由退货",
+          "is_support": true
+        },
+        "service_refound_policy_list": {
+          "list": [
+            {
+              "goods_id": 2174700041,
+              "img_url": "http://i8.mifile.cn/b2c-mimall-media/a32fabc4c2cecf39e88b9b018fb8d6ec.png",
+              "is_support": true,
+              "item_content": "7日内，无人为损坏，包装配件齐全，可以无理由退货。",
+              "item_id": 1,
+              "item_name": "7天无理由退货",
+              "sku": 17193
+            },
+            {
+              "goods_id": 2174700041,
+              "img_url": "http://i8.mifile.cn/b2c-mimall-media/1769a228b31fb6b994a77c4c4ca16448.png",
+              "is_support": true,
+              "item_content": "15日内，如出现功能性故障或商品质量问题，经小米公司授权服务商检测，确认属于非人为商品质量问题，我们将会为您免费更换。",
+              "item_id": 2,
+              "item_name": "15天质量问题换货",
+              "sku": 17193
+            },
+            {
+              "goods_id": 2174700041,
+              "img_url": "http://i8.mifile.cn/b2c-mimall-media/de2196c347411bab09e7e46e0df5c547.png",
+              "is_support": true,
+              "item_content": "1年内，如出现功能性故障或商品质量问题，经小米公司授权服务商检测，确认属于非人为商品质量问题，我们将会为您免费维修。",
+              "item_id": 3,
+              "item_name": "365天保修",
+              "sku": 17193
+            }
+          ],
+          "url": ""
+        },
+        "show_price_type": [],
+        "stock_channel": "3"
+      },
+      {
+        "action_button": {
+          "button_title": "加入购物车",
+          "is_bigtap": false,
+          "occ_timeout": 5000,
+          "sale_mode": "standard",
+          "use_occ": false
+        },
+        "address_type": "common",
+        "buy_limit": "1",
+        "commodity_id": 1174700103,
+        "goods_id": 2174700053,
+        "image_share": "http://i8.mifile.cn/a1/pms_1525658809.00642390!144x1440.jpg",
+        "img_url": "//i8.mifile.cn/a1/pms_1525658809.00642390!720x7200.jpg",
+        "instalment": {
+          "default_instal": "mifinanceinstal_m",
+          "list": [
+            {
+              "bank": "mifinanceinstal_m",
+              "desc": "小米分期",
+              "detail": [
+                {
+                  "interest": "26.62",
+                  "rate": "2.22",
+                  "stage": 3,
+                  "stage_cost": "408.54",
+                  "stage_interest": "8.87",
+                  "total_cost": "1225.62"
+                },
+                {
+                  "interest": "46.76",
+                  "rate": "3.90",
+                  "stage": 6,
+                  "stage_cost": "207.62",
+                  "stage_interest": "7.79",
+                  "total_cost": "1245.76"
+                },
+                {
+                  "interest": "86.33",
+                  "rate": "7.20",
+                  "stage": 12,
+                  "stage_cost": "107.11",
+                  "stage_interest": "7.19",
+                  "total_cost": "1285.33"
+                }
+              ],
+              "title": "小米分期"
+            },
+            {
+              "bank": "antinstal_m",
+              "desc": "花呗分期",
+              "detail": [
+                {
+                  "interest": "27.58",
+                  "rate": "2.30",
+                  "stage": 3,
+                  "stage_cost": "408.85",
+                  "stage_interest": "9.19",
+                  "total_cost": "1226.58"
+                },
+                {
+                  "interest": "53.96",
+                  "rate": "4.50",
+                  "stage": 6,
+                  "stage_cost": "208.82",
+                  "stage_interest": "8.99",
+                  "total_cost": "1252.96"
+                },
+                {
+                  "interest": "89.92",
+                  "rate": "7.50",
+                  "stage": 12,
+                  "stage_cost": "107.40",
+                  "stage_interest": "7.49",
+                  "total_cost": "1288.92"
+                }
+              ],
+              "title": "花呗分期"
+            }
+          ]
+        },
+        "insurance": {
+          "list": [
+            {
+              "goods_id": "2174900021",
+              "image_url": "//i1.mifile.cn/a1/pms_1512813489.34425284.jpg",
+              "market_price": "59",
+              "name": "红米5 Plus  意外保障服务",
+              "price": "59",
+              "short_name": "红米5 Plus  意外保障服务",
+              "sku": "18076",
+              "type": "hm"
+            }
+          ]
+        },
+        "is_sale": true,
+        "is_show_reduce_price": false,
+        "is_stock": true,
+        "market_price": "1299",
+        "name": "红米5 Plus 移动4G+版 4GB+64GB 黑色",
+        "price": "1199",
+        "prop_list": [
+          {
+            "prop_cfg_id": 164,
+            "prop_value_id": 643
+          },
+          {
+            "prop_cfg_id": 165,
+            "prop_value_id": 579
+          }
+        ],
+        "reduce_price": "直降100元",
+        "service_refound_policy": {
+          "desc": "支持7天无理由退货",
+          "is_support": true
+        },
+        "service_refound_policy_list": {
+          "list": [
+            {
+              "goods_id": 2174700053,
+              "img_url": "http://i8.mifile.cn/b2c-mimall-media/a32fabc4c2cecf39e88b9b018fb8d6ec.png",
+              "is_support": true,
+              "item_content": "7日内，无人为损坏，包装配件齐全，可以无理由退货。",
+              "item_id": 1,
+              "item_name": "7天无理由退货",
+              "sku": 17202
+            },
+            {
+              "goods_id": 2174700053,
+              "img_url": "http://i8.mifile.cn/b2c-mimall-media/1769a228b31fb6b994a77c4c4ca16448.png",
+              "is_support": true,
+              "item_content": "15日内，如出现功能性故障或商品质量问题，经小米公司授权服务商检测，确认属于非人为商品质量问题，我们将会为您免费更换。",
+              "item_id": 2,
+              "item_name": "15天质量问题换货",
+              "sku": 17202
+            },
+            {
+              "goods_id": 2174700053,
+              "img_url": "http://i8.mifile.cn/b2c-mimall-media/de2196c347411bab09e7e46e0df5c547.png",
+              "is_support": true,
+              "item_content": "1年内，如出现功能性故障或商品质量问题，经小米公司授权服务商检测，确认属于非人为商品质量问题，我们将会为您免费维修。",
+              "item_id": 3,
+              "item_name": "365天保修",
+              "sku": 17202
+            }
+          ],
+          "url": ""
+        },
+        "show_price_type": [],
+        "stock_channel": "3"
+      },
+      {
+        "action_button": {
+          "button_title": "加入购物车",
+          "is_bigtap": false,
+          "occ_timeout": 5000,
+          "sale_mode": "standard",
+          "use_occ": false
+        },
+        "address_type": "common",
+        "buy_limit": "2",
+        "commodity_id": 1174700092,
+        "goods_id": 2174700042,
+        "image_share": "http://i8.mifile.cn/b2c-mimall-media/723987c49bdc277bb330ef540765e208!144x1440.jpg",
+        "img_url": "//i8.mifile.cn/v1/a1/bff920ec-553b-bb55-2fa1-90400e4d951c!720x7200.webp",
+        "instalment": {
+          "default_instal": "mifinanceinstal_m",
+          "list": [
+            {
+              "bank": "mifinanceinstal_m",
+              "desc": "小米分期",
+              "detail": [
+                {
+                  "interest": "19.96",
+                  "rate": "2.22",
+                  "stage": 3,
+                  "stage_cost": "306.32",
+                  "stage_interest": "6.65",
+                  "total_cost": "918.96"
+                },
+                {
+                  "interest": "35.06",
+                  "rate": "3.90",
+                  "stage": 6,
+                  "stage_cost": "155.67",
+                  "stage_interest": "5.84",
+                  "total_cost": "934.06"
+                },
+                {
+                  "interest": "64.73",
+                  "rate": "7.20",
+                  "stage": 12,
+                  "stage_cost": "80.31",
+                  "stage_interest": "5.39",
+                  "total_cost": "963.73"
+                }
+              ],
+              "title": "小米分期"
+            },
+            {
+              "bank": "antinstal_m",
+              "desc": "花呗分期",
+              "detail": [
+                {
+                  "interest": "20.68",
+                  "rate": "2.30",
+                  "stage": 3,
+                  "stage_cost": "306.55",
+                  "stage_interest": "6.89",
+                  "total_cost": "919.68"
+                },
+                {
+                  "interest": "40.46",
+                  "rate": "4.50",
+                  "stage": 6,
+                  "stage_cost": "156.57",
+                  "stage_interest": "6.74",
+                  "total_cost": "939.46"
+                },
+                {
+                  "interest": "67.42",
+                  "rate": "7.50",
+                  "stage": 12,
+                  "stage_cost": "80.52",
+                  "stage_interest": "5.61",
+                  "total_cost": "966.42"
+                }
+              ],
+              "title": "花呗分期"
+            }
+          ]
+        },
+        "insurance": {
+          "list": [
+            {
+              "goods_id": "2174900021",
+              "image_url": "//i1.mifile.cn/a1/pms_1512813489.34425284.jpg",
+              "market_price": "59",
+              "name": "红米5 Plus  意外保障服务",
+              "price": "59",
+              "short_name": "红米5 Plus  意外保障服务",
+              "sku": "18076",
+              "type": "hm"
+            }
+          ]
+        },
+        "is_sale": true,
+        "is_show_reduce_price": false,
+        "is_stock": false,
+        "market_price": "999",
+        "name": "红米5 Plus 3GB+32GB 玫瑰金",
+        "price": "899",
+        "prop_list": [
+          {
+            "prop_cfg_id": 164,
+            "prop_value_id": 577
+          },
+          {
+            "prop_cfg_id": 165,
+            "prop_value_id": 581
+          }
+        ],
+        "reduce_price": "直降100元",
+        "service_bargins": [
+          {
+            "can_multi": true,
+            "service_info": [
+              {
+                "act_diff": "",
+                "act_id": "",
+                "act_price": "",
+                "goods_id": 2174700042,
+                "goods_name": "红米5 Plus 3GB+32GB 玫瑰金",
+                "item_id": "",
+                "phone_accidentIns": [
+                  {
+                    "desc": "保险条款",
+                    "url": "https://order.mi.com/static/jrUrl?url=https%3A%2F%2Fapi.jr.mi.com%2Finsurance%2Fdocument%2Fphone_accidentIns.html%3Ffrom%3Dins_phonedetail_bxtk%26insuranceSku%3D18076%26couponFrom%3Drule"
+                  },
+                  {
+                    "desc": "投保须知",
+                    "url": "https://order.mi.com/static/jrUrl?url=https%3A%2F%2Fapi.jr.mi.com%2Finsurance%2Fdocument%2Fphone_accidentIns.html%3Ffrom%3Dins_phonedetail_tbxz%26insuranceSku%3D18076%26couponFrom%3Dinstruction"
+                  },
+                  {
+                    "desc": "常见问题",
+                    "url": "https://order.mi.com/static/jrUrl?url=https%3A%2F%2Fapi.jr.mi.com%2Finsurance%2Fdocument%2Fphone_accidentIns.html%3Ffrom%3Dins_phonedetail_cjwt%26insuranceSku%3D18076%26couponFrom%3Dquestion"
+                  },
+                  {
+                    "desc": "客户告知",
+                    "url": "https://order.mi.com/static/jrUrl?url=https%3A%2F%2Fapi.jr.mi.com%2Finsurance%2Fdocument%2Fphone_accidentIns.html%3Ffrom%3Dlocal%26insuranceSku%3D18076%26couponFrom%3Dnotification"
+                  }
+                ],
+                "phone_accidentIns_sku": "18076",
+                "service_desc": "手机意外摔落/进水/碾压等损坏",
+                "service_goods_id": "2174900021",
+                "service_image_url": "//i1.mifile.cn/a1/pms_1512813489.34425284.jpg",
+                "service_name": "红米5 Plus 意外保障服务",
+                "service_price": "59",
+                "service_short_name": "意外保障服务",
+                "service_url": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-data-mishop/4a15d767c1fe.html",
+                "source": "common"
+              }
+            ],
+            "service_url": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-data-mishop/4a15d767c1fe.html",
+            "type_name": "保障服务"
+          }
+        ],
+        "service_refound_policy": {
+          "desc": "支持7天无理由退货",
+          "is_support": true
+        },
+        "service_refound_policy_list": {
+          "list": [
+            {
+              "goods_id": 2174700042,
+              "img_url": "http://i8.mifile.cn/b2c-mimall-media/a32fabc4c2cecf39e88b9b018fb8d6ec.png",
+              "is_support": true,
+              "item_content": "7日内，无人为损坏，包装配件齐全，可以无理由退货。",
+              "item_id": 1,
+              "item_name": "7天无理由退货",
+              "sku": 17194
+            },
+            {
+              "goods_id": 2174700042,
+              "img_url": "http://i8.mifile.cn/b2c-mimall-media/1769a228b31fb6b994a77c4c4ca16448.png",
+              "is_support": true,
+              "item_content": "15日内，如出现功能性故障或商品质量问题，经小米公司授权服务商检测，确认属于非人为商品质量问题，我们将会为您免费更换。",
+              "item_id": 2,
+              "item_name": "15天质量问题换货",
+              "sku": 17194
+            },
+            {
+              "goods_id": 2174700042,
+              "img_url": "http://i8.mifile.cn/b2c-mimall-media/de2196c347411bab09e7e46e0df5c547.png",
+              "is_support": true,
+              "item_content": "1年内，如出现功能性故障或商品质量问题，经小米公司授权服务商检测，确认属于非人为商品质量问题，我们将会为您免费维修。",
+              "item_id": 3,
+              "item_name": "365天保修",
+              "sku": 17194
+            }
+          ],
+          "url": ""
+        },
+        "show_price_type": [],
+        "stock_channel": "3"
+      },
+      {
+        "action_button": {
+          "button_title": "加入购物车",
+          "is_bigtap": false,
+          "occ_timeout": 5000,
+          "sale_mode": "standard",
+          "use_occ": false
+        },
+        "address_type": "common",
+        "buy_limit": "2",
+        "commodity_id": 1174700100,
+        "goods_id": 2174700050,
+        "image_share": "http://i8.mifile.cn/b2c-mimall-media/4c696ad4eec876ad049a47c0f4b2a04b!144x1440.jpg",
+        "img_url": "//i8.mifile.cn/v1/a1/a92fdbbd-9ac8-3f6a-75a2-426d31ca3116!720x7200.webp",
+        "instalment": {
+          "default_instal": "mifinanceinstal_m",
+          "list": [
+            {
+              "bank": "mifinanceinstal_m",
+              "desc": "小米分期",
+              "detail": [
+                {
+                  "interest": "26.62",
+                  "rate": "2.22",
+                  "stage": 3,
+                  "stage_cost": "408.54",
+                  "stage_interest": "8.87",
+                  "total_cost": "1225.62"
+                },
+                {
+                  "interest": "46.76",
+                  "rate": "3.90",
+                  "stage": 6,
+                  "stage_cost": "207.62",
+                  "stage_interest": "7.79",
+                  "total_cost": "1245.76"
+                },
+                {
+                  "interest": "86.33",
+                  "rate": "7.20",
+                  "stage": 12,
+                  "stage_cost": "107.11",
+                  "stage_interest": "7.19",
+                  "total_cost": "1285.33"
+                }
+              ],
+              "title": "小米分期"
+            },
+            {
+              "bank": "antinstal_m",
+              "desc": "花呗分期",
+              "detail": [
+                {
+                  "interest": "27.58",
+                  "rate": "2.30",
+                  "stage": 3,
+                  "stage_cost": "408.85",
+                  "stage_interest": "9.19",
+                  "total_cost": "1226.58"
+                },
+                {
+                  "interest": "53.96",
+                  "rate": "4.50",
+                  "stage": 6,
+                  "stage_cost": "208.82",
+                  "stage_interest": "8.99",
+                  "total_cost": "1252.96"
+                },
+                {
+                  "interest": "89.92",
+                  "rate": "7.50",
+                  "stage": 12,
+                  "stage_cost": "107.40",
+                  "stage_interest": "7.49",
+                  "total_cost": "1288.92"
+                }
+              ],
+              "title": "花呗分期"
+            }
+          ]
+        },
+        "insurance": {
+          "list": [
+            {
+              "goods_id": "2174900021",
+              "image_url": "//i1.mifile.cn/a1/pms_1512813489.34425284.jpg",
+              "market_price": "59",
+              "name": "红米5 Plus  意外保障服务",
+              "price": "59",
+              "short_name": "红米5 Plus  意外保障服务",
+              "sku": "18076",
+              "type": "hm"
+            }
+          ]
+        },
+        "is_sale": true,
+        "is_show_reduce_price": false,
+        "is_stock": true,
+        "market_price": "1299",
+        "name": "红米5 Plus 4GB+64GB 金色",
+        "price": "1199",
+        "prop_list": [
+          {
+            "prop_cfg_id": 164,
+            "prop_value_id": 578
+          },
+          {
+            "prop_cfg_id": 165,
+            "prop_value_id": 580
+          }
+        ],
+        "reduce_price": "直降100元",
+        "service_bargins": [
+          {
+            "can_multi": true,
+            "service_info": [
+              {
+                "act_diff": "",
+                "act_id": "",
+                "act_price": "",
+                "goods_id": 2174700050,
+                "goods_name": "红米5 Plus 4GB+64GB 金色",
+                "item_id": "",
+                "phone_accidentIns": [
+                  {
+                    "desc": "保险条款",
+                    "url": "https://order.mi.com/static/jrUrl?url=https%3A%2F%2Fapi.jr.mi.com%2Finsurance%2Fdocument%2Fphone_accidentIns.html%3Ffrom%3Dins_phonedetail_bxtk%26insuranceSku%3D18076%26couponFrom%3Drule"
+                  },
+                  {
+                    "desc": "投保须知",
+                    "url": "https://order.mi.com/static/jrUrl?url=https%3A%2F%2Fapi.jr.mi.com%2Finsurance%2Fdocument%2Fphone_accidentIns.html%3Ffrom%3Dins_phonedetail_tbxz%26insuranceSku%3D18076%26couponFrom%3Dinstruction"
+                  },
+                  {
+                    "desc": "常见问题",
+                    "url": "https://order.mi.com/static/jrUrl?url=https%3A%2F%2Fapi.jr.mi.com%2Finsurance%2Fdocument%2Fphone_accidentIns.html%3Ffrom%3Dins_phonedetail_cjwt%26insuranceSku%3D18076%26couponFrom%3Dquestion"
+                  },
+                  {
+                    "desc": "客户告知",
+                    "url": "https://order.mi.com/static/jrUrl?url=https%3A%2F%2Fapi.jr.mi.com%2Finsurance%2Fdocument%2Fphone_accidentIns.html%3Ffrom%3Dlocal%26insuranceSku%3D18076%26couponFrom%3Dnotification"
+                  }
+                ],
+                "phone_accidentIns_sku": "18076",
+                "service_desc": "手机意外摔落/进水/碾压等损坏",
+                "service_goods_id": "2174900021",
+                "service_image_url": "//i1.mifile.cn/a1/pms_1512813489.34425284.jpg",
+                "service_name": "红米5 Plus 意外保障服务",
+                "service_price": "59",
+                "service_short_name": "意外保障服务",
+                "service_url": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-data-mishop/4a15d767c1fe.html",
+                "source": "common"
+              }
+            ],
+            "service_url": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-data-mishop/4a15d767c1fe.html",
+            "type_name": "保障服务"
+          }
+        ],
+        "service_refound_policy": {
+          "desc": "支持7天无理由退货",
+          "is_support": true
+        },
+        "service_refound_policy_list": {
+          "list": [
+            {
+              "goods_id": 2174700050,
+              "img_url": "http://i8.mifile.cn/b2c-mimall-media/a32fabc4c2cecf39e88b9b018fb8d6ec.png",
+              "is_support": true,
+              "item_content": "7日内，无人为损坏，包装配件齐全，可以无理由退货。",
+              "item_id": 1,
+              "item_name": "7天无理由退货",
+              "sku": 17197
+            },
+            {
+              "goods_id": 2174700050,
+              "img_url": "http://i8.mifile.cn/b2c-mimall-media/1769a228b31fb6b994a77c4c4ca16448.png",
+              "is_support": true,
+              "item_content": "15日内，如出现功能性故障或商品质量问题，经小米公司授权服务商检测，确认属于非人为商品质量问题，我们将会为您免费更换。",
+              "item_id": 2,
+              "item_name": "15天质量问题换货",
+              "sku": 17197
+            },
+            {
+              "goods_id": 2174700050,
+              "img_url": "http://i8.mifile.cn/b2c-mimall-media/de2196c347411bab09e7e46e0df5c547.png",
+              "is_support": true,
+              "item_content": "1年内，如出现功能性故障或商品质量问题，经小米公司授权服务商检测，确认属于非人为商品质量问题，我们将会为您免费维修。",
+              "item_id": 3,
+              "item_name": "365天保修",
+              "sku": 17197
+            }
+          ],
+          "url": ""
+        },
+        "show_price_type": [],
+        "stock_channel": "3"
+      },
+      {
+        "action_button": {
+          "button_title": "加入购物车",
+          "is_bigtap": false,
+          "occ_timeout": 5000,
+          "sale_mode": "standard",
+          "use_occ": false
+        },
+        "address_type": "common",
+        "buy_limit": "1",
+        "commodity_id": 1174700104,
+        "goods_id": 2174700054,
+        "image_share": "http://i8.mifile.cn/a1/pms_1517918645.36147575!144x1440.jpg",
+        "img_url": "//i8.mifile.cn/a1/pms_1517918645.36147575!720x7200.jpg",
+        "instalment": {
+          "default_instal": "mifinanceinstal_m",
+          "list": [
+            {
+              "bank": "mifinanceinstal_m",
+              "desc": "小米分期",
+              "detail": [
+                {
+                  "interest": "26.62",
+                  "rate": "2.22",
+                  "stage": 3,
+                  "stage_cost": "408.54",
+                  "stage_interest": "8.87",
+                  "total_cost": "1225.62"
+                },
+                {
+                  "interest": "46.76",
+                  "rate": "3.90",
+                  "stage": 6,
+                  "stage_cost": "207.62",
+                  "stage_interest": "7.79",
+                  "total_cost": "1245.76"
+                },
+                {
+                  "interest": "86.33",
+                  "rate": "7.20",
+                  "stage": 12,
+                  "stage_cost": "107.11",
+                  "stage_interest": "7.19",
+                  "total_cost": "1285.33"
+                }
+              ],
+              "title": "小米分期"
+            },
+            {
+              "bank": "antinstal_m",
+              "desc": "花呗分期",
+              "detail": [
+                {
+                  "interest": "27.58",
+                  "rate": "2.30",
+                  "stage": 3,
+                  "stage_cost": "408.85",
+                  "stage_interest": "9.19",
+                  "total_cost": "1226.58"
+                },
+                {
+                  "interest": "53.96",
+                  "rate": "4.50",
+                  "stage": 6,
+                  "stage_cost": "208.82",
+                  "stage_interest": "8.99",
+                  "total_cost": "1252.96"
+                },
+                {
+                  "interest": "89.92",
+                  "rate": "7.50",
+                  "stage": 12,
+                  "stage_cost": "107.40",
+                  "stage_interest": "7.49",
+                  "total_cost": "1288.92"
+                }
+              ],
+              "title": "花呗分期"
+            }
+          ]
+        },
+        "insurance": {
+          "list": [
+            {
+              "goods_id": "2174900021",
+              "image_url": "//i1.mifile.cn/a1/pms_1512813489.34425284.jpg",
+              "market_price": "59",
+              "name": "红米5 Plus  意外保障服务",
+              "price": "59",
+              "short_name": "红米5 Plus  意外保障服务",
+              "sku": "18076",
+              "type": "hm"
+            }
+          ]
+        },
+        "is_sale": true,
+        "is_show_reduce_price": false,
+        "is_stock": false,
+        "market_price": "1299",
+        "name": "红米5 Plus 移动4G+版 4GB+64GB 金色",
+        "price": "1199",
+        "prop_list": [
+          {
+            "prop_cfg_id": 164,
+            "prop_value_id": 643
+          },
+          {
+            "prop_cfg_id": 165,
+            "prop_value_id": 580
+          }
+        ],
+        "reduce_price": "直降100元",
+        "service_refound_policy": {
+          "desc": "支持7天无理由退货",
+          "is_support": true
+        },
+        "service_refound_policy_list": {
+          "list": [
+            {
+              "goods_id": 2174700054,
+              "img_url": "http://i8.mifile.cn/b2c-mimall-media/a32fabc4c2cecf39e88b9b018fb8d6ec.png",
+              "is_support": true,
+              "item_content": "7日内，无人为损坏，包装配件齐全，可以无理由退货。",
+              "item_id": 1,
+              "item_name": "7天无理由退货",
+              "sku": 17203
+            },
+            {
+              "goods_id": 2174700054,
+              "img_url": "http://i8.mifile.cn/b2c-mimall-media/1769a228b31fb6b994a77c4c4ca16448.png",
+              "is_support": true,
+              "item_content": "15日内，如出现功能性故障或商品质量问题，经小米公司授权服务商检测，确认属于非人为商品质量问题，我们将会为您免费更换。",
+              "item_id": 2,
+              "item_name": "15天质量问题换货",
+              "sku": 17203
+            },
+            {
+              "goods_id": 2174700054,
+              "img_url": "http://i8.mifile.cn/b2c-mimall-media/de2196c347411bab09e7e46e0df5c547.png",
+              "is_support": true,
+              "item_content": "1年内，如出现功能性故障或商品质量问题，经小米公司授权服务商检测，确认属于非人为商品质量问题，我们将会为您免费维修。",
+              "item_id": 3,
+              "item_name": "365天保修",
+              "sku": 17203
+            }
+          ],
+          "url": ""
+        },
+        "show_price_type": [],
+        "stock_channel": "3"
+      },
+      {
+        "action_button": {
+          "button_title": "加入购物车",
+          "is_bigtap": false,
+          "occ_timeout": 5000,
+          "sale_mode": "standard",
+          "use_occ": false
+        },
+        "address_type": "common",
+        "buy_limit": "2",
+        "commodity_id": 1174700093,
+        "goods_id": 2174700043,
+        "image_share": "http://i8.mifile.cn/b2c-mimall-media/4c696ad4eec876ad049a47c0f4b2a04b!144x1440.jpg",
+        "img_url": "//i8.mifile.cn/v1/a1/a92fdbbd-9ac8-3f6a-75a2-426d31ca3116!720x7200.webp",
+        "instalment": {
+          "default_instal": "mifinanceinstal_m",
+          "list": [
+            {
+              "bank": "mifinanceinstal_m",
+              "desc": "小米分期",
+              "detail": [
+                {
+                  "interest": "19.96",
+                  "rate": "2.22",
+                  "stage": 3,
+                  "stage_cost": "306.32",
+                  "stage_interest": "6.65",
+                  "total_cost": "918.96"
+                },
+                {
+                  "interest": "35.06",
+                  "rate": "3.90",
+                  "stage": 6,
+                  "stage_cost": "155.67",
+                  "stage_interest": "5.84",
+                  "total_cost": "934.06"
+                },
+                {
+                  "interest": "64.73",
+                  "rate": "7.20",
+                  "stage": 12,
+                  "stage_cost": "80.31",
+                  "stage_interest": "5.39",
+                  "total_cost": "963.73"
+                }
+              ],
+              "title": "小米分期"
+            },
+            {
+              "bank": "antinstal_m",
+              "desc": "花呗分期",
+              "detail": [
+                {
+                  "interest": "20.68",
+                  "rate": "2.30",
+                  "stage": 3,
+                  "stage_cost": "306.55",
+                  "stage_interest": "6.89",
+                  "total_cost": "919.68"
+                },
+                {
+                  "interest": "40.46",
+                  "rate": "4.50",
+                  "stage": 6,
+                  "stage_cost": "156.57",
+                  "stage_interest": "6.74",
+                  "total_cost": "939.46"
+                },
+                {
+                  "interest": "67.42",
+                  "rate": "7.50",
+                  "stage": 12,
+                  "stage_cost": "80.52",
+                  "stage_interest": "5.61",
+                  "total_cost": "966.42"
+                }
+              ],
+              "title": "花呗分期"
+            }
+          ]
+        },
+        "insurance": {
+          "list": [
+            {
+              "goods_id": "2174900021",
+              "image_url": "//i1.mifile.cn/a1/pms_1512813489.34425284.jpg",
+              "market_price": "59",
+              "name": "红米5 Plus  意外保障服务",
+              "price": "59",
+              "short_name": "红米5 Plus  意外保障服务",
+              "sku": "18076",
+              "type": "hm"
+            }
+          ]
+        },
+        "is_sale": true,
+        "is_show_reduce_price": false,
+        "is_stock": false,
+        "market_price": "999",
+        "name": "红米5 Plus 3GB+32GB 金色",
+        "price": "899",
+        "prop_list": [
+          {
+            "prop_cfg_id": 164,
+            "prop_value_id": 577
+          },
+          {
+            "prop_cfg_id": 165,
+            "prop_value_id": 580
+          }
+        ],
+        "reduce_price": "直降100元",
+        "service_bargins": [
+          {
+            "can_multi": true,
+            "service_info": [
+              {
+                "act_diff": "",
+                "act_id": "",
+                "act_price": "",
+                "goods_id": 2174700043,
+                "goods_name": "红米5 Plus 3GB+32GB 金色",
+                "item_id": "",
+                "phone_accidentIns": [
+                  {
+                    "desc": "保险条款",
+                    "url": "https://order.mi.com/static/jrUrl?url=https%3A%2F%2Fapi.jr.mi.com%2Finsurance%2Fdocument%2Fphone_accidentIns.html%3Ffrom%3Dins_phonedetail_bxtk%26insuranceSku%3D18076%26couponFrom%3Drule"
+                  },
+                  {
+                    "desc": "投保须知",
+                    "url": "https://order.mi.com/static/jrUrl?url=https%3A%2F%2Fapi.jr.mi.com%2Finsurance%2Fdocument%2Fphone_accidentIns.html%3Ffrom%3Dins_phonedetail_tbxz%26insuranceSku%3D18076%26couponFrom%3Dinstruction"
+                  },
+                  {
+                    "desc": "常见问题",
+                    "url": "https://order.mi.com/static/jrUrl?url=https%3A%2F%2Fapi.jr.mi.com%2Finsurance%2Fdocument%2Fphone_accidentIns.html%3Ffrom%3Dins_phonedetail_cjwt%26insuranceSku%3D18076%26couponFrom%3Dquestion"
+                  },
+                  {
+                    "desc": "客户告知",
+                    "url": "https://order.mi.com/static/jrUrl?url=https%3A%2F%2Fapi.jr.mi.com%2Finsurance%2Fdocument%2Fphone_accidentIns.html%3Ffrom%3Dlocal%26insuranceSku%3D18076%26couponFrom%3Dnotification"
+                  }
+                ],
+                "phone_accidentIns_sku": "18076",
+                "service_desc": "手机意外摔落/进水/碾压等损坏",
+                "service_goods_id": "2174900021",
+                "service_image_url": "//i1.mifile.cn/a1/pms_1512813489.34425284.jpg",
+                "service_name": "红米5 Plus 意外保障服务",
+                "service_price": "59",
+                "service_short_name": "意外保障服务",
+                "service_url": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-data-mishop/4a15d767c1fe.html",
+                "source": "common"
+              }
+            ],
+            "service_url": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-data-mishop/4a15d767c1fe.html",
+            "type_name": "保障服务"
+          }
+        ],
+        "service_refound_policy": {
+          "desc": "支持7天无理由退货",
+          "is_support": true
+        },
+        "service_refound_policy_list": {
+          "list": [
+            {
+              "goods_id": 2174700043,
+              "img_url": "http://i8.mifile.cn/b2c-mimall-media/a32fabc4c2cecf39e88b9b018fb8d6ec.png",
+              "is_support": true,
+              "item_content": "7日内，无人为损坏，包装配件齐全，可以无理由退货。",
+              "item_id": 1,
+              "item_name": "7天无理由退货",
+              "sku": 17195
+            },
+            {
+              "goods_id": 2174700043,
+              "img_url": "http://i8.mifile.cn/b2c-mimall-media/1769a228b31fb6b994a77c4c4ca16448.png",
+              "is_support": true,
+              "item_content": "15日内，如出现功能性故障或商品质量问题，经小米公司授权服务商检测，确认属于非人为商品质量问题，我们将会为您免费更换。",
+              "item_id": 2,
+              "item_name": "15天质量问题换货",
+              "sku": 17195
+            },
+            {
+              "goods_id": 2174700043,
+              "img_url": "http://i8.mifile.cn/b2c-mimall-media/de2196c347411bab09e7e46e0df5c547.png",
+              "is_support": true,
+              "item_content": "1年内，如出现功能性故障或商品质量问题，经小米公司授权服务商检测，确认属于非人为商品质量问题，我们将会为您免费维修。",
+              "item_id": 3,
+              "item_name": "365天保修",
+              "sku": 17195
+            }
+          ],
+          "url": ""
+        },
+        "show_price_type": [],
+        "stock_channel": "3"
+      },
+      {
+        "action_button": {
+          "button_title": "加入购物车",
+          "is_bigtap": false,
+          "occ_timeout": 5000,
+          "sale_mode": "standard",
+          "use_occ": false
+        },
+        "address_type": "common",
+        "buy_limit": "2",
+        "commodity_id": 1174700101,
+        "goods_id": 2174700051,
+        "image_share": "http://i8.mifile.cn/b2c-mimall-media/723987c49bdc277bb330ef540765e208!144x1440.jpg",
+        "img_url": "//i8.mifile.cn/v1/a1/bff920ec-553b-bb55-2fa1-90400e4d951c!720x7200.webp",
+        "instalment": {
+          "default_instal": "mifinanceinstal_m",
+          "list": [
+            {
+              "bank": "mifinanceinstal_m",
+              "desc": "小米分期",
+              "detail": [
+                {
+                  "interest": "26.62",
+                  "rate": "2.22",
+                  "stage": 3,
+                  "stage_cost": "408.54",
+                  "stage_interest": "8.87",
+                  "total_cost": "1225.62"
+                },
+                {
+                  "interest": "46.76",
+                  "rate": "3.90",
+                  "stage": 6,
+                  "stage_cost": "207.62",
+                  "stage_interest": "7.79",
+                  "total_cost": "1245.76"
+                },
+                {
+                  "interest": "86.33",
+                  "rate": "7.20",
+                  "stage": 12,
+                  "stage_cost": "107.11",
+                  "stage_interest": "7.19",
+                  "total_cost": "1285.33"
+                }
+              ],
+              "title": "小米分期"
+            },
+            {
+              "bank": "antinstal_m",
+              "desc": "花呗分期",
+              "detail": [
+                {
+                  "interest": "27.58",
+                  "rate": "2.30",
+                  "stage": 3,
+                  "stage_cost": "408.85",
+                  "stage_interest": "9.19",
+                  "total_cost": "1226.58"
+                },
+                {
+                  "interest": "53.96",
+                  "rate": "4.50",
+                  "stage": 6,
+                  "stage_cost": "208.82",
+                  "stage_interest": "8.99",
+                  "total_cost": "1252.96"
+                },
+                {
+                  "interest": "89.92",
+                  "rate": "7.50",
+                  "stage": 12,
+                  "stage_cost": "107.40",
+                  "stage_interest": "7.49",
+                  "total_cost": "1288.92"
+                }
+              ],
+              "title": "花呗分期"
+            }
+          ]
+        },
+        "insurance": {
+          "list": [
+            {
+              "goods_id": "2174900021",
+              "image_url": "//i1.mifile.cn/a1/pms_1512813489.34425284.jpg",
+              "market_price": "59",
+              "name": "红米5 Plus  意外保障服务",
+              "price": "59",
+              "short_name": "红米5 Plus  意外保障服务",
+              "sku": "18076",
+              "type": "hm"
+            }
+          ]
+        },
+        "is_sale": true,
+        "is_show_reduce_price": false,
+        "is_stock": true,
+        "market_price": "1299",
+        "name": "红米5 Plus 4GB+64GB 玫瑰金",
+        "price": "1199",
+        "prop_list": [
+          {
+            "prop_cfg_id": 164,
+            "prop_value_id": 578
+          },
+          {
+            "prop_cfg_id": 165,
+            "prop_value_id": 581
+          }
+        ],
+        "reduce_price": "直降100元",
+        "service_bargins": [
+          {
+            "can_multi": true,
+            "service_info": [
+              {
+                "act_diff": "",
+                "act_id": "",
+                "act_price": "",
+                "goods_id": 2174700051,
+                "goods_name": "红米5 Plus 4GB+64GB 玫瑰金",
+                "item_id": "",
+                "phone_accidentIns": [
+                  {
+                    "desc": "保险条款",
+                    "url": "https://order.mi.com/static/jrUrl?url=https%3A%2F%2Fapi.jr.mi.com%2Finsurance%2Fdocument%2Fphone_accidentIns.html%3Ffrom%3Dins_phonedetail_bxtk%26insuranceSku%3D18076%26couponFrom%3Drule"
+                  },
+                  {
+                    "desc": "投保须知",
+                    "url": "https://order.mi.com/static/jrUrl?url=https%3A%2F%2Fapi.jr.mi.com%2Finsurance%2Fdocument%2Fphone_accidentIns.html%3Ffrom%3Dins_phonedetail_tbxz%26insuranceSku%3D18076%26couponFrom%3Dinstruction"
+                  },
+                  {
+                    "desc": "常见问题",
+                    "url": "https://order.mi.com/static/jrUrl?url=https%3A%2F%2Fapi.jr.mi.com%2Finsurance%2Fdocument%2Fphone_accidentIns.html%3Ffrom%3Dins_phonedetail_cjwt%26insuranceSku%3D18076%26couponFrom%3Dquestion"
+                  },
+                  {
+                    "desc": "客户告知",
+                    "url": "https://order.mi.com/static/jrUrl?url=https%3A%2F%2Fapi.jr.mi.com%2Finsurance%2Fdocument%2Fphone_accidentIns.html%3Ffrom%3Dlocal%26insuranceSku%3D18076%26couponFrom%3Dnotification"
+                  }
+                ],
+                "phone_accidentIns_sku": "18076",
+                "service_desc": "手机意外摔落/进水/碾压等损坏",
+                "service_goods_id": "2174900021",
+                "service_image_url": "//i1.mifile.cn/a1/pms_1512813489.34425284.jpg",
+                "service_name": "红米5 Plus 意外保障服务",
+                "service_price": "59",
+                "service_short_name": "意外保障服务",
+                "service_url": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-data-mishop/4a15d767c1fe.html",
+                "source": "common"
+              }
+            ],
+            "service_url": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-data-mishop/4a15d767c1fe.html",
+            "type_name": "保障服务"
+          }
+        ],
+        "service_refound_policy": {
+          "desc": "支持7天无理由退货",
+          "is_support": true
+        },
+        "service_refound_policy_list": {
+          "list": [
+            {
+              "goods_id": 2174700051,
+              "img_url": "http://i8.mifile.cn/b2c-mimall-media/a32fabc4c2cecf39e88b9b018fb8d6ec.png",
+              "is_support": true,
+              "item_content": "7日内，无人为损坏，包装配件齐全，可以无理由退货。",
+              "item_id": 1,
+              "item_name": "7天无理由退货",
+              "sku": 17198
+            },
+            {
+              "goods_id": 2174700051,
+              "img_url": "http://i8.mifile.cn/b2c-mimall-media/1769a228b31fb6b994a77c4c4ca16448.png",
+              "is_support": true,
+              "item_content": "15日内，如出现功能性故障或商品质量问题，经小米公司授权服务商检测，确认属于非人为商品质量问题，我们将会为您免费更换。",
+              "item_id": 2,
+              "item_name": "15天质量问题换货",
+              "sku": 17198
+            },
+            {
+              "goods_id": 2174700051,
+              "img_url": "http://i8.mifile.cn/b2c-mimall-media/de2196c347411bab09e7e46e0df5c547.png",
+              "is_support": true,
+              "item_content": "1年内，如出现功能性故障或商品质量问题，经小米公司授权服务商检测，确认属于非人为商品质量问题，我们将会为您免费维修。",
+              "item_id": 3,
+              "item_name": "365天保修",
+              "sku": 17198
+            }
+          ],
+          "url": ""
+        },
+        "show_price_type": [],
+        "stock_channel": "3"
+      },
+      {
+        "action_button": {
+          "button_title": "加入购物车",
+          "is_bigtap": false,
+          "occ_timeout": 5000,
+          "sale_mode": "standard",
+          "use_occ": false
+        },
+        "address_type": "common",
+        "buy_limit": "2",
+        "commodity_id": 1174700094,
+        "goods_id": 2174700044,
+        "image_share": "http://i8.mifile.cn/b2c-mimall-media/5e9f7144b38602c2ed12b7b191d4be15!144x1440.jpg",
+        "img_url": "//i8.mifile.cn/v1/a1/fe813ef6-d187-ba5c-8bc6-c3edbead3f5e!720x7200.webp",
+        "instalment": {
+          "default_instal": "mifinanceinstal_m",
+          "list": [
+            {
+              "bank": "mifinanceinstal_m",
+              "desc": "小米分期",
+              "detail": [
+                {
+                  "interest": "19.96",
+                  "rate": "2.22",
+                  "stage": 3,
+                  "stage_cost": "306.32",
+                  "stage_interest": "6.65",
+                  "total_cost": "918.96"
+                },
+                {
+                  "interest": "35.06",
+                  "rate": "3.90",
+                  "stage": 6,
+                  "stage_cost": "155.67",
+                  "stage_interest": "5.84",
+                  "total_cost": "934.06"
+                },
+                {
+                  "interest": "64.73",
+                  "rate": "7.20",
+                  "stage": 12,
+                  "stage_cost": "80.31",
+                  "stage_interest": "5.39",
+                  "total_cost": "963.73"
+                }
+              ],
+              "title": "小米分期"
+            },
+            {
+              "bank": "antinstal_m",
+              "desc": "花呗分期",
+              "detail": [
+                {
+                  "interest": "20.68",
+                  "rate": "2.30",
+                  "stage": 3,
+                  "stage_cost": "306.55",
+                  "stage_interest": "6.89",
+                  "total_cost": "919.68"
+                },
+                {
+                  "interest": "40.46",
+                  "rate": "4.50",
+                  "stage": 6,
+                  "stage_cost": "156.57",
+                  "stage_interest": "6.74",
+                  "total_cost": "939.46"
+                },
+                {
+                  "interest": "67.42",
+                  "rate": "7.50",
+                  "stage": 12,
+                  "stage_cost": "80.52",
+                  "stage_interest": "5.61",
+                  "total_cost": "966.42"
+                }
+              ],
+              "title": "花呗分期"
+            }
+          ]
+        },
+        "insurance": {
+          "list": [
+            {
+              "goods_id": "2174900021",
+              "image_url": "//i1.mifile.cn/a1/pms_1512813489.34425284.jpg",
+              "market_price": "59",
+              "name": "红米5 Plus  意外保障服务",
+              "price": "59",
+              "short_name": "红米5 Plus  意外保障服务",
+              "sku": "18076",
+              "type": "hm"
+            }
+          ]
+        },
+        "is_sale": true,
+        "is_show_reduce_price": false,
+        "is_stock": false,
+        "market_price": "999",
+        "name": "红米5 Plus 3GB+32GB 浅蓝色",
+        "price": "899",
+        "prop_list": [
+          {
+            "prop_cfg_id": 164,
+            "prop_value_id": 577
+          },
+          {
+            "prop_cfg_id": 165,
+            "prop_value_id": 582
+          }
+        ],
+        "reduce_price": "直降100元",
+        "service_bargins": [
+          {
+            "can_multi": true,
+            "service_info": [
+              {
+                "act_diff": "",
+                "act_id": "",
+                "act_price": "",
+                "goods_id": 2174700044,
+                "goods_name": "红米5 Plus 3GB+32GB 浅蓝色",
+                "item_id": "",
+                "phone_accidentIns": [
+                  {
+                    "desc": "保险条款",
+                    "url": "https://order.mi.com/static/jrUrl?url=https%3A%2F%2Fapi.jr.mi.com%2Finsurance%2Fdocument%2Fphone_accidentIns.html%3Ffrom%3Dins_phonedetail_bxtk%26insuranceSku%3D18076%26couponFrom%3Drule"
+                  },
+                  {
+                    "desc": "投保须知",
+                    "url": "https://order.mi.com/static/jrUrl?url=https%3A%2F%2Fapi.jr.mi.com%2Finsurance%2Fdocument%2Fphone_accidentIns.html%3Ffrom%3Dins_phonedetail_tbxz%26insuranceSku%3D18076%26couponFrom%3Dinstruction"
+                  },
+                  {
+                    "desc": "常见问题",
+                    "url": "https://order.mi.com/static/jrUrl?url=https%3A%2F%2Fapi.jr.mi.com%2Finsurance%2Fdocument%2Fphone_accidentIns.html%3Ffrom%3Dins_phonedetail_cjwt%26insuranceSku%3D18076%26couponFrom%3Dquestion"
+                  },
+                  {
+                    "desc": "客户告知",
+                    "url": "https://order.mi.com/static/jrUrl?url=https%3A%2F%2Fapi.jr.mi.com%2Finsurance%2Fdocument%2Fphone_accidentIns.html%3Ffrom%3Dlocal%26insuranceSku%3D18076%26couponFrom%3Dnotification"
+                  }
+                ],
+                "phone_accidentIns_sku": "18076",
+                "service_desc": "手机意外摔落/进水/碾压等损坏",
+                "service_goods_id": "2174900021",
+                "service_image_url": "//i1.mifile.cn/a1/pms_1512813489.34425284.jpg",
+                "service_name": "红米5 Plus 意外保障服务",
+                "service_price": "59",
+                "service_short_name": "意外保障服务",
+                "service_url": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-data-mishop/4a15d767c1fe.html",
+                "source": "common"
+              }
+            ],
+            "service_url": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-data-mishop/4a15d767c1fe.html",
+            "type_name": "保障服务"
+          }
+        ],
+        "service_refound_policy": {
+          "desc": "支持7天无理由退货",
+          "is_support": true
+        },
+        "service_refound_policy_list": {
+          "list": [
+            {
+              "goods_id": 2174700044,
+              "img_url": "http://i8.mifile.cn/b2c-mimall-media/a32fabc4c2cecf39e88b9b018fb8d6ec.png",
+              "is_support": true,
+              "item_content": "7日内，无人为损坏，包装配件齐全，可以无理由退货。",
+              "item_id": 1,
+              "item_name": "7天无理由退货",
+              "sku": 17528
+            },
+            {
+              "goods_id": 2174700044,
+              "img_url": "http://i8.mifile.cn/b2c-mimall-media/1769a228b31fb6b994a77c4c4ca16448.png",
+              "is_support": true,
+              "item_content": "15日内，如出现功能性故障或商品质量问题，经小米公司授权服务商检测，确认属于非人为商品质量问题，我们将会为您免费更换。",
+              "item_id": 2,
+              "item_name": "15天质量问题换货",
+              "sku": 17528
+            },
+            {
+              "goods_id": 2174700044,
+              "img_url": "http://i8.mifile.cn/b2c-mimall-media/de2196c347411bab09e7e46e0df5c547.png",
+              "is_support": true,
+              "item_content": "1年内，如出现功能性故障或商品质量问题，经小米公司授权服务商检测，确认属于非人为商品质量问题，我们将会为您免费维修。",
+              "item_id": 3,
+              "item_name": "365天保修",
+              "sku": 17528
+            }
+          ],
+          "url": ""
+        },
+        "show_price_type": [],
+        "stock_channel": "3"
+      },
+      {
+        "action_button": {
+          "button_title": "加入购物车",
+          "is_bigtap": false,
+          "occ_timeout": 5000,
+          "sale_mode": "standard",
+          "use_occ": false
+        },
+        "address_type": "common",
+        "buy_limit": "2",
+        "commodity_id": 1174700102,
+        "goods_id": 2174700052,
+        "image_share": "http://i8.mifile.cn/b2c-mimall-media/5e9f7144b38602c2ed12b7b191d4be15!144x1440.jpg",
+        "img_url": "//i8.mifile.cn/v1/a1/fe813ef6-d187-ba5c-8bc6-c3edbead3f5e!720x7200.webp",
+        "instalment": {
+          "default_instal": "mifinanceinstal_m",
+          "list": [
+            {
+              "bank": "mifinanceinstal_m",
+              "desc": "小米分期",
+              "detail": [
+                {
+                  "interest": "26.62",
+                  "rate": "2.22",
+                  "stage": 3,
+                  "stage_cost": "408.54",
+                  "stage_interest": "8.87",
+                  "total_cost": "1225.62"
+                },
+                {
+                  "interest": "46.76",
+                  "rate": "3.90",
+                  "stage": 6,
+                  "stage_cost": "207.62",
+                  "stage_interest": "7.79",
+                  "total_cost": "1245.76"
+                },
+                {
+                  "interest": "86.33",
+                  "rate": "7.20",
+                  "stage": 12,
+                  "stage_cost": "107.11",
+                  "stage_interest": "7.19",
+                  "total_cost": "1285.33"
+                }
+              ],
+              "title": "小米分期"
+            },
+            {
+              "bank": "antinstal_m",
+              "desc": "花呗分期",
+              "detail": [
+                {
+                  "interest": "27.58",
+                  "rate": "2.30",
+                  "stage": 3,
+                  "stage_cost": "408.85",
+                  "stage_interest": "9.19",
+                  "total_cost": "1226.58"
+                },
+                {
+                  "interest": "53.96",
+                  "rate": "4.50",
+                  "stage": 6,
+                  "stage_cost": "208.82",
+                  "stage_interest": "8.99",
+                  "total_cost": "1252.96"
+                },
+                {
+                  "interest": "89.92",
+                  "rate": "7.50",
+                  "stage": 12,
+                  "stage_cost": "107.40",
+                  "stage_interest": "7.49",
+                  "total_cost": "1288.92"
+                }
+              ],
+              "title": "花呗分期"
+            }
+          ]
+        },
+        "insurance": {
+          "list": [
+            {
+              "goods_id": "2174900021",
+              "image_url": "//i1.mifile.cn/a1/pms_1512813489.34425284.jpg",
+              "market_price": "59",
+              "name": "红米5 Plus  意外保障服务",
+              "price": "59",
+              "short_name": "红米5 Plus  意外保障服务",
+              "sku": "18076",
+              "type": "hm"
+            }
+          ]
+        },
+        "is_sale": true,
+        "is_show_reduce_price": false,
+        "is_stock": true,
+        "market_price": "1299",
+        "name": "红米5 Plus 4GB+64GB 浅蓝色",
+        "price": "1199",
+        "prop_list": [
+          {
+            "prop_cfg_id": 164,
+            "prop_value_id": 578
+          },
+          {
+            "prop_cfg_id": 165,
+            "prop_value_id": 582
+          }
+        ],
+        "reduce_price": "直降100元",
+        "service_bargins": [
+          {
+            "can_multi": true,
+            "service_info": [
+              {
+                "act_diff": "",
+                "act_id": "",
+                "act_price": "",
+                "goods_id": 2174700052,
+                "goods_name": "红米5 Plus 4GB+64GB 浅蓝色",
+                "item_id": "",
+                "phone_accidentIns": [
+                  {
+                    "desc": "保险条款",
+                    "url": "https://order.mi.com/static/jrUrl?url=https%3A%2F%2Fapi.jr.mi.com%2Finsurance%2Fdocument%2Fphone_accidentIns.html%3Ffrom%3Dins_phonedetail_bxtk%26insuranceSku%3D18076%26couponFrom%3Drule"
+                  },
+                  {
+                    "desc": "投保须知",
+                    "url": "https://order.mi.com/static/jrUrl?url=https%3A%2F%2Fapi.jr.mi.com%2Finsurance%2Fdocument%2Fphone_accidentIns.html%3Ffrom%3Dins_phonedetail_tbxz%26insuranceSku%3D18076%26couponFrom%3Dinstruction"
+                  },
+                  {
+                    "desc": "常见问题",
+                    "url": "https://order.mi.com/static/jrUrl?url=https%3A%2F%2Fapi.jr.mi.com%2Finsurance%2Fdocument%2Fphone_accidentIns.html%3Ffrom%3Dins_phonedetail_cjwt%26insuranceSku%3D18076%26couponFrom%3Dquestion"
+                  },
+                  {
+                    "desc": "客户告知",
+                    "url": "https://order.mi.com/static/jrUrl?url=https%3A%2F%2Fapi.jr.mi.com%2Finsurance%2Fdocument%2Fphone_accidentIns.html%3Ffrom%3Dlocal%26insuranceSku%3D18076%26couponFrom%3Dnotification"
+                  }
+                ],
+                "phone_accidentIns_sku": "18076",
+                "service_desc": "手机意外摔落/进水/碾压等损坏",
+                "service_goods_id": "2174900021",
+                "service_image_url": "//i1.mifile.cn/a1/pms_1512813489.34425284.jpg",
+                "service_name": "红米5 Plus 意外保障服务",
+                "service_price": "59",
+                "service_short_name": "意外保障服务",
+                "service_url": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-data-mishop/4a15d767c1fe.html",
+                "source": "common"
+              }
+            ],
+            "service_url": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-data-mishop/4a15d767c1fe.html",
+            "type_name": "保障服务"
+          }
+        ],
+        "service_refound_policy": {
+          "desc": "支持7天无理由退货",
+          "is_support": true
+        },
+        "service_refound_policy_list": {
+          "list": [
+            {
+              "goods_id": 2174700052,
+              "img_url": "http://i8.mifile.cn/b2c-mimall-media/a32fabc4c2cecf39e88b9b018fb8d6ec.png",
+              "is_support": true,
+              "item_content": "7日内，无人为损坏，包装配件齐全，可以无理由退货。",
+              "item_id": 1,
+              "item_name": "7天无理由退货",
+              "sku": 17529
+            },
+            {
+              "goods_id": 2174700052,
+              "img_url": "http://i8.mifile.cn/b2c-mimall-media/1769a228b31fb6b994a77c4c4ca16448.png",
+              "is_support": true,
+              "item_content": "15日内，如出现功能性故障或商品质量问题，经小米公司授权服务商检测，确认属于非人为商品质量问题，我们将会为您免费更换。",
+              "item_id": 2,
+              "item_name": "15天质量问题换货",
+              "sku": 17529
+            },
+            {
+              "goods_id": 2174700052,
+              "img_url": "http://i8.mifile.cn/b2c-mimall-media/de2196c347411bab09e7e46e0df5c547.png",
+              "is_support": true,
+              "item_content": "1年内，如出现功能性故障或商品质量问题，经小米公司授权服务商检测，确认属于非人为商品质量问题，我们将会为您免费维修。",
+              "item_id": 3,
+              "item_name": "365天保修",
+              "sku": 17529
+            }
+          ],
+          "url": ""
+        },
+        "show_price_type": [],
+        "stock_channel": "3"
+      }
+    ],
+    "product_info": {
+      "activity_tips": {
+        "action": {
+          "log_code": "31wapproduct_pageholidaylabel000000#t=product\u0026act=other\u0026page=product_page\u0026bid=3260717.1\u0026pid=10000080",
+          "path": "10000091",
+          "type": "product"
+        },
+        "img_url": "https://i8.mifile.cn/b2c-mimall-media/9bddf0748f700cb631e62d06693590cc.jpg"
+      },
+      "is_batched": false,
+      "is_enable": true,
+      "name": "红米5 Plus",
+      "price_tips": {},
+      "product_desc": "\u003cfont color='#ff4a00'\u003e「32GB立减100元，64GB立减100元」\u003c/font\u003e全面屏 / 4000mAh大电量 / 前置柔光自拍 / 14nm骁龙八核处理器",
+      "product_gallery_icon": {},
+      "product_id": 10000080,
+      "share_content": ""
+    },
+    "seo": {
+      "description": "\u003cfont color='#ff4a00'\u003e「32GB立减100元，64GB立减100元」\u003c/font\u003e全面屏 / 4000mAh大电量 / 前置柔光自拍 / 14nm骁龙八核处理器",
+      "keywords": "红米5,Plus,4GB+64GB,黑色,3GB+32GB,移动4G+版,玫瑰金,金色,浅蓝色",
+      "title": "红米5 Plus"
+    },
+    "server_time": 1530012407,
+    "view_content": {
+      "commentView": {
+        "commentView": {
+          "detail": {
+            "comment_labels": null,
+            "comments_bad": 22,
+            "comments_general": 1129,
+            "comments_good": 43342,
+            "comments_total": 44493,
+            "five_star": 40712,
+            "four_star": 2630,
+            "one_star": 22,
+            "satisfy_per": "97.4",
+            "three_star": 715,
+            "two_star": 414
+          },
+          "list": [
+            {
+              "add_time": "2018-06-23",
+              "average_grade": 5,
+              "comment_content": "我的第六个小米手机，超级好用，一如既往的好，万能的客服妹子给我来首古风藏字诗————震昱叶青，么么哒！",
+              "comment_full_images": [
+                "//cdn.cnbj0.fds.api.mi-img.com/b2c-data-mishop/9c8ad6bd1e9920c1e8794fd53832a2f3.webp",
+                "//cdn.cnbj0.fds.api.mi-img.com/b2c-data-mishop/04012030515de3324e37cbf416d2fbf6.webp",
+                "//cdn.cnbj0.fds.api.mi-img.com/b2c-data-mishop/7968a30a640cc9d6dad22a94e9e83736.webp"
+              ],
+              "comment_grade": 1,
+              "comment_id": "156308817",
+              "comment_images": [
+                "//cdn.cnbj0.fds.api.mi-img.com/b2c-data-mishop/9c8ad6bd1e9920c1e8794fd53832a2f3.webp",
+                "//cdn.cnbj0.fds.api.mi-img.com/b2c-data-mishop/04012030515de3324e37cbf416d2fbf6.webp",
+                "//cdn.cnbj0.fds.api.mi-img.com/b2c-data-mishop/7968a30a640cc9d6dad22a94e9e83736.webp"
+              ],
+              "comment_title": "",
+              "down": false,
+              "down_num": 0,
+              "has_up_customer": false,
+              "is_top": "1",
+              "reply_content": "您是喜欢现代诗还是古代诗，五言的还是七言的，写景的还是抒情的~~随便挑，反正我都不会～(￣▽￣～)～ 感谢您对小米的支持。",
+              "reply_time": "2018-06-23",
+              "site_id": "101",
+              "site_name": "小米移动商城",
+              "up": false,
+              "up_customer_num": 44,
+              "up_num": 14,
+              "up_rate": 100,
+              "user_avatar": "//cdn.cnbj0.fds.api.mi-img.com/b2c-data-mishop/52cc4721e1eaed5af47af693906205c8.jpg",
+              "user_id": "863***401",
+              "user_name": "小四",
+              "user_reply_num": 0,
+              "user_replys": []
+            }
+          ],
+          "total": 44493
+        },
+        "viewType": "commentView"
+      },
+      "descTabsView": {
+        "descTabsView": [
+          {
+            "name": "概述",
+            "tabContent": [
+              {
+                "plainView": {
+                  "content": "",
+                  "img": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/132d7fd835bc740608b1abdfc4b764af.jpg?w=1080\u0026h=1911",
+                  "is_not_compress": "0",
+                  "title": ""
+                },
+                "viewType": "plainView"
+              },
+              {
+                "plainView": {
+                  "content": "",
+                  "img": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/a37ab041480008db081118abe18f6b36.jpg?w=1080\u0026h=1088",
+                  "is_not_compress": "0",
+                  "title": ""
+                },
+                "viewType": "plainView"
+              },
+              {
+                "plainView": {
+                  "content": "",
+                  "img": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/85d82b349239b92f4a7c5832a0252a40.jpg?w=1080\u0026h=1920",
+                  "is_not_compress": "0",
+                  "title": ""
+                },
+                "viewType": "plainView"
+              },
+              {
+                "plainView": {
+                  "content": "",
+                  "img": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/380ab3921fd22b0807ae620c0c2907cc.jpg?w=1080\u0026h=1921",
+                  "is_not_compress": "0",
+                  "title": ""
+                },
+                "viewType": "plainView"
+              },
+              {
+                "plainView": {
+                  "content": "",
+                  "img": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/b37b5a36f5503c0b09c551f242b8ab5d.jpg?w=1080\u0026h=1921",
+                  "is_not_compress": "0",
+                  "title": ""
+                },
+                "viewType": "plainView"
+              },
+              {
+                "plainView": {
+                  "content": "",
+                  "img": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/7372145eaec2e3d62fe50c67fe68d7dd.jpg?w=1080\u0026h=1920",
+                  "is_not_compress": "0",
+                  "title": ""
+                },
+                "viewType": "plainView"
+              },
+              {
+                "plainView": {
+                  "content": "",
+                  "img": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/722cfb550bbca5a50e397b2dc4b0c9a5.jpg?w=1080\u0026h=1919",
+                  "is_not_compress": "0",
+                  "title": ""
+                },
+                "viewType": "plainView"
+              },
+              {
+                "plainView": {
+                  "content": "",
+                  "img": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/1113bbaf362b2933443b7adf1ea0c8c2.jpg?w=1080\u0026h=835",
+                  "is_not_compress": "0",
+                  "title": ""
+                },
+                "viewType": "plainView"
+              },
+              {
+                "plainView": {
+                  "content": "",
+                  "img": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/6cf16592a0342651bfe15f790d2f8f15.jpg?w=1080\u0026h=738",
+                  "is_not_compress": "0",
+                  "title": ""
+                },
+                "viewType": "plainView"
+              },
+              {
+                "plainView": {
+                  "content": "",
+                  "img": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/77a71c234eac3560de6697b095351815.jpg?w=1080\u0026h=1920",
+                  "is_not_compress": "0",
+                  "title": ""
+                },
+                "viewType": "plainView"
+              },
+              {
+                "plainView": {
+                  "content": "",
+                  "img": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/1f2bce2b44091eeaca9c53b1b39e5939.jpg?w=1080\u0026h=787",
+                  "is_not_compress": "0",
+                  "title": ""
+                },
+                "viewType": "plainView"
+              },
+              {
+                "plainView": {
+                  "content": "",
+                  "img": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/4c3ebf508958670985da757f2f25f821.jpg?w=1080\u0026h=1134",
+                  "is_not_compress": "0",
+                  "title": ""
+                },
+                "viewType": "plainView"
+              },
+              {
+                "plainView": {
+                  "content": "",
+                  "img": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/6d73493081479f99de96163c6aefa95f.jpg?w=1080\u0026h=1918",
+                  "is_not_compress": "0",
+                  "title": ""
+                },
+                "viewType": "plainView"
+              },
+              {
+                "plainView": {
+                  "content": "",
+                  "img": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/ad3f67e94762c77e875ed3f55c297c6b.jpg?w=1080\u0026h=1444",
+                  "is_not_compress": "0",
+                  "title": ""
+                },
+                "viewType": "plainView"
+              }
+            ]
+          },
+          {
+            "name": "参数",
+            "tabContent": [
+              {
+                "plainView": {
+                  "content": "",
+                  "img": "//i8.mifile.cn/v1/a1/2416ceb1-7e8f-3675-5b2a-d9d6b22ffd4a.webp?w=1080\u0026h=2202",
+                  "is_not_compress": "0",
+                  "title": ""
+                },
+                "viewType": "plainView"
+              },
+              {
+                "plainView": {
+                  "content": "",
+                  "img": "//i8.mifile.cn/v1/a1/b619c166-123a-ac03-4af5-15302be73bf9.webp?w=1080\u0026h=1399",
+                  "is_not_compress": "0",
+                  "title": ""
+                },
+                "viewType": "plainView"
+              },
+              {
+                "plainView": {
+                  "content": "",
+                  "img": "//i8.mifile.cn/v1/a1/43791ee4-7826-d31e-5385-a05809c23f91.webp?w=1080\u0026h=1886",
+                  "is_not_compress": "0",
+                  "title": ""
+                },
+                "viewType": "plainView"
+              },
+              {
+                "plainView": {
+                  "content": "",
+                  "img": "//i8.mifile.cn/v1/a1/683691ad-10e1-3a58-5804-fbf97cd73481.webp?w=1080\u0026h=1791",
+                  "is_not_compress": "0",
+                  "title": ""
+                },
+                "viewType": "plainView"
+              },
+              {
+                "plainView": {
+                  "content": "",
+                  "img": "//i8.mifile.cn/v1/a1/47b0bc5d-e624-ca17-e988-ee98b575ba75.webp?w=1080\u0026h=2201",
+                  "is_not_compress": "0",
+                  "title": ""
+                },
+                "viewType": "plainView"
+              },
+              {
+                "plainView": {
+                  "content": "",
+                  "img": "//i8.mifile.cn/v1/a1/960951d8-3cae-f962-112e-740c14b0fbe5.webp?w=1080\u0026h=1485",
+                  "is_not_compress": "0",
+                  "title": ""
+                },
+                "viewType": "plainView"
+              },
+              {
+                "plainView": {
+                  "content": "",
+                  "img": "//i8.mifile.cn/v1/a1/b6658b14-af5d-c5eb-cce2-cd9895be48a5.webp?w=1080\u0026h=1159",
+                  "is_not_compress": "0",
+                  "title": ""
+                },
+                "viewType": "plainView"
+              },
+              {
+                "plainView": {
+                  "content": "",
+                  "img": "//i8.mifile.cn/v1/a1/31ebba44-6f68-5430-0bf6-1667c6cd6372.webp?w=1080\u0026h=1277",
+                  "is_not_compress": "0",
+                  "title": ""
+                },
+                "viewType": "plainView"
+              },
+              {
+                "plainView": {
+                  "content": "",
+                  "img": "//i8.mifile.cn/v1/a1/64cd91ce-5866-a39e-7f8d-42cf9a53453d.webp?w=1080\u0026h=1626",
+                  "is_not_compress": "0",
+                  "title": ""
+                },
+                "viewType": "plainView"
+              }
+            ]
+          }
+        ],
+        "viewType": "descTabsView"
+      },
+      "galleryView": {
+        "galleryMediaView": {
+          "is_front": false,
+          "list": [
+            {
+              "img_url": "//i8.mifile.cn/v1/a1/dbed9798-2cab-1e5c-d28d-f83468567cec.webp",
+              "img_url_webp": "",
+              "middle_img_url": "//i8.mifile.cn/v1/a1/b2c6723b-fac4-e4ba-06df-8e735461bd01.webp",
+              "middle_img_url_webp": "",
+              "small_img_url": "//i8.mifile.cn/v1/a1/7b6ef14f-5468-b181-e5c9-226cbb26cd45.webp",
+              "small_img_url_webp": "",
+              "video_url": "//v.mifile.cn/b2c-mimall-media/d640fc4cf81de04c79489dd267f9f182.mp4",
+              "view_type": "videoView"
+            }
+          ]
+        },
+        "galleryView": [
+          "//i8.mifile.cn/v1/a1/2af7bc21-ce55-b992-788e-c8c42792f772.webp?bg=CED1BE",
+          "//i8.mifile.cn/v1/a1/d108bc58-3f1f-3a13-9213-ba2627e00a14.webp?bg=90998E",
+          "//i8.mifile.cn/v1/a1/c66b6801-f13a-07c7-97b6-361ade5f4a32.webp?bg=CCCABD",
+          "//i8.mifile.cn/v1/a1/e4be781a-ced3-3b5c-ba53-6e24d060205d.webp?bg=B0CBCA",
+          "//i8.mifile.cn/v1/a1/7a31a09f-2796-7c5d-dd1e-50b3fa01e57c.webp?bg=C2C5BE"
+        ],
+        "viewType": "galleryView"
+      },
+      "relatePackageView": {
+        "relatePackageView": {
+          "packages": [],
+          "title": "精选套餐"
+        },
+        "viewType": "relatePackageView"
+      },
+      "relatePartsView": {
+        "relatePartsView": {
+          "desc": "",
+          "parts": [],
+          "title": "配件"
+        },
+        "viewType": "relatePartsView"
+      },
+      "titleView": {
+        "titleView": {
+          "adapt": [],
+          "brief": "",
+          "canJoinActs": [
+            {
+              "title": "赠米粉卡",
+              "type": "gift",
+              "type_desc": "赠品"
+            }
+          ],
+          "market_price": "1299",
+          "name": "红米5 Plus",
+          "price": "1199",
+          "product_desc": "\u003cfont color='#ff4a00'\u003e「32GB立减100元，64GB立减100元」\u003c/font\u003e全面屏 / 4000mAh大电量 / 前置柔光自拍 / 14nm骁龙八核处理器",
+          "share_content": ""
+        },
+        "viewType": "titleView"
+      }
+    }
+  }
+}

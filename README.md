@@ -16,11 +16,6 @@
 
 ## 参考文章
 
-### 滚动
-
-[滑向未来（现代 JavaScript 与 CSS 滚动实现指南）](https://www.zcfy.cc/article/scroll-to-the-future)</br>
-[better-scroll移动端滚动插件](https://ustbhuangyi.github.io/better-scroll/doc/zh-hans/)
-
 ### VUE
 
 [VUE文档](https://cn.vuejs.org/v2/api/)</br>
@@ -32,6 +27,12 @@
 
 ### 算法
 [Sku 多维属性状态判断算法](https://juejin.im/entry/5868655861ff4b0057774be7)
+
+### 滚动
+
+[滑向未来（现代 JavaScript 与 CSS 滚动实现指南）](https://www.zcfy.cc/article/scroll-to-the-future)</br>
+[better-scroll移动端滚动插件](https://ustbhuangyi.github.io/better-scroll/doc/zh-hans/)</br>
+[移动端滚动穿透问题完美解决方案](https://segmentfault.com/a/1190000005617307)</br>
 
 
 ## Build Setup

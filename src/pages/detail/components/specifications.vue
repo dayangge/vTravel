@@ -57,15 +57,19 @@
           <div class="calc-info">
             <div class="option-title border-bottom">购买数量</div>
             <div class="xm-input-number">
-              <div class="input-sub"><i class="icon-line"></i></div>
-              <div class="input-num"><span>1</span></div>
-              <div class="input-add active"><i class="image-icons icon-cross"></i>
+              <div class="input-sub" @click="reducePurchaseNum"
+                   :class="{'active':purchaseNum > 1}"
+              ><i class="icon-line" :class="{'on':purchaseNum > 1}"></i></div>
+              <div class="input-num"><span>{{purchaseNum}}</span></div>
+              <div class="input-add"  @click="addPurchaseNum"
+                   :class="{'active':purchaseNum < limitNum}"
+              ><i class="image-icons icon-cross" :class="{'on':purchaseNum < limitNum}" ></i>
               </div>
             </div>
           </div>
 
           <div class="btn-bottom">
-            <div class="action-box ">
+            <div class="action-box " @clcik="addShopCart">
               <a class="btn buy-btn">加入购物车</a>
             </div>
           </div>
@@ -98,7 +102,9 @@ export default {
       originGoodsBuyOption2: [],
       prop_value_id1: '',
       prop_value_id2: '',
-      currentGoods: ''
+      currentGoods: '',
+      purchaseNum: 1,
+      limitNum: 2
     }
   },
   mounted () {
@@ -131,6 +137,7 @@ export default {
         this.prop_value_id1 = this.currentGoods.prop_list[0].prop_value_id
         this.prop_value_id2 = this.currentGoods.prop_list[1].prop_value_id
         //  console.log(this.selectGroup1, this.selectGroup2, this.prop_value_id1, this.prop_value_id2)
+        this.limitNum = this.currentGoods.buy_limit
       }
     },
     selectSKUModel (item) {
@@ -157,8 +164,27 @@ export default {
         if (this.prop_value_id1 === this.goodsInfo[i].prop_list[0].prop_value_id &&
           this.prop_value_id2 === this.goodsInfo[i].prop_list[1].prop_value_id) {
           this.currentGoods = this.goodsInfo[i]
+          this.limitNum = this.currentGoods.buy_limit
+          this.purchaseNum = 1
         }
       }
+    },
+    addPurchaseNum () {
+      if (this.purchaseNum >= this.limitNum) {
+        this.purchaseNum = this.limitNum
+      } else {
+        this.purchaseNum += 1
+      }
+    },
+    reducePurchaseNum () {
+      if (this.purchaseNum) {
+        this.purchaseNum = 1
+      } else {
+        this.purchaseNum = 1
+      }
+    },
+    addShopCart () {
+
     }
   },
   watch: {
@@ -212,7 +238,6 @@ export default {
         overflow: hidden;
         text-overflow: ellipsis;
         line-height: .4rem;
-
   .ui-mask
     background-color: rgba(0, 0, 0, .75);
     position: fixed;
@@ -375,6 +400,8 @@ export default {
             vertical-align: middle;
             background-color: #fafafa;
             text-align: center;
+            &.active
+              background-color: #f4f4f4;
             .icon-line
               opacity: .3;
               width: .6rem;
@@ -387,6 +414,8 @@ export default {
               position: absolute
               left 0
               top: 0
+              &.on
+                opacity 1
           .input-num
             display: inline-block;
             vertical-align: middle;
@@ -402,6 +431,8 @@ export default {
             vertical-align: middle;
             background-color: #fafafa;
             text-align: center;
+            &.active
+              background-color: #f4f4f4
             .icon-cross
               opacity: .3;
               width: .6rem;
@@ -414,6 +445,8 @@ export default {
               position: absolute
               left 0
               top: 0
+              &.on
+                opacity 1
     .btn-bottom
       position: absolute;
       bottom: 0;

@@ -37,6 +37,7 @@ export default {
     }
   },
   computed: {
+    // 时间长不看了，这玩意是啥。。。
     ...mapState(['city'])
   },
   mounted () {
@@ -46,6 +47,7 @@ export default {
   watch: {
     '$route' (to, from) {
       const pathArr = ['recommend', 'phone', 'smart', 'tv', 'pc', 'full', 'life', 'box']
+      // 偷懒了，这么写不对。。。
       const toDepth = pathArr.indexOf(to.path.split('/')[1])
       const fromDepth = pathArr.indexOf(from.path.split('/')[1])
       // console.log(toDepth, fromDepth)

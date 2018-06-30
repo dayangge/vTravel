@@ -21,7 +21,7 @@ export default {
   text-align: center;
   color: #3c3c3c;
   user-select: none;
-  touch-action: manipulation;//
+  touch-action: manipulation;
   -webkit-text-size-adjust: none;
   text-size-adjust: none;
   height: 100%;

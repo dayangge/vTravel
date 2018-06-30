@@ -3,18 +3,18 @@
     <div v-for="(item, index) of list" :key="index">
       <div class="banner" v-if="item.view_type === 'gallery'">
         <div class="swiper"
-             :style="{width:(item.body.items[0].w/100 + 'rem'),height:item.body.items[0].h/100 + 'rem'}">
+             :style="{width:(item.body.items[0].w/96 + 'rem'),height:item.body.items[0].h/96 + 'rem'}">
           <img :src="item.body.items[0].img_url" alt="">
         </div>
       </div>
       <div class="divider_line" v-if="item.view_type === 'divider_line'"
-           :style="{height:(item.body.line_height/150 + 'rem'),backgroundColor:item.body.line_color,borderBottomColor:item.body.line_color,borderBottomWidth:(item.body.line_height/150 + 'rem') }"
+           :style="{height:(item.body.line_height/144 + 'rem'),backgroundColor:item.body.line_color,borderBottomColor:item.body.line_color,borderBottomWidth:(item.body.line_height/144 + 'rem') }"
       >
       </div>
       <div class="cells_auto_fill" v-if="item.view_type === 'cells_auto_fill'">
         <div v-for="(innerItem,innerIndex) of item.body.items" :key="innerIndex" class="cells-box">
         <img v-lazy="innerItem.img_url" class="cell-img"
-             :style="{width:(innerItem.w/100 + 'rem'),height:innerItem.h/100 + 'rem'}">
+             :style="{width:(innerItem.w/96 + 'rem'),height:innerItem.h/96 + 'rem'}">
         </div>
       </div>
 

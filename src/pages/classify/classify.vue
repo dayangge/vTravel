@@ -71,13 +71,17 @@ export default {
       currentIndex: 0
     }
   },
+  created () {
+    this.leftWrapHeight = 0
+  },
   mounted () {
     this.getClassifyInfo()
-    this.$nextTick(() => {
+  },
+  updated () {
+    if (this.listHeight.length === 0) {
       this._calcHeight()
       this._initScroll()
     }
-    )
   },
   methods: {
     getClassifyInfo () {
@@ -85,7 +89,6 @@ export default {
         .then(this.handleGetCategroyInfoSucc)
     },
     _initScroll () {
-      console.log(this.$refs.rightWrap)
       this.scroll = new BScroll(this.$refs.rightWrap, {
         probeType: 3,
         click: true
@@ -103,7 +106,14 @@ export default {
     },
     _calcHeight () {
       this.listHeight = []
-      const list = this.$refs.listItem
+      this.leftWrapHeight = this.$refs.leftWrap.clientHeight
+      console.log(this.leftWrapHeight)
+      // 这块卡了好久，咋回事呢？
+      // 在mmounted获取不到this.$refs内的数组dom，在updated可以
+      // 这问题卡了2天，mmp
+      let list = []
+      list = this.$refs['listItem']
+      console.log(this.$refs)
       console.log(list)
       let height = 0
       this.listHeight.push(height)
@@ -127,7 +137,6 @@ export default {
     },
     handleGetCategroyInfoSucc (res) {
       res = res.data
-      console.log(res)
       if (res.code === 0 && res.data) {
         const data = res.data
         this.rightList = data

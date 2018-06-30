@@ -2,16 +2,45 @@
 
 > A Vue.js project
 
-写这个项目主要是熟悉vue的各项操作以及vue-rotuer和vuex的使用。
+该项目为手机商城，整体ui仿照小米商城手机端，数据是扒的小米商城的json，不是一个纯粹的商城项目。主要目的是要熟练一下vue以及相关插件的使用，所以做这个项目查看了很多相关资料。
+说一下感想：
+在几个月前，我对于自己能用vue做出一个完整的商城还是不敢想象的，之前的工作也接触vue也比较少（老夫就用jquery！）。但是看到了很多没毕业的童鞋做出了一个又一个比较完整的项目，我感觉，我前端算是白干了。想在想起来，还真是白干了。作为一个积极废人，克服这种现状的办法就是：做就完了！我就从一个简单的单页面，慢慢迭代到现在说的20多个页面的项目。做到现在，感觉，其实很多东西不难，就是你把它想的难了。任何东西分解成小目标都是很好克服的。之前让我用vue放个小米商城，对我来说那是不可能完成的任务，但是还是那句话：如果你想做点什么，那做就完了。
 
+不会的东西有很多，但是老子学不动了，是不存在的。。。扶我起来，我还能学！
+现在还是在一点点扩展，不会就查。
 
-一点点扩展，填坑.
 
 
 下面是项目截图。
+首页
 
-![2](https://bolg-1.oss-cn-hangzhou.aliyuncs.com/18.04.22.2.gif)
+![1](https://bolg-1.oss-cn-hangzhou.aliyuncs.com/18.06.29.01.png)
+![2](https://bolg-1.oss-cn-hangzhou.aliyuncs.com/18.06.29.02.png)<br>
+![3](https://bolg-1.oss-cn-hangzhou.aliyuncs.com/18.06.29.03.png)
+![4](https://bolg-1.oss-cn-hangzhou.aliyuncs.com/18.06.29.04.png)<br>
 
+![5](https://bolg-1.oss-cn-hangzhou.aliyuncs.com/18.06.29.05.png)<br>
+
+分类页面
+
+![6](https://bolg-1.oss-cn-hangzhou.aliyuncs.com/18.06.29.06.png)<br>
+
+详情页面
+
+![7](https://bolg-1.oss-cn-hangzhou.aliyuncs.com/18.06.29.07.png)
+![8](https://bolg-1.oss-cn-hangzhou.aliyuncs.com/18.06.29.08.png)<br>
+
+![9](https://bolg-1.oss-cn-hangzhou.aliyuncs.com/18.06.29.09.png)
+![10](https://bolg-1.oss-cn-hangzhou.aliyuncs.com/18.06.29.10.png)<br>
+
+选择区域
+
+![11](https://bolg-1.oss-cn-hangzhou.aliyuncs.com/18.06.29.11.png)<br>
+
+部分效果截图
+
+![12](https://bolg-1.oss-cn-hangzhou.aliyuncs.com/18.04.22.2.gif)
+![13](https://bolg-1.oss-cn-hangzhou.aliyuncs.com/18.06.29.13.gif)<br>
 
 
 ## 参考文章

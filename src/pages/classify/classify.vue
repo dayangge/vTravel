@@ -107,14 +107,11 @@ export default {
     _calcHeight () {
       this.listHeight = []
       this.leftWrapHeight = this.$refs.leftWrap.clientHeight
-      console.log(this.leftWrapHeight)
       // 这块卡了好久，咋回事呢？
       // 在mmounted获取不到this.$refs内的数组dom，在updated可以
       // 这问题卡了2天，mmp
       let list = []
       list = this.$refs['listItem']
-      console.log(this.$refs)
-      console.log(list)
       let height = 0
       this.listHeight.push(height)
       for (let i = 0; i < list.length; i++) {

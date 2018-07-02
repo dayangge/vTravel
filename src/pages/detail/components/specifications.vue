@@ -69,7 +69,7 @@
           </div>
 
           <div class="btn-bottom">
-            <div class="action-box " @clcik="addShopCart">
+            <div class="action-box " @click.stop="addShopCart">
               <a class="btn buy-btn">加入购物车</a>
             </div>
           </div>
@@ -83,6 +83,8 @@
 <script>
 import upSlide from '../../../common/upSlide/upSlide'
 import {to, getScrollTop} from '../../../common/js/util'
+import modal from '../../../common/modal/modal'
+
 import axios from 'axios'
 
 let scrollTop = 0
@@ -96,6 +98,7 @@ export default {
   data () {
     return {
       isShow: false,
+      modalShow: false,
       goodsInfo: [],
       goodsBuyOption1: [],
       goodsBuyOption2: [],
@@ -184,7 +187,11 @@ export default {
       }
     },
     addShopCart () {
-
+      this.maskHide()
+      this.$tip({
+        duration: 1000,
+        message: '加入购物车成功'
+      })
     }
   },
   watch: {
@@ -206,7 +213,8 @@ export default {
     }
   },
   components: {
-    upSlide
+    upSlide,
+    modal
   }
 }
 </script>

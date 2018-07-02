@@ -1,17 +1,19 @@
 <template>
-  <footer >
-    <div class="footer-box">
-      <a href="/" class="footer-btn router-link-active">
-        <i class="icon-home"></i>
-        <span >首页</span></a>
-      <a class="footer-btn">
-        <i class="icon-cart"></i>
-        <span >购物车</span></a>
-      <div class="action-box" @click="add">
-        <a class="buy">加入购物车</a>
+  <div>
+    <footer >
+      <div class="footer-box">
+        <a href="/" class="footer-btn router-link-active">
+          <i class="icon-home"></i>
+          <span >首页</span></a>
+        <a class="footer-btn">
+          <i class="icon-cart"></i>
+          <span >购物车</span></a>
+        <div class="action-box" @click="add">
+          <a class="buy">加入购物车</a>
+        </div>
       </div>
-    </div>
-  </footer>
+    </footer>
+  </div>
 </template>
 
 <script>

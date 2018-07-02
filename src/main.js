@@ -11,6 +11,7 @@ import store from './store/index'
 import './assets/styles/iconfont.css'
 import 'swiper/dist/css/swiper.css'
 import 'babel-polyfill'
+import Tip from './common/modal/tip'
 import VueLazyLoad from 'vue-lazyload'
 
 Vue.config.productionTip = false
@@ -19,6 +20,7 @@ Vue.use(VueLazyLoad, {
   loading: '../static/img/load-img/Dual Ring-1s-200px.svg'
 })
 Vue.use(VueAwesomeSwiper)
+Vue.use(Tip)
 
 /* eslint-disable no-new */
 new Vue({

@@ -6,7 +6,7 @@
   </div>
 </template>
 <script>
-import {mapMutations, mapGetters} from 'vuex'
+import {mapMutations, mapState} from 'vuex'
 import header from '../../common/pages-header/header'
 import footer from '../footer-bar/footer'
 export default {
@@ -17,51 +17,18 @@ export default {
     }
   },
   computed: {
-    carts () {
-      return this.$store.state.carts
-    },
-    ...mapGetters(['this.$store.state.carts']),
-    sum: function () {
-      var sum = 0
-      this.$store.state.carts.forEach(cart => {
-        if (cart.danx1uan) {
-          sum += cart.price * cart.value
-        }
-      })
-      return sum
-    },
-    sumValue () {
-      var sumValue = 0
-      this.$store.state.carts.forEach(cart => {
-        if (cart.danx1uan) {
-          sumValue += parseInt(cart.value)
-        }
-      })
-      return sumValue
-    }
+    ...mapState([
+      'carts'
+      // vuex映射
+    ])
   },
   methods: {
-    ...mapMutations(['shanchu', 'add', 'reduce', 'settlement']),
-
-    danxuan (cart) {
-      console.log(cart)
-      cart.danx1uan = !cart.danx1uan
-      if (!cart.danx1uan) {
-        this.qx = false
-      }
-    },
-    quanxuan () {
-      this.qx = !this.qx
-      if (this.qx) {
-        this.$store.state.carts.forEach(cart => {
-          cart.danx1uan = true
-        })
-      } else {
-        this.$store.state.carts.forEach(cart => {
-          cart.danx1uan = false
-        })
-      }
-    }
+    ...mapMutations({
+      delGoods: 'DEL_CARTS',
+      addGoodsNum: 'ADD_CARTS_NUM',
+      reduceGoodsNum: 'REDUCE_CARTS_NUM'
+    })
+    // this.$store.commit('changeCity', city)映射到changeCity上
   },
   components: {
     'c-header': header,

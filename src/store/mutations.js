@@ -12,24 +12,32 @@ const matutaions = {
     state.currentPageIndex = index
   },
   //  购物车
-  [type.SET_CARTS] (state, data) {
+  [type.ADD_CARTS] (state, data) {
     state.carts.push(data)
-    localStorage.setItem('carts', JSON.stringify(state.carts))
+    console.log('vuex' + state.carts[0].goodsNum)
+  },
+  //  购物车删除state
+  [type.DEL_CARTS] (state, index) {
+    state.carts[index].splice(index, 1)
+  },
+  [type.ADD_CARTS_NUM] (state, payload) {
+    state.carts[payload.index].goodsNum += payload.num
+    console.log('vuex' + state.carts[payload.index].goodsNum)
+  },
+  [type.REDUCE_CARTS_NUM] (state, payload) {
+    state.carts[payload.index].goodsNum -= payload.num
   },
   // 文章
   [type.SET_ARTICLE] (state, data) {
     state.article.push(data)
-    localStorage.setItem('article', JSON.stringify(state.article))
   },
   // 商品
   [type.SET_GOODS] (state, data) {
     state.collections.push(data)
-    localStorage.setItem('collections', JSON.stringify(state.collections))
   },
   // 订单
   [type.SET_ORDERS] (state, data) {
     state.orders.push(data)
-    localStorage.setItem('orders', JSON.stringify(state.orders))
   },
   // 地址
   [type.SET_ADDRESS] (state, data) {

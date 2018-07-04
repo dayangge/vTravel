@@ -1,4 +1,8 @@
-export const SET_CARTS = 'SET_CARTS'
+export const ADD_CARTS = 'ADD_CARTS'
+export const DEL_CARTS = 'DEL_CARTS'
+export const ADD_CARTS_NUM = 'ADD_CARTS_NUM'
+
+export const REDUCE_CARTS_NUM = 'REDUCE_CARTS_NUM'
 // 加入购物车
 export const SET_ARTICLE = 'SET_ARTICLE'
 // 文章收藏

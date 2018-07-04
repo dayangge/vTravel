@@ -60,6 +60,7 @@ sku选择
 [VUEX](https://vuex.vuejs.org/zh/)</br>
 [Vue.js 使用 $refs 定位 DOM 出现 undefined](https://www.jianshu.com/p/090937a480b5)</br>
 [借助axios的拦截器实现Vue.js中登陆状态校验的思路](http://www.imooc.com/article/25167)</br>
+[从概念到实际项目__vuex指北](https://juejin.im/post/5b2fbb47e51d45589e7bd727)
 
 ### 布局
 [flex布局](http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html)

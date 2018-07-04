@@ -84,6 +84,7 @@
 import upSlide from '../../../common/upSlide/upSlide'
 import {to, getScrollTop} from '../../../common/js/util'
 import modal from '../../../common/modal/modal'
+import {mapState, mapMutations} from 'vuex'
 
 import axios from 'axios'
 
@@ -107,7 +108,8 @@ export default {
       prop_value_id2: '',
       currentGoods: '',
       purchaseNum: 1,
-      limitNum: 2
+      limitNum: 2,
+      msg: ''
     }
   },
   mounted () {
@@ -131,6 +133,10 @@ export default {
       res = res.data
       if (res.code === 0 && res.data) {
         const data = res.data
+        for (let i = 0; i < data.goods_info.length; i++) {
+          // data.goods_info[i].goodsNum = 0
+          data.goods_info[i] = { ...data.goods_info[i], goodsNum: 0 }
+        }
         this.goodsInfo = data.goods_info
         this.goodsBuyOption1 = data.buy_option[0].list
         this.goodsBuyOption2 = data.buy_option[1].list
@@ -186,13 +192,56 @@ export default {
         this.purchaseNum = 1
       }
     },
+    ...mapMutations({
+      addCarts: 'ADD_CARTS',
+      addCartsNum: 'ADD_CARTS_NUM',
+      reduceCartsNum: 'REDUCE_CARTS_NUM'
+    }),
     addShopCart () {
+      let _self = this
+      // 指向VUE实例
       this.maskHide()
+      this.currentGoods.goodsNum = this.purchaseNum
+      let goodsID = this.currentGoods.goods_id
+      let goodsNum = this.currentGoods.goodsNum
+      let flag = this.carts.some(function (item) {
+        return item.goods_id === goodsID
+      })
+      if (!flag) {
+        // 粗心大意的问题，对象一定要复制一个再用！
+        let ultimGoods = JSON.parse(JSON.stringify(this.currentGoods))
+        _self.addCarts(ultimGoods)
+        _self.msg = '加入购物车成功'
+      } else {
+        console.log(JSON.stringify(_self.carts[0]))
+        console.log('内部' + _self.carts[0].goodsNum)
+        for (let i = 0; i < this.carts.length; i++) {
+          if (_self.carts[i].goods_id === goodsID) {
+            let curgoodsNum = _self.carts[i].goodsNum
+            curgoodsNum += goodsNum
+            if (curgoodsNum > _self.carts[i].buy_limit) {
+              _self.msg = '购买数量超过限制'
+            } else {
+              _self.msg = '加入购物车成功'
+              _self.addCartsNum({
+                index: i,
+                num: goodsNum
+              })
+            }
+          }
+        }
+      }
       this.$tip({
         duration: 1000,
-        message: '加入购物车成功'
+        message: this.msg
       })
     }
+  },
+  computed: {
+    ...mapState([
+      'carts'
+      // vuex映射
+    ])
   },
   watch: {
     isShow () {
@@ -210,6 +259,11 @@ export default {
     },
     show () {
       this.isShow = this.show
+    },
+    watch: {
+      carts: {
+        deep: true
+      }
     }
   },
   components: {

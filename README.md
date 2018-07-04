@@ -41,9 +41,9 @@
 
 部分效果截图
 首页效果
-！[12](https://bolg-1.oss-cn-hangzhou.aliyuncs.com/18.07.01.01.gif)
+![12](https://bolg-1.oss-cn-hangzhou.aliyuncs.com/18.07.01.01.gif)
 列表联动
-！[13](https://bolg-1.oss-cn-hangzhou.aliyuncs.com/18.07.01.02.gif)
+![13](https://bolg-1.oss-cn-hangzhou.aliyuncs.com/18.07.01.02.gif)
  城市列表
 ![14](https://bolg-1.oss-cn-hangzhou.aliyuncs.com/18.04.22.2.gif)
 sku选择

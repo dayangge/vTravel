@@ -83,7 +83,6 @@
 <script>
 import upSlide from '../../../common/upSlide/upSlide'
 import {to, getScrollTop} from '../../../common/js/util'
-import modal from '../../../common/modal/modal'
 import {mapState, mapMutations} from 'vuex'
 
 import axios from 'axios'
@@ -259,16 +258,10 @@ export default {
     },
     show () {
       this.isShow = this.show
-    },
-    watch: {
-      carts: {
-        deep: true
-      }
     }
   },
   components: {
-    upSlide,
-    modal
+    upSlide
   }
 }
 </script>

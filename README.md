@@ -40,13 +40,21 @@
 ![11](https://bolg-1.oss-cn-hangzhou.aliyuncs.com/18.06.29.11.png)</br>
 
 部分效果截图</br>
+
 首页效果</br>
+
 ![12](https://bolg-1.oss-cn-hangzhou.aliyuncs.com/18.07.01.01.gif)</br>
+
 列表联动</br>
+
 ![13](https://bolg-1.oss-cn-hangzhou.aliyuncs.com/18.07.01.02.gif)</br>
+
  城市列表</br>
+ 
 ![14](https://bolg-1.oss-cn-hangzhou.aliyuncs.com/18.04.22.2.gif)</br>
+
 sku选择</br>
+
 ![15](https://bolg-1.oss-cn-hangzhou.aliyuncs.com/18.06.29.13.gif)</br>
 
 

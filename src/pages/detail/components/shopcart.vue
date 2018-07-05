@@ -5,9 +5,9 @@
         <a href="/" class="footer-btn router-link-active">
           <i class="icon-home"></i>
           <span >首页</span></a>
-        <a class="footer-btn">
+        <router-link to="/cart" class="footer-btn">
           <i class="icon-cart"></i>
-          <span >购物车</span></a>
+          <span >购物车</span></router-link>
         <div class="action-box" @click="add">
           <a class="buy">加入购物车</a>
         </div>

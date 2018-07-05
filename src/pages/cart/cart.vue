@@ -6,12 +6,12 @@
       <ol>
         <li  class="item" v-for="(item, index) of carts" :key="index">
           <div  class="goods-info">
-            <div  class="choose"></div>
+            <div  class="choose" :class="{'on':item.checked === 1}" @click="selectGoods(index)"></div>
             <a  class="imgProduct">
               <img :src="item.img_url">
             </a>
-            <div  class="info flex">
-              <p  class="name"><span class="flex">{{item.name}}</span>
+            <div  class="info">
+              <p  class="name"><span>{{item.name}}</span>
             </p>
               <div  class="price"><span >售价：</span><span >{{item.price}}元</span>
                 </div>
@@ -26,7 +26,7 @@
                   ><i class="image-icons icon-cross" :class="{'on':item.goodsNum < item.buy_limit}" ></i>
                   </div>
                 </div>
-                <div  class="delete"><i  class="image-icons icon-delete"></i></div>
+                <div  class="delete" @click="del(index)"><i class="del-icon"></i></div>
               </div>
             </div>
           </div>
@@ -46,11 +46,11 @@
       <div  class="price-box">
         <span >共4件 金额：</span>
         <br >
-        <strong >3597</strong>
+        <strong >{{totalPrice}}</strong>
         <span >元</span>
       </div>
       <router-link  to="/classify" class="bottom-goon">继续购物</router-link>
-      <a  class="bottom-settlement" data-stat-id="045289e7822f192d">去结算</a>
+      <a  class="bottom-settlement" @click='settlement'>去结算</a>
     </div>
   </div>
 </template>
@@ -63,16 +63,43 @@ export default {
   name: 'cart',
   data () {
     return {
-      qx: false
+      qx: false,
+      order: []
     }
   },
   computed: {
     ...mapState([
       'carts'
       // vuex映射
-    ])
+    ]),
+    totalPrice () {
+      let total = 0
+      for (let i = 0; i < this.carts.length; i++) {
+        total += this.carts[i].price * this.carts[i].goodsNum * this.carts[i].checked
+      }
+      return total
+    }
   },
   methods: {
+    settlement () {
+      this.settlement()
+    },
+    del (index) {
+      this.delGoods(index)
+    },
+    selectGoods (index) {
+      if (this.carts[index].checked === 1) {
+        this.modifyChecked({
+          index,
+          num: 0
+        })
+      } else {
+        this.modifyChecked({
+          index,
+          num: 1
+        })
+      }
+    },
     addPurchaseNum (index) {
       if (this.carts[index].goodsNum >= this.carts[index].buy_limit) {
       } else {
@@ -94,7 +121,9 @@ export default {
     ...mapMutations({
       delGoods: 'DEL_CARTS',
       addGoodsNum: 'ADD_CARTS_NUM',
-      reduceGoodsNum: 'REDUCE_CARTS_NUM'
+      reduceGoodsNum: 'REDUCE_CARTS_NUM',
+      modifyChecked: 'MODIFY_CHECKED',
+      settlement: 'SETTLEMENT'
     })
     // this.$store.commit('changeCity', city)映射到changeCity上
   },
@@ -144,6 +173,7 @@ export default {
             height: 1.8rem;
             &.on
               background: url(//s1.mi.com/m/images/m/check_press.png) 50% 50% no-repeat;
+              background-size: .4rem .4rem;
           .imgProduct
             flex: none;
             display: block;
@@ -237,6 +267,22 @@ export default {
                     top: 0
                     &.on
                       opacity 1
+              .delete
+                float right
+                margin-right: .2rem
+                position relative
+                display: block;
+                width: 0.6rem;
+                height: 0.6rem;
+                .del-icon
+                  position: absolute
+                  width: .6rem;
+                  height: .6rem;
+                  background-color: transparent;
+                  background-repeat: no-repeat;
+                  background-position: 50%;
+                  background-size: cover;
+                  background-image: url('../../../static/img/del.png');
         .append
           flex 1
           .insurance

@@ -8,10 +8,6 @@ try {
 export default {
   city: defaultcity,
   currentPageIndex: 1,
-  article: localStorage['article'] ? JSON.parse(localStorage['article']) : [],
-  collections: localStorage['collections'] ? JSON.parse(localStorage['collections']) : [],
-  carts: [],
-  orders: localStorage['orders'] ? JSON.parse(localStorage['orders']) : [],
-  todos: localStorage['todos'] ? JSON.parse(localStorage['todos']) : [],
+  carts: localStorage['carts'] ? JSON.parse(localStorage['carts']) : [],
   address: localStorage['address'] ? JSON.parse(localStorage['address']) : []
 }

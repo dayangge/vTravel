@@ -134,7 +134,7 @@ export default {
         const data = res.data
         for (let i = 0; i < data.goods_info.length; i++) {
           // data.goods_info[i].goodsNum = 0
-          data.goods_info[i] = { ...data.goods_info[i], goodsNum: 0 }
+          data.goods_info[i] = { ...data.goods_info[i], goodsNum: 0, checked: 1 }
         }
         this.goodsInfo = data.goods_info
         this.goodsBuyOption1 = data.buy_option[0].list
@@ -231,7 +231,7 @@ export default {
         }
       }
       this.$tip({
-        duration: 1000,
+        duration: 500,
         message: this.msg
       })
     }

@@ -49,13 +49,17 @@
 
 ![13](https://bolg-1.oss-cn-hangzhou.aliyuncs.com/18.07.01.02.gif)</br>
 
- 城市列表</br>
+城市列表</br>
  
 ![14](https://bolg-1.oss-cn-hangzhou.aliyuncs.com/18.04.22.2.gif)</br>
 
 sku选择</br>
 
 ![15](https://bolg-1.oss-cn-hangzhou.aliyuncs.com/18.06.29.13.gif)</br>
+
+购物车页面</br>
+
+![16](https://bolg-1.oss-cn-hangzhou.aliyuncs.com/18.07.01.03.gif)</br>
 
 
 

@@ -39,14 +39,14 @@
 
 ![11](https://bolg-1.oss-cn-hangzhou.aliyuncs.com/18.06.29.11.png)</br>
 
-部分效果截图
-首页效果
-![12](https://bolg-1.oss-cn-hangzhou.aliyuncs.com/18.07.01.01.gif)
-列表联动
-![13](https://bolg-1.oss-cn-hangzhou.aliyuncs.com/18.07.01.02.gif)
- 城市列表
-![14](https://bolg-1.oss-cn-hangzhou.aliyuncs.com/18.04.22.2.gif)
-sku选择
+部分效果截图</br>
+首页效果</br>
+![12](https://bolg-1.oss-cn-hangzhou.aliyuncs.com/18.07.01.01.gif)</br>
+列表联动</br>
+![13](https://bolg-1.oss-cn-hangzhou.aliyuncs.com/18.07.01.02.gif)</br>
+ 城市列表</br>
+![14](https://bolg-1.oss-cn-hangzhou.aliyuncs.com/18.04.22.2.gif)</br>
+sku选择</br>
 ![15](https://bolg-1.oss-cn-hangzhou.aliyuncs.com/18.06.29.13.gif)</br>
 
 
@@ -61,6 +61,7 @@ sku选择
 [Vue.js 使用 $refs 定位 DOM 出现 undefined](https://www.jianshu.com/p/090937a480b5)</br>
 [借助axios的拦截器实现Vue.js中登陆状态校验的思路](http://www.imooc.com/article/25167)</br>
 [从概念到实际项目__vuex指北](https://juejin.im/post/5b2fbb47e51d45589e7bd727)
+[Vue 项目里戳中你痛点的问题及解决办法](https://juejin.im/post/5b174de8f265da6e410e0b4e)
 
 ### 布局
 [flex布局](http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html)

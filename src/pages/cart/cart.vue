@@ -17,13 +17,13 @@
                 </div>
               <div  class="num">
                 <div class="xm-input-number">
-                  <div class="input-sub" @click="reducePurchaseNum"
-                       :class="{'active':purchaseNum > 1}"
-                  ><i class="icon-line" :class="{'on':purchaseNum > 1}"></i></div>
+                  <div class="input-sub" @click="reducePurchaseNum(index)"
+                       :class="{'active':item.goodsNum > 1}"
+                  ><i class="icon-line" :class="{'on':item.goodsNum > 1}"></i></div>
                   <div class="input-num"><span>{{item.goodsNum}}</span></div>
-                  <div class="input-add"  @click="addPurchaseNum"
-                       :class="{'active':purchaseNum < limitNum}"
-                  ><i class="image-icons icon-cross" :class="{'on':purchaseNum < limitNum}" ></i>
+                  <div class="input-add"  @click="addPurchaseNum(index)"
+                       :class="{'active':item.goodsNum < item.buy_limit}"
+                  ><i class="image-icons icon-cross" :class="{'on':item.goodsNum < item.buy_limit}" ></i>
                   </div>
                 </div>
                 <div  class="delete"><i  class="image-icons icon-delete"></i></div>
@@ -34,8 +34,7 @@
           <div  class="append">
             <div >
               <div  class="insurance">
-                <div  class="i1"><img  src="//s1.mi.com/m/images/m/insurance.png"
-                                                        lazy="loaded"></div>
+                <div  class="i1"><img  src="//s1.mi.com/m/images/m/insurance.png"></div>
                 <div  class="i2"><span > 意外保障服务 69元</span></div>
                 <div  class="i3"><span >选购</span></div>
               </div>
@@ -43,7 +42,16 @@
         </li>
       </ol>
     </div>
-    <c-footer></c-footer>
+    <div  class="bottom-submit">
+      <div  class="price-box">
+        <span >共4件 金额：</span>
+        <br >
+        <strong >3597</strong>
+        <span >元</span>
+      </div>
+      <router-link  to="/classify" class="bottom-goon">继续购物</router-link>
+      <a  class="bottom-settlement" data-stat-id="045289e7822f192d">去结算</a>
+    </div>
   </div>
 </template>
 <script>
@@ -65,18 +73,22 @@ export default {
     ])
   },
   methods: {
-    addPurchaseNum () {
-      if (this.purchaseNum >= this.limitNum) {
-        this.purchaseNum = this.limitNum
+    addPurchaseNum (index) {
+      if (this.carts[index].goodsNum >= this.carts[index].buy_limit) {
       } else {
-        this.purchaseNum += 1
+        this.addGoodsNum({
+          index: index,
+          num: 1
+        })
       }
     },
-    reducePurchaseNum () {
-      if (this.purchaseNum) {
-        this.purchaseNum = 1
+    reducePurchaseNum (index) {
+      if (this.carts[index].goodsNum === 1) {
       } else {
-        this.purchaseNum = 1
+        this.reduceGoodsNum({
+          index: index,
+          num: 1
+        })
       }
     },
     ...mapMutations({
@@ -130,6 +142,8 @@ export default {
             width: .6rem;
             padding: 0 .2rem;
             height: 1.8rem;
+            &.on
+              background: url(//s1.mi.com/m/images/m/check_press.png) 50% 50% no-repeat;
           .imgProduct
             flex: none;
             display: block;
@@ -262,4 +276,47 @@ export default {
               align-items: center;
               width: .75rem;
               color: #ff5722;
+    .bottom-submit
+      position: fixed;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      background: #fff;
+      z-index: 99;
+      box-shadow: 0 3px 14px 2px rgba(0,0,0,.12);
+      display: flex;
+      .price-box
+        font-size: .26rem;
+        color: #999;
+        text-align: center;
+        padding-top: .15rem;
+        flex 1
+        strong
+          font-size: .4rem;
+          color: #ff5722;
+          margin-right: .2em;
+          font-weight: 700;
+      .bottom-goon
+        background: #f4f4f4;
+        border: 1px solid #f4f4f4;
+        color: #333;
+        display: block;
+        outline: 0;
+        text-align: center;
+        width: 100%;
+        height: 1rem;
+        line-height: 1rem;
+        font-size: .28rem;
+        flex 1;
+      .bottom-settlement
+        display: block;
+        outline: 0;
+        background: #ff6700;
+        color: #fff;
+        text-align: center;
+        width: 100%;
+        height: 1rem;
+        line-height: 1rem;
+        font-size: .28rem;
+        flex 1
 </style>
